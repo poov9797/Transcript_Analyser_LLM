@@ -10,13 +10,13 @@ tz = ZoneInfo("Europe/Berlin")
 def get_db_connection():
     print(os.getenv("POSTGRES_HOST", "localhost"))
     print(os.getenv("POSTGRES_PORT","5432"))
-    print(os.getenv("POSTGRES_DB", "course_assistant"))
+    print(os.getenv("POSTGRES_DB", "transcript_analyser"))
     print(os.getenv("POSTGRES_USER", "your_username"))
     print(os.getenv("POSTGRES_PASSWORD", "your_password"))
     return psycopg2.connect(
         host=os.getenv("POSTGRES_HOST", "localhost"),
         port=os.getenv("POSTGRES_PORT","5432"),
-        database=os.getenv("POSTGRES_DB", "course_assistant"),
+        database=os.getenv("POSTGRES_DB", "transcript_analyser"),
         user=os.getenv("POSTGRES_USER", "your_username"),
         password=os.getenv("POSTGRES_PASSWORD", "your_password"),
     )
