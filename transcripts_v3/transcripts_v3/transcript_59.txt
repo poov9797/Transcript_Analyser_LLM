@@ -1,0 +1,39 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson, and my member ID is MEM456789.
+
+PA Agent: Thank you for calling PA Customer Care, Emily. Can you please confirm your date of birth for verification purposes?
+
+Member: It's 02/12/1985.
+
+PA Agent: Thank you, Emily. Can you please provide me with some details about the case you're looking to get pre-authorized? What's the procedure or service you're seeking pre-authorization for?
+
+Member: I need to get approval for an MRI scan for my knee. I've been experiencing some pain and my doctor recommends I get an MRI to determine the cause.
+
+PA Agent: I see. Can you please provide me with your doctor's name and the name of the facility where the MRI is scheduled to take place?
+
+Member: My doctor's name is Dr. Smith, and the MRI is scheduled at Mercy Hospital.
+
+PA Agent: Thank you, Emily. I'm going to check on your eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Okay, sure.
+
+PA Agent: Emily, I've checked on your eligibility, and it looks like you do have coverage for MRI scans. However, I need to inform you that there may be some additional documentation required for pre-authorization. Can you please confirm your address so I can send the necessary paperwork to you?
+
+Member: My address is 123 Main St, Anytown, USA 12345.
+
+PA Agent: Thank you, Emily. I'm going to go ahead and send the necessary paperwork to you. However, I do need to inform you that the pre-authorization decision may take some time. We'll need to review the additional documentation before we can make a decision.
+
+Member: Okay, how long will that take?
+
+PA Agent: It typically takes 3-5 business days for us to review the documentation and make a decision. We'll be in touch with you once a decision has been made.
+
+Member: Okay, thank you. Is there anything else I need to do in the meantime?
+
+PA Agent: No, Emily, that's all for now. We'll be in touch soon. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+Member: Okay, thank you.
+
+PA Agent: You're welcome, Emily. Have a great day.
+
+Member: You too, bye.
+
+PA Agent: Bye.

@@ -1,0 +1,15 @@
+Member: Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM456789.
+Technical Support: Sorry to hear that, MEM456789. Can you tell me more about the issue you're experiencing? What error message are you getting?
+Member: Well, when I try to register, it says my email address is already in use, but I'm sure I've never registered before. And when I try to log in, it says my password is incorrect, but I'm sure I'm entering the correct one.
+Technical Support: Okay, let's try a few things. Can you please try resetting your password? Sometimes that resolves the issue.
+Member: Okay, I'll try that. (pause) Okay, I've tried resetting my password, but it's still not working.
+Technical Support: Alright, let me check on our end. Can you please confirm your email address associated with your account?
+Member: It's jsmith@email.com.
+Technical Support: Okay, I've checked and it looks like there was a duplicate account created with that email address. I'm going to go ahead and merge the accounts for you.
+Member: Okay, that makes sense. But will that affect my login credentials?
+Technical Support: No, it shouldn't. But to be safe, let's try resetting your password again after I merge the accounts. (pause) Okay, I've merged the accounts. Can you please try resetting your password again?
+Member: Okay... (pause) Yes, that seems to have worked! I'm able to log in now.
+Technical Support: Great! I'm glad we were able to resolve the issue. Is there anything else I can assist you with today?
+Member: No, that's all. Thank you for your help!
+Technical Support: You're welcome, MEM456789. Have a great day!
+Member: You too, thank you!

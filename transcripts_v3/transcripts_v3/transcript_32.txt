@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about my recent copay for a doctor's visit. I was charged $50, but my policy says it should be $20 or maybe even no copay at all. Can you help me figure out what's going on?
+
+Customer Support: I'd be happy to help you with that, Mr. Johnson. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. Can you tell me more about the service you received and the date of the visit?
+
+Member: It was a routine check-up with my primary care physician on February 10th.
+
+Customer Support: Okay, let me check on that. (pause) Ah, yes. I see the claim here. It looks like the copay was processed correctly according to our system.
+
+Member: But that's not what my policy says. I'm pretty sure it's supposed to be $20 or no copay.
+
+Customer Support: I understand your concern, Mr. Johnson. However, our system is showing that the copay was applied correctly. Can you please fax or email me a copy of your policy so I can review it further?
+
+Member: Okay, I'll send it over. But can you at least waive the extra $30 I was charged?
+
+Customer Support: I'd be happy to review it once I receive the policy, Mr. Johnson. However, I need to inform you that without further investigation, I won't be able to make any adjustments to the copay at this time.
+
+Member: Okay, fine. I'll send over the policy. But can you at least give me a timeline of when this will be resolved?
+
+Customer Support: I'd say it'll take around 3-5 business days for me to review the policy and get back to you. If everything checks out, we can discuss possible reimbursement.
+
+Member: Okay, I guess that's all I can ask for. Thank you for your help.
+
+Customer Support: You're welcome, Mr. Johnson. If you have any further questions or concerns, feel free to reach out to us. We'll be in touch soon.
+
+Member: Alright, thanks.
+
+Customer Support: Have a great day, Mr. Johnson.
+
+Member: You too.
+
+Customer Support: (to themselves) I'm going to go ahead and document this conversation and update the case... (pause) Okay, that's done. Case updated.

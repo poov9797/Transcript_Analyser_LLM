@@ -1,0 +1,27 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for calling, Emily. Can you please confirm your date of birth and the type of specialist you're looking to see?
+
+Member: My date of birth is March 12, 1985, and I'm looking to see an orthopedic specialist.
+
+Customer Support: Okay, thank you. What dates were you thinking of for the appointment? Are you available this week or next?
+
+Member: I'm available this week, preferably Wednesday or Thursday.
+
+Customer Support: Let me check the availability of our orthopedic specialists. (pause) Okay, it looks like Dr. Smith is available on Wednesday at 2 PM. Would you like me to schedule that appointment for you?
+
+Member: That sounds good. Can you tell me a bit more about Dr. Smith's qualifications?
+
+Customer Support: Dr. Smith is a board-certified orthopedic surgeon with over 10 years of experience. He specializes in joint replacement and sports medicine. (pause) Would you like me to schedule the appointment with him?
+
+Member: Yes, please go ahead and schedule it.
+
+Customer Support: Okay, the appointment is scheduled for this Wednesday at 2 PM with Dr. Smith. You will receive a confirmation email with the details. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, Emily. We'll follow up with you after your appointment to ensure everything went smoothly. Have a great day.
+
+Member: Thank you. Bye.
+
+Customer Support: Bye.

@@ -1,0 +1,27 @@
+Member: Hi, I'm calling about a claim that was denied. I received a letter saying it was because my policy doesn't cover the service, but I had switched to a new policy that does cover it. My member ID is MEM123456. 
+
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please confirm your date of birth and the date of service so I can look into this further?
+
+Member: My date of birth is 02/12/1985, and the date of service was 03/10/2023.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. It appears that your new policy information hasn't been updated in our system yet. This is likely why your claim was denied.
+
+Member: That makes sense, I guess. I did switch policies about a month ago. Is there anything that can be done to fix this?
+
+Customer Support: Absolutely, Mr. Johnson. I'm going to go ahead and connect you with our updates team to get your policy information updated in the system. Once that's done, I'll have them re-process your claim.
+
+Member: Okay, that sounds good. How long will that take?
+
+Customer Support: It should only take a few minutes. I'm going to put you on a brief hold while I connect with the updates team.
+
+Member: Alright, thank you.
+
+Customer Support: Thank you for holding, Mr. Johnson. I've spoken with the updates team, and they've updated your policy information in the system. They're going to go ahead and re-process your claim, and you should receive an update within the next 24 hours.
+
+Member: Great, thank you so much for your help.
+
+Customer Support: You're welcome, Mr. Johnson. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Mr. Johnson.

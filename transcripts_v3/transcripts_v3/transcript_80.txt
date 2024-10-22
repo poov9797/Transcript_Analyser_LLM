@@ -1,0 +1,43 @@
+Member: Hi, I'm calling about issues I'm having with registering and logging in to my online service account. My member ID is MEM123456.
+
+Technical Support: Hi there, sorry to hear that you're having trouble. Can you tell me more about the issue you're experiencing? What happens when you try to log in?
+
+Member: Well, I've tried registering multiple times, but it keeps saying that my email is already in use. But when I try to log in, it says that my password is incorrect.
+
+Technical Support: I see. Let's try to troubleshoot this. Can you try clearing your browser cache and cookies, and then attempt to register again? Sometimes, this can resolve the issue.
+
+Member: Okay, I'll try that. (pause) Okay, I've cleared the cache and cookies. Let me try again. (pause) Nope, still getting the same error message.
+
+Technical Support: Alright, that helps to rule out one possibility. Can you tell me what email address you're trying to use for registration?
+
+Member: It's johndoe@email.com.
+
+Technical Support: Okay, I'm going to check on our end to see if there's an issue with your account. (pause) Hmm, I'm not seeing any issues on our end. Can you try resetting your password and then trying to log in again?
+
+Member: Okay... (pause) Still not working.
+
+Technical Support: Okay, let's try one more thing. Can you try logging in using a different browser or device to see if the issue is specific to your current setup?
+
+Member: Okay... (pause) Yeah, I'm still getting the same error message.
+
+Technical Support: I apologize that we haven't been able to resolve the issue yet. I'm going to go ahead and escalate this to our advanced technical team to take a closer look. Can you please hold for just a moment while I transfer the call?
+
+Member: Okay, thank you for trying to help me.
+
+Technical Support: You're welcome, I apologize again for the inconvenience. I'll go ahead and transfer the call now.
+
+Member: Okay... (pause) 
+
+Technical Support: Hi again, I've transferred the call to our advanced technical team. They'll be happy to assist you further. Please hold for just a moment.
+
+Member: Okay... 
+
+Technical Support: Hi, this is the advanced technical team. We're going to take a closer look at your issue. Can you please confirm your member ID again?
+
+Member: It's MEM123456.
+
+Technical Support: Okay, thank you. We'll do our best to resolve the issue as soon as possible. Please hold for just a moment.
+
+Member: Okay...
+
+(The call continues, but the issue remains unresolved)

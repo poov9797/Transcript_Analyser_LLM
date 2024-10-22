@@ -1,0 +1,37 @@
+Member: Hi, I'm calling about a denied claim I received recently. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, sorry to hear that your claim was denied. Can you please tell me more about the claim and why you think it was denied incorrectly?
+
+Member: Yes, of course. I had a medical procedure done and I submitted a claim for it, but it was denied because the policy doesn't cover that service. However, I had switched to a new policy a few months ago and I'm pretty sure that this new policy does cover that service.
+
+Customer Support: I understand. Can you please confirm your new policy details with me so I can look into this further?
+
+Member: Yes, my new policy is effective from January 1st of this year.
+
+Customer Support: Okay, thank you for confirming that. I'm going to check on this real quick. (pause) Ah, I think I see the issue. It looks like your new policy hasn't been updated in our system, which is why the claim was denied.
+
+Member: That makes sense, I guess. So what can be done to resolve this?
+
+Customer Support: I'm going to go ahead and connect you with our Claims Review team. They'll be able to review your claim again and make the necessary adjustments to get it approved.
+
+Member: Okay, that sounds great. How long will that take?
+
+Customer Support: It should only take a few minutes. I'm going to transfer you now. Please hold for just a moment.
+
+(Member holds for 2 minutes)
+
+Customer Support: Hi Emily, I'm back on the line. I've spoken with the Claims Review team and they've approved your claim. You should receive an update on the status within the next 24 hours.
+
+Member: That's great, thank you so much for your help!
+
+Customer Support: You're welcome, Emily. I apologize again for the mistake and any inconvenience it may have caused. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+ Member: You too, bye.
+
+Customer Support: Bye.
+
+ Duration: 9 minutes

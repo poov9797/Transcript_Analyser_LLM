@@ -1,0 +1,35 @@
+Member: Hello, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth and the phone number associated with your account for verification purposes?
+
+Member: My date of birth is 02/12/1990 and my phone number is 555-123-4567.
+
+PA Agent: Thank you, Emily. I've located your account. Can you please provide me with the details of the case you're seeking pre-authorization for? What type of treatment or service are you looking to receive?
+
+Member: I need to get an MRI done for my knee injury. My doctor's office is going to send over the request, but I wanted to call ahead to get it pre-authorized.
+
+PA Agent: I see. Can you please provide me with the name of your doctor and the facility where you're scheduled to have the MRI done?
+
+Member: My doctor's name is Dr. Smith and the facility is Springdale Imaging Center.
+
+PA Agent: Thank you, Emily. I'm going to check on the eligibility for this service. (pause) Okay, I've checked and it looks like you have coverage for MRI services. However, I need to check on the specific details of your plan to see if there are any additional requirements or limitations.
+
+Member: Okay, that sounds good. I just want to make sure everything is taken care of before I go in for the procedure.
+
+PA Agent: Absolutely, Emily. (pause) Okay, I've checked on the plan details and it looks like we need to obtain some additional information from your doctor's office before we can provide a final decision on pre-authorization.
+
+Member: Okay, what kind of information do they need to provide?
+
+PA Agent: We need to receive the medical records and a detailed treatment plan from your doctor's office. They can fax that over to us at 555-901-2345.
+
+Member: Okay, I'll let them know. How long will it take to get a decision once you receive the information?
+
+PA Agent: Typically, it takes 3-5 business days to review the information and make a decision. We'll send you a letter in the mail with the outcome.
+
+Member: Okay, that sounds good. Is there anything else I need to do in the meantime?
+
+PA Agent: No, Emily, that's all for now. We'll take care of the rest. We'll be in touch with your doctor's office to obtain the necessary information. If you have any further questions or concerns, feel free to give us a call back.
+
+Member: Okay, sounds good. Thank you for your help.
+
+PA Agent: You're welcome, Emily. Have a great day.

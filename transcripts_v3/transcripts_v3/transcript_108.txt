@@ -1,0 +1,35 @@
+Member: Hi, I'm calling to get a case pre-authorized for a surgery I need. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Thank you for calling, Ms. Wilson. Can you please confirm your date of birth and the name of your primary care physician?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.
+
+PA Agent: Thank you. Can you please tell me a little bit more about the surgery you're needing and why it's required?
+
+Member: Yeah... I've been experiencing some back pain and my doctor says I need a herniated disc surgery. I've already had an MRI and everything.
+
+PA Agent: I see. And have you had any previous surgeries or health issues that might be relevant to this case?
+
+Member: (sighs) Look, can we just get to the point? I need to get this pre-authorization done so I can schedule the surgery. Can you just tell me if it's going to be covered or not?
+
+PA Agent: I apologize, Ms. Wilson, but I need to ask these questions to ensure that we're making an informed decision about your care. Can you please just bear with me for a few more minutes?
+
+Member: (frustrated) Fine. Yes, I've had a few surgeries in the past, okay? And I have some pre-existing conditions. Can we move on now?
+
+PA Agent: Okay... thank you for sharing that information. Let me just check a few things in our system... (pause) Okay, it looks like we may need some additional information from your doctor before we can make a decision on this case.
+
+Member: (angrily) What do you mean? I've already given you all the information you need. This is ridiculous.
+
+PA Agent: I apologize, Ms. Wilson, but we need to follow our protocols to ensure that we're making the best decision possible for your care. I'm going to need to send a request to your doctor for some additional information...
+
+Member: (interrupting) Unbelievable. How long is this going to take?
+
+PA Agent: I apologize, but I don't have a specific timeframe for when we'll be able to make a decision. We'll be in touch with you once we receive the additional information from your doctor.
+
+Member: (angrily) This is ridiculous. I'm going to have to call back next week to follow up on this, aren't I?
+
+PA Agent: (calmly) Yes, Ms. Wilson, it's likely that we'll need to follow up on this case next week. I apologize for any inconvenience this may cause.
+
+Member: (angrily) Inconvenience? You have no idea... (hangs up the phone)
+
+PA Agent: (to herself) Well, that was a difficult call...

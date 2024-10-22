@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I'm certain my policy says I shouldn't have to pay anything for that service.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please confirm your name and date of birth so I can look into this further?
+
+Member: My name is Emily Wilson, and my date of birth is March 12, 1985.
+
+Customer Support: Thank you, Emily. I've located your account. Can you please tell me more about the service you received and the date of the visit?
+
+Member: It was on February 10th, and I had a routine check-up.
+
+Customer Support: Okay, let me check on that. (pause) I see that you did have a visit on February 10th, and according to our records, the copay for that service should be $20, not $50.
+
+Member: That's what I thought. But I was charged $50. Can you help me get that corrected?
+
+Customer Support: I'd be happy to help you, Emily. It looks like there might have been an error on the provider's end. I'm going to go ahead and submit a request to have the copay adjusted to the correct amount.
+
+Member: Okay, that sounds great. How long will it take to process?
+
+Customer Support: It usually takes around 7-10 business days for the adjustment to be processed. You should receive a refund for the overpayment within that timeframe.
+
+Member: Alright, that sounds good. Can you also confirm that my policy does indeed cover that service with no copay or a lower copay?
+
+Customer Support: Yes, according to your policy details, the service you received is covered with a $0 copay. I apologize again for the mistake and any inconvenience it may have caused.
+
+Member: Okay, thank you for clarifying that. And can you also provide me with a reference number for this issue?
+
+Customer Support: The reference number for this case is #20230210-001. If you have any further questions or concerns, you can refer to this number.
+
+Member: Alright, thank you so much for your help. I appreciate it.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Emily.

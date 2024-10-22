@@ -1,0 +1,37 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for calling. Can you please tell me what type of specialist you're looking to see and what date you're looking for?
+
+Member: I'm looking for a dermatologist and I was thinking maybe next Wednesday or Thursday. Do you have any availability?
+
+Customer Support: Let me check the schedule for you. (pause) Okay, I see that we have a few options for next Wednesday and Thursday. Can you please tell me a little bit about what you're looking to see the dermatologist for? Is it for a specific condition or just a routine check-up?
+
+Member: I've been having some issues with acne and I just want to get it checked out.
+
+Customer Support: Okay, got it. Based on your condition, I would recommend seeing Dr. Smith. She's one of our top specialists in dermatology and has a lot of experience with acne treatment. Would you like me to schedule an appointment with her for next Wednesday or Thursday?
+
+Member: That sounds great, but can I also see the availability for Dr. Johnson? I've heard good things about him too.
+
+Customer Support: Let me check Dr. Johnson's schedule. (pause) Okay, it looks like Dr. Johnson has an opening on Thursday at 2 PM. However, I want to let you know that Dr. Smith has an opening on Wednesday at 10 AM and also on Thursday at 3 PM.
+
+Member: Hmm, I'm not sure. Can you tell me a little bit more about Dr. Johnson's experience with acne treatment?
+
+Customer Support: Certainly. Dr. Johnson is also a highly experienced dermatologist, but his specialty is more focused on surgical procedures. He does treat acne, but not as frequently as Dr. Smith.
+
+Member: Okay, I think I'd like to go with Dr. Smith then. Can you schedule the appointment for me?
+
+Customer Support: I'd be happy to schedule the appointment for you. However, I need to let you know that we have a 24-hour cancellation policy. If you need to cancel or reschedule, please let us know at least 24 hours in advance to avoid any fees.
+
+Member: That sounds good. What time was the appointment again?
+
+Customer Support: The appointment with Dr. Smith is scheduled for next Wednesday at 10 AM.
+
+Member: Great, thank you so much for your help.
+
+Customer Support: You're welcome, Emily. We'll send you a confirmation email with all the details. If you have any other questions or need to make any changes, feel free to give us a call.
+
+Member: Sounds good, thanks again.
+
+Customer Support: You're welcome. Have a great day.
+
+Member: You too.

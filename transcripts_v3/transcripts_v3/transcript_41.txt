@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent copay for a doctor's visit. I was charged $50, but my policy says I shouldn't have to pay anything for a primary care visit.
+
+Customer Support: I'd be happy to help you with that, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr... (pause) ...I'm checking on the details of your policy. Can you tell me more about the service you received and when you received it?
+
+Member: It was a routine check-up with my primary care physician on February 10th.
+
+Customer Support: Okay, I've located the claim. It looks like the copay was processed at $50. However, I do see that your policy typically covers primary care visits with no copay. I'm going to go ahead and review this further to see why the copay was applied.
+
+Member: That's what I thought. I've been with this insurance company for years, and I've never had to pay for a primary care visit before.
+
+Customer Support: I apologize for the inconvenience. I'm checking on the claim processing... (pause) ...it looks like there might have been an error on our part. I'm going to go ahead and process a refund for the $50 copay.
+
+Member: That's great, thank you. How long will it take for the refund to be processed?
+
+Customer Support: The refund will be processed within the next 3-5 business days. You should receive the credit back on your card within that timeframe.
+
+Member: Okay, that sounds good. And just to confirm, I won't have to pay the copay for any future primary care visits, correct?
+
+Customer Support: That's correct, Mr. MEM123456. Your policy covers primary care visits with no copay, and we've corrected the error on our end to ensure this won't happen again in the future.
+
+Member: Alright, thank you for your help. I appreciate it.
+
+Customer Support: You're welcome, Mr. MEM123456. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day.

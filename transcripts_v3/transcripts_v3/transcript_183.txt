@@ -1,0 +1,37 @@
+Member: Hi, I'm calling about a denied claim I received for my recent medical service. I don't understand why it was denied when I've been paying my premiums on time.
+
+Customer Support: I apologize for the frustration, MEM123456. Can you please provide me with the claim number so I can look into this further?
+
+Member: It's #CLM789012. I've already checked my policy and it says that the service is covered.
+
+Customer Support: Thank you for providing that information. Let me just check on the status of your claim. (pause) I apologize, but it looks like your claim was denied because your policy does not cover this specific service.
+
+Member: That's not possible. I switched to a new policy a few months ago and the new policy does cover this service. I have the documents right here.
+
+Customer Support: I apologize for the mistake. Let me check on your policy details. (pause) I see the issue here. Your new policy has not been updated in our system, which is why the claim was denied.
+
+Member: Unbelievable. How could this happen? I specifically called to confirm the coverage before I switched policies.
+
+Customer Support: I apologize for the error and any inconvenience it has caused. I'm going to go ahead and connect you to our claims review team to get this resolved.
+
+Member: I hope so. This has been a huge hassle and I just want to get this taken care of.
+
+Customer Support: I completely understand, MEM123456. I'm transferring the call now. Please bear with me for just a moment.
+
+Member: (pause) Hello?
+
+Customer Support: Hi, this is John from the claims review team. I've taken a look at your claim and I apologize again for the mistake. We're going to go ahead and approve your claim.
+
+Member: Finally. Thank you. How long will it take to process the payment?
+
+Customer Support: We'll expedite the payment and you should receive reimbursement within the next 5-7 business days.
+
+Member: Okay, thank you for resolving this issue.
+
+Customer Support: You're welcome, MEM123456. We apologize again for the mistake and any inconvenience it may have caused. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day.
+
+Member: You too.

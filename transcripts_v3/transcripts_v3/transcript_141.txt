@@ -1,0 +1,27 @@
+Member: Hi, I'm calling about a denied claim I received for my recent medical service. My claim number is CLM123456. I believe it was denied in error. My name is Emily Wilson and my member ID is MEM456789.
+
+Customer Support: I apologize for the inconvenience, Emily. I'd be happy to help you with that. Can you please tell me more about the service that was denied and the reason given for the denial?
+
+Member: Yes, of course. The service was for a physical therapy session, and the reason given was that it's not covered under my policy.
+
+Customer Support: I see. Can you please confirm your policy details with me? What type of policy do you have and when did you enroll?
+
+Member: I actually recently switched to a new policy, which I thought covered physical therapy sessions. I'm not sure why it was denied. My new policy is a Platinum plan, and I switched to it last month.
+
+Customer Support: Okay, let me check on that for you. (pause) Ah, I see the issue here. It looks like your new policy hasn't been updated in our system yet, which is why the claim was denied.
+
+Member: Oh, I see. So, it's just a mistake on your end?
+
+Customer Support: Yes, exactly. I apologize for the error. I'm going to go ahead and escalate this to our claims team to get it reprocessed under your new policy. Can you please hold for just a moment while I do that?
+
+Member: Okay, thank you.
+
+Customer Support: (after a brief hold) Okay, Emily, I've connected with the claims team, and they're going to go ahead and reprocess the claim under your new policy. You should receive an update on the status of your claim within the next 24-48 hours.
+
+Member: Great, thank you so much for your help! I appreciate it.
+
+Customer Support: You're welcome, Emily. I apologize again for the mistake and any inconvenience it may have caused. If you have any further questions or concerns, please don't hesitate to reach out to us. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Emily.

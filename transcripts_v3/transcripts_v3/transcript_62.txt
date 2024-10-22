@@ -1,0 +1,12 @@
+Member: Hi, I'm calling about a denied claim I received. My member ID is MEM123456. I was told that the service I received wasn't covered under my policy, but I'm pretty sure it should be covered. 
+Customer Support: I apologize for the inconvenience, Mr./Ms./Mrs./Miss/Mx. (Last Name). Can you please provide me with the claim number so I can look into this further for you? 
+Member: It's CLM789012. 
+Customer Support: Thank you. I'm going to check on the status of your claim. (pause) I see that the claim was denied due to the service not being covered under your policy. Can you tell me a little bit more about the service you received and why you believe it should be covered? 
+Member: I had switched my policy a few months ago, and according to the new policy, the service I received should be covered. I'm not sure why it was denied. 
+Customer Support: I understand. Let me see if I can find any information about your policy change. (pause) Ah, I see the issue here. Your new policy hasn't been updated in our system, which is why the claim was denied. I'm going to go ahead and update your policy information now. 
+Member: Okay, that makes sense. How long will it take to update the information and reprocess the claim? 
+Customer Support: I'll go ahead and connect you with our claims team, and they'll take care of reprocessing the claim for you. They'll be able to give you a more accurate timeline, but it should be resolved within the next 24-48 hours. Would you like me to connect you with them now? 
+Member: Yes, please. 
+Customer Support: I'm going to transfer you to our claims team now. They'll be able to assist you further. Your claim should be approved once they reprocess it with the updated policy information. 
+Member: Thank you so much for your help! I appreciate it. 
+Customer Support: You're welcome, Mr./Ms./Mrs./Miss/Mx. (Last Name). I'm glad I could assist you. I'm going to go ahead and transfer you now.

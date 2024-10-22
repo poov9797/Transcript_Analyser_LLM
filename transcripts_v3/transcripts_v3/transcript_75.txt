@@ -1,0 +1,67 @@
+Member: Hi, I'm calling to request a case pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. I'd be happy to help you with your pre-authorization request. Can you please confirm your date of birth and the name of your primary care physician?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.
+
+PA Agent: Thank you, Emily. Can you please tell me a little bit about the procedure you're needing pre-authorization for? What type of procedure is it and when is it scheduled?
+
+Member: It's a knee replacement surgery and it's scheduled for next Thursday, March 25th.
+
+PA Agent: Okay, I've located your information in our system. Can you please confirm your insurance plan type and the name of the hospital where the procedure will be performed?
+
+Member: My plan type is the Gold Plan and the surgery will be performed at Mercy Hospital.
+
+PA Agent: Okay, Emily. I'm going to go ahead and verify your eligibility for the procedure. (pause) Okay, I've verified your eligibility and I'm happy to inform you that your plan covers this type of procedure. However, I do need to check a few more things before I can provide you with a pre-authorization decision.
+
+Member: Okay, that sounds good. I appreciate your help.
+
+PA Agent: Of course, Emily. (pause) Okay, I've checked on the necessary information and I'm happy to inform you that your case has been pre-authorized. You should receive a confirmation letter in the mail within the next few days.
+
+Member: That's great news! Thank you so much for your help. I really appreciate it.
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+PA Agent: You're welcome, Emily. Have a great day and we hope everything goes well with your surgery.
+
+Member: Thank you, you too. Bye.
+
+PA Agent: Bye, Emily.
+
+(pausing for a few seconds)
+
+PA Agent: Emily, I just wanted to follow up with you and make sure you understood the pre-authorization decision. Is there anything else you need clarification on?
+
+Member: No, I understood everything. Thank you for checking in with me.
+
+PA Agent: You're welcome, Emily. We just want to make sure our members are fully informed about their benefits. If you have any other questions or concerns in the future, don't hesitate to reach out to us.
+
+Member: Will do, thank you.
+
+PA Agent: You're welcome, Emily. Have a great day.
+
+Member: You too, bye.
+
+PA Agent: Bye, Emily.
+
+(pausing for about 30 seconds)
+
+PA Agent: Emily, I just wanted to let you know that I've sent a confirmation email to you with the details of your pre-authorization decision.
+
+Member: Okay, great. Thank you for letting me know.
+
+PA Agent: You're welcome, Emily. We just want to make sure you have all the information you need. 
+
+Member: Alright, thank you again.
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thanks.
+
+PA Agent: You're welcome, Emily. Have a great day.
+
+Member: You too, bye.
+
+PA Agent: Bye, Emily.

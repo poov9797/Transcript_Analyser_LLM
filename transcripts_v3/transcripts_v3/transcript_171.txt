@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. I'd be happy to assist you with your pre-authorization request. Can you please confirm your date of birth and the procedure you're looking to get pre-authorized?
+
+Member: My date of birth is March 12, 1985, and I'm scheduled to have a knee replacement surgery on April 15th.
+
+PA Agent: Okay, thank you for providing that information, Emily. I'm going to go ahead and verify your eligibility. Can you please hold for just a moment?
+
+Member: Sure, go ahead.
+
+PA Agent: Okay, I'm back. I've verified your eligibility and it looks like you have coverage for the procedure. Can you please tell me a little bit more about the procedure and why it's necessary?
+
+Member: My doctor says I need to have the surgery to alleviate the pain and discomfort I've been experiencing in my knee. I've tried physical therapy and other treatments, but nothing seems to be working.
+
+PA Agent: I understand. I'm going to go ahead and review your case. Can you please hold for just another moment?
+
+Member: Okay.
+
+PA Agent: Okay, I'm back. Based on the information you've provided, I'm pleased to inform you that your pre-authorization request has been approved. You should receive a confirmation letter in the mail within the next few days.
+
+Member: That's great news, thank you so much for your help!
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+PA Agent: You're welcome. Have a great day, Emily.
+
+Member: You too, bye.
+
+PA Agent: Bye.

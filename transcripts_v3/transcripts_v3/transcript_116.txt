@@ -1,0 +1,27 @@
+Member: Hi, I'm calling about my recent bill for a doctor's visit. I was charged a $50 copay, but I thought it was supposed to be only $20 according to my policy.
+
+Customer Support: I apologize for the issue, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM456789.
+
+Customer Support: Thank you, let me just check on that for you. Can you please confirm the date of the doctor's visit and the name of the doctor or medical group you visited?
+
+Member: The visit was on February 10th, and the doctor's name is Dr. Smith.
+
+Customer Support: I've located the claim. It looks like the copay was processed correctly according to our system, but I want to make sure we're looking at the same policy details. Can you tell me what type of policy you have and what your copay is supposed to be for a doctor's visit?
+
+Member: I have a Gold plan, and according to my policy documents, the copay for a doctor's visit is supposed to be $20.
+
+Customer Support: I've checked on that, and it looks like there might have been a mistake in the processing of the claim. I'm going to go ahead and adjust the copay to the correct amount of $20. You should receive a refund for the difference within the next 7-10 business days.
+
+Member: That sounds great, thank you so much for your help! I appreciate it.
+
+Customer Support: You're welcome, I'm glad I could assist you in resolving the issue. Is there anything else I can help you with today?
+
+Member: No, that's all. Thank you again!
+
+Customer Support: You're welcome, have a great day!
+
+Member: You too, bye!
+
+Customer Support: Bye!

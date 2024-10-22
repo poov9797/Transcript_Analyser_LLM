@@ -1,0 +1,27 @@
+Member: Hi, I'm calling to get a case pre-authorized for a surgery I need to have done. My name is Emily Wilson and my member ID is MEM456789.
+
+PA Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth and the name of your primary care physician so I can verify your eligibility?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.
+
+PA Agent: Thank you, Emily. I've verified your information and I see that you are eligible for benefits. Can you please tell me more about the surgery you're needing to have done? What is the procedure code and what is the estimated date of the surgery?
+
+Member: The procedure code is 23456 and the estimated date of the surgery is March 25th. My doctor's office said that I need to get pre-authorization before the surgery can be scheduled.
+
+PA Agent: Okay, thank you for providing that information. I'm going to go ahead and check on the pre-authorization requirements for that procedure code. (pause) Okay, I've checked and it looks like we do require pre-authorization for that procedure. Can you please hold for just a moment while I check on the status of your deductible and out-of-pocket maximum?
+
+Member: Sure, I'll hold.
+
+PA Agent: (after a brief hold) Okay, Emily, I've checked on your deductible and out-of-pocket maximum and it looks like you have met your deductible for the year, but you still have some out-of-pocket maximum left to meet. I'm going to go ahead and process the pre-authorization request, but I want to let you know that we may need some additional information from your doctor's office before we can make a final decision.
+
+Member: Okay, that sounds good. How long will it take to get a decision on the pre-authorization?
+
+PA Agent: We'll typically make a decision within 3-5 business days. I'm going to go ahead and assign a case number to this request and we'll follow up with your doctor's office to get any additional information we need. I'll also follow up with you in a few days to let you know the status of the pre-authorization.
+
+Member: Okay, that sounds good. What is the case number so I can reference it if I need to call back?
+
+PA Agent: The case number is PA001234. You can reference that if you need to call back or check on the status of your pre-authorization.
+
+Member: Okay, great. Thank you for your help.
+
+PA Agent: You're welcome, Emily. We'll be in touch soon.

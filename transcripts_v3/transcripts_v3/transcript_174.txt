@@ -1,0 +1,33 @@
+Member: Hi, I'm calling to get a case pre-authorized for a surgery I'm scheduled to have next week. My name is Emily Wilson, and my member ID is MEM123456.
+
+PA Agent: Thank you for calling PA Customer Care, Emily. Can you please confirm your date of birth and the name of your primary care physician so I can verify your eligibility?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.
+
+PA Agent: Thank you, Emily. I've located your account. Can you please provide me with more details about the surgery you're scheduled to have? What is the procedure code, and who is the surgeon performing it?
+
+Member: The procedure code is XYZ123, and the surgeon is Dr. Johnson.
+
+PA Agent: Okay, thank you. Can you please hold for just a moment while I check on the eligibility of this procedure?
+
+ Member: Sure.
+
+PA Agent: Thank you for holding, Emily. I've checked on the eligibility, and it looks like you do have coverage for this procedure. However, I need to inform you that there is a 20% coinsurance associated with this procedure. Are you aware of this?
+
+Member: Yes, I was aware of that.
+
+PA Agent: Okay, great. I'm going to go ahead and pre-authorize the case for you. You should receive a confirmation letter in the mail within the next 3-5 business days. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help.
+
+PA Agent: You're welcome, Emily. Is there anything else you'd like to discuss or any other questions you have regarding your benefits?
+
+Member: No, that's all. Thank you.
+
+PA Agent: Alright, Emily. Your case has been pre-authorized, and you should be all set for your surgery next week. If you have any other questions or concerns, please don't hesitate to reach out to us. Have a great day.
+
+Member: Thank you. You too.
+
+PA Agent: You're welcome, Emily. Goodbye.
+
+Member: Goodbye.

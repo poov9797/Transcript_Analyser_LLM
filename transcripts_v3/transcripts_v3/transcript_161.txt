@@ -1,0 +1,35 @@
+Member: Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.
+
+Customer Support: I'd be happy to help you with that, MEM123456. Can you tell me a little bit more about the issue you're experiencing? What error message are you seeing when you try to log in?
+
+Member: I'm not getting an error message, but when I try to enter my username and password, it just doesn't recognize them. I've tried resetting my password, but that didn't work either.
+
+Customer Support: Okay, let's try a few things. Can you verify your email address associated with your account? Sometimes, the issue can be as simple as a typo in the email address.
+
+Member: My email address is jsmith@email.com.
+
+Customer Support: Great, thank you for confirming that. I'm going to check on our end to see if there are any issues with your account. Can you please hold for just a moment?
+
+Member: Sure, no problem.
+
+Customer Support: Okay, I've checked on our end, and it looks like your account was temporarily locked due to multiple failed login attempts. I'm going to go ahead and unlock it for you.
+
+Member: Oh, that makes sense. I did try logging in a few times before I called.
+
+Customer Support: No worries at all. I'm also going to reset your password for you, just to make sure we start fresh. I'll walk you through the process.
+
+Member: Sounds good.
+
+Customer Support: I'm going to send you a password reset link to your email address. Can you please check your email and click on the link to reset your password?
+
+Member: Okay, I've got the email. Let me just click on the link... (pause) Okay, I've reset my password.
+
+Customer Support: Great! Now, can you try logging in again with your new password?
+
+Member: (pause) Yes, I'm in! Thank you so much for your help!
+
+Customer Support: You're welcome, MEM123456. I'm glad we could get you up and running again. If you have any other issues or questions, don't hesitate to reach out. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thanks again for your help!
+
+Customer Support: You're welcome. Have a great day!

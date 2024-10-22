@@ -1,0 +1,47 @@
+Member: Hi, I'm calling about my recent bill for the doctor's visit. I was charged a copay of $50, but I'm pretty sure my policy says it's supposed to be $20.
+
+Customer Support: I apologize for the inconvenience, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, MEM123456. I'm checking on the policy details... (pause) Okay, I see that your policy does indeed have a $20 copay for doctor's visits. However, I also see that there's a note here about a possible exception for certain services. Can you tell me more about the service you received during your visit?
+
+Member: It was just a regular check-up. I don't see why that would be an exception.
+
+Customer Support: I understand. Let me dig a bit deeper. (pause) Hmm, it looks like the billing code used for this service might be the reason for the higher copay. I'm going to need to escalate this to our billing team to investigate further.
+
+Member: Okay, that sounds good. How long will it take to get this resolved?
+
+Customer Support: I apologize, but I don't have a specific timeline. Our billing team will review the case and get back to us as soon as possible. In the meantime, I can offer to put in a request for a temporary discount on the copay amount.
+
+Member: That sounds good, I guess. But I'd really like to get this resolved today if possible.
+
+Customer Support: I understand your concern, but I want to make sure we get to the root of the issue. I'm going to go ahead and put in the request for the temporary discount. If the billing team finds that the copay was indeed incorrect, we'll take care of the adjustment. If not, we can discuss further options.
+
+Member: Okay, I appreciate that. Can you give me a reference number for this case so I can follow up?
+
+Customer Support: Absolutely. Your case number is CS12345. You can use that to follow up with us on the status.
+
+Member: Okay, got it. Thank you.
+
+Customer Support: You're welcome. I apologize again for the inconvenience, and we'll do our best to get this resolved for you.
+
+Member: Thanks.
+
+Customer Support: Is there anything else I can assist you with today?
+
+Member: No, that's all.
+
+Customer Support: Alright, thank you for reaching out to us, and we'll be in touch soon.
+
+(Pause)
+
+Member: Wait, can you tell me who I should expect to hear from?
+
+Customer Support: You should hear from our billing team within the next 3-5 business days. If you have any further questions or concerns, you can always give us a call back and reference your case number.
+
+Member: Okay, sounds good. Thanks.
+
+Customer Support: You're welcome. Have a great day.
+
+(Call ends)

@@ -1,0 +1,14 @@
+Member: Hi, I'm calling about a claim that was denied. My name is Emily Wilson and my member ID is MEM123456. 
+Customer Support: Sorry to hear that your claim was denied, Emily. Can you please tell me more about the claim and why you think it was denied in error? 
+Member: I had a surgery last month and submitted a claim for the expenses. However, I received a letter stating that the service is not covered under my policy. But I'm sure that my new policy covers this service. 
+Customer Support: I apologize for the inconvenience, Emily. Can you please confirm the date you switched to the new policy and the type of surgery you had? 
+Member: I switched to the new policy on January 1st, and I had a knee replacement surgery on January 15th. 
+Customer Support: Thank you, Emily. I've checked on the status of your claim, and it appears that our system still has you listed under your old policy. That's likely why the claim was denied. 
+Member: That makes sense, but why wasn't my policy updated in the system? 
+Customer Support: I apologize for the oversight, Emily. Sometimes updates can take a little time to process. But don't worry, I'm going to go ahead and connect you with our claims team, and they'll work on getting your claim approved under your new policy. 
+Member: That sounds great, thank you. How long will it take to get the claim approved? 
+Customer Support: It should take about 24-48 hours, Emily. You'll receive an update via email once the claim is processed. 
+Member: Okay, that sounds good. Thank you for your help. 
+Customer Support: You're welcome, Emily. I apologize again for the mistake, and I'm glad we could resolve the issue. Is there anything else I can assist you with today? 
+Member: No, that's all. Thank you again. 
+Customer Support: You're welcome, Emily. Have a great day.

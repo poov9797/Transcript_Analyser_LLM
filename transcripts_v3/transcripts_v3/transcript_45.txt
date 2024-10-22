@@ -1,0 +1,51 @@
+Member: Hi, I'm calling about a denied claim. My name is Emily Wilson, and my member ID is MEM456789.
+
+Customer Support: I'm happy to help you with that, Emily. Can you please tell me more about the denied claim and the services that were not covered?
+
+Member: Yes, of course. I recently switched to a new policy, but the claim for my physical therapy sessions was denied, saying that the service is not covered under my policy. However, I've reviewed my new policy, and it clearly states that physical therapy is covered.
+
+Customer Support: I apologize for the inconvenience, Emily. Can you please confirm your new policy effective date and the date of the physical therapy sessions?
+
+Member: The new policy effective date is March 1st, and the physical therapy sessions took place in April.
+
+Customer Support: Thank you for providing that information. I'm going to check on the status of your policy update in our system. (pause) It looks like there's been an issue with updating your new policy in our system, which is why the claim was denied. I'm going to escalate this to our dedicated team to get your claims approved.
+
+Member: Oh, I see. So, it was just a technical issue?
+
+Customer Support: Exactly. We'll get this corrected, and I'll make sure your claims are processed as soon as possible.
+
+Member: Okay, that sounds good. Can you give me an estimated timeframe for when this will be resolved?
+
+Customer Support: I've escalated the issue, and I expect it to be resolved within the next 24 to 48 hours. You will receive an update on your claim status via email.
+
+Member: Alright, that sounds great. Thank you so much for your help in resolving this issue.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome, Emily. Have a great day.
+
+(pause)
+
+Customer Support: Emily, I just wanted to confirm that I've connected you with the relevant team, and they will be in touch with you shortly to finalize the claim approval.
+
+Member: Sounds good, thank you.
+
+Customer Support: You're welcome. Is there anything else I can assist you with?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome, Emily. Have a great day.
+
+(pause)
+
+Customer Support: Emily, I just wanted to confirm that your claim is being processed, and you will receive an update via email within the next 24 to 48 hours.
+
+Member: Okay, great. Thank you.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: Thank you. Bye.
+
+Customer Support: Bye, Emily.

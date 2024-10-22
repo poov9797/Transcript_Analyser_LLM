@@ -1,0 +1,39 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Thank you, Emily. Can you please tell me a little bit about the case you're looking to get pre-authorized? What's the procedure or treatment you're seeking?
+
+Member: I need to get a knee replacement surgery. My doctor has recommended it due to severe arthritis.
+
+PA Agent: I see. Can you please provide me with your doctor's name and the facility where the procedure is scheduled to take place?
+
+Member: My doctor's name is Dr. Smith and the surgery is scheduled at Mercy Hospital.
+
+PA Agent: Okay, thank you for that information. Can you please hold for just a moment while I check on your eligibility and benefits?
+
+Member: Sure, go ahead.
+
+PA Agent: Okay, Emily, I've checked on your eligibility and it looks like you have coverage for this procedure. However, I need to verify a few more details. Can you please confirm your primary care physician's name and the date you first started experiencing symptoms in your knee?
+
+Member: My primary care physician is Dr. Johnson and I've been experiencing symptoms for about 6 months now.
+
+PA Agent: Okay, thank you for that information. I'm going to go ahead and check on the pre-authorization requirements for this procedure.
+
+Member: Okay.
+
+PA Agent: Okay, Emily, I've checked on the requirements and it looks like we need a bit more information from your doctor's office. I'm going to go ahead and send a request for that information. We'll review it and get back to you within the next 24-48 hours.
+
+Member: Okay, that sounds good. What's the next step?
+
+PA Agent: We'll review the information and make a decision on your pre-authorization. If we need any additional information, we'll reach out to you or your doctor's office. If everything is in order, we'll send you a letter with the pre-authorization details.
+
+Member: Okay, sounds good. Is there anything else I need to do in the meantime?
+
+PA Agent: No, that's all for now. We'll be in touch soon. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+PA Agent: You're welcome, Emily. Have a great day and we'll talk to you soon.

@@ -1,0 +1,39 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought it was supposed to be $20 or maybe even no copay at all.
+
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please confirm your member ID so I can look into this further?
+
+Member: My member ID is MEM123456.
+
+Customer Support: Thank you, Mr. Johnson. Can you please hold for just a moment while I check on the copay amount for that service?
+
+Member: Sure, thank you.
+
+Customer Support: Okay, Mr. Johnson, I've checked on the copay amount, and it looks like your policy does allow for a lower copay of $20 for that service. However, I need to investigate why you were charged the higher amount. Can you please tell me the date of the doctor's visit and the name of the doctor's office?
+
+Member: It was on January 10th, and the doctor's office was Smith Family Medicine.
+
+Customer Support: Thank you, Mr. Johnson. I'm going to go ahead and put in a request to have this investigated further. Can you please hold for just a moment while I submit the request?
+
+Member: Okay, thank you.
+
+Customer Support: Alright, Mr. Johnson, I've submitted the request. A representative from our investigation team will be in touch with you within the next 3-5 business days to discuss the outcome of the investigation. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, Mr. Johnson. Is there a best phone number for our representative to reach you at?
+
+Member: Yes, it's the same number I'm calling from now.
+
+Customer Support: Great, thank you. We'll make sure to note that. We appreciate your patience and cooperation in this matter, and we'll be in touch soon.
+
+Member: Thank you.
+
+Customer Support: You're welcome, Mr. Johnson. Have a great day.
+
+Member: You too.
+
+Customer Support: Goodbye, Mr. Johnson.
+
+Member: Bye.
+
+ Customer Support: I'm going to go ahead and close out this call.

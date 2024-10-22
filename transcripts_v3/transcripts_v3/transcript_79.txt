@@ -1,0 +1,30 @@
+Member: Hi, I'm calling about my online service account. I'm having trouble registering and logging in. My member ID is MEM123456.
+Customer Support: I'd be happy to help you with that, MEM123456. Can you tell me a little bit more about the issue you're experiencing? What happens when you try to register or log in?
+
+Member: Well, when I try to register, it says my email address is already in use, but I've never registered before. And when I try to log in, it says my password is incorrect, but I'm pretty sure I'm entering it correctly.
+
+Customer Support: I apologize for the inconvenience. Let's try to troubleshoot this issue. Can you please try registering again and see if you get the same error message? Also, can you confirm your email address with me?
+
+Member: Okay... (pause) Yeah, I'm getting the same error message. And my email address is jsmith@email.com.
+
+Customer Support: Thank you for confirming. I'm going to check on our end to see if there's an issue with your account. (pause) Ah, I think I see the problem. It looks like there was a duplicate account created with your email address. I'm going to go ahead and delete the duplicate account. Can you please try registering again?
+
+Member: Okay... (pause) Ah, that seems to have worked! I was able to register successfully.
+
+Customer Support: Great! I'm glad we were able to resolve that issue. Now, let's move on to the log in issue. Can you please try logging in again with your new credentials?
+
+Member: Okay... (pause) Yeah, I'm still getting the error message that my password is incorrect.
+
+Customer Support: Okay, let's try resetting your password. I can send you a password reset email to your email address. Would you like me to do that?
+
+Member: Yeah, that would be great. Thanks.
+
+Customer Support: You should receive the password reset email shortly. Once you reset your password, you should be able to log in successfully. If you have any further issues, feel free to call us back.
+
+Member: Sounds good. Thanks for your help!
+
+Customer Support: You're welcome, MEM123456. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thanks again.
+
+Customer Support: You're welcome. Have a great day!

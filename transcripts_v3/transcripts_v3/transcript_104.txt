@@ -1,0 +1,47 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth and the phone number associated with your account for verification purposes?
+
+Member: My date of birth is March 12, 1985, and my phone number is 555-123-4567.
+
+Agent: Thank you, Emily. I've verified your details. Can you please provide me with the details of the case you'd like to get pre-authorized? What's the procedure or service you're seeking pre-authorization for?
+
+Member: I need to get an MRI done for a knee injury. My doctor's name is Dr. Smith, and he's affiliated with General Hospital.
+
+Agent: Okay, Emily. Can you please provide me with the CPT code for the MRI and the date you're planning to have the procedure done?
+
+Member: The CPT code is 73600, and I'm planning to have it done on March 25th.
+
+Agent: Alright, Emily. I'm checking on the eligibility and coverage for this procedure. (pause) Okay, it looks like you have a deductible of $500 and a co-insurance of 20% for this type of service.
+
+Member: That sounds right. So, will I need to pay the deductible upfront?
+
+Agent: That's correct. You'll need to pay the deductible and then we'll cover 80% of the remaining balance. However, I need to check on the provider's participation with our network. (pause) It looks like Dr. Smith is an out-of-network provider.
+
+Member: Oh, I wasn't aware of that. What does that mean for my coverage?
+
+Agent: As an out-of-network provider, your coverage will be reduced. We'll cover 60% of the eligible charges instead of 80%. 
+
+Member: I see. So, will I still need to get pre-authorized?
+
+Agent: Yes, Emily. I still need to get this pre-authorized. However, I need to escalate this case to our medical management team for further review. 
+
+Member: Okay, that sounds good. What's the next step?
+
+Agent: I'm going to go ahead and create a case for you, and our medical management team will review it and get back to you within the next 3-5 business days. We'll send you a letter with our decision.
+
+Member: Alright, that sounds good. Can you please provide me with the case number so I can follow up on it?
+
+Agent: Your case number is PA123456789. You can use this to track the status of your case or to follow up with us.
+
+Member: Great, thank you. Is there anything else I need to do?
+
+Agent: No, that's all for now, Emily. We'll be in touch soon. Thank you for calling PA customer care.
+
+Member: You're welcome. Thank you for your help.
+
+Agent: You're welcome, Emily. Have a great day.
+
+Member: You too. Bye.
+
+Agent: Bye.

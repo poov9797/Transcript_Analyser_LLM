@@ -1,0 +1,41 @@
+Member: Hi, I'm calling about my recent copay for a doctor's visit. I was charged $50, but my policy says I shouldn't be paying more than $20 for a primary care visit.
+
+Customer Support: I apologize for the inconvenience, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you. Can you also confirm the date of the doctor's visit and the name of the provider?
+
+Member: The visit was on January 10th, and the provider's name is Dr. Smith.
+
+Customer Support: Okay, let me just check on that... (pause) I see the claim was processed with a copay of $50. Can you tell me what type of plan you have?
+
+Member: I have the Silver Plan. And according to the policy documents, I shouldn't have to pay more than $20 for a primary care visit.
+
+Customer Support: I understand your concern. However, it looks like the provider may have billed us for a specialist visit instead of a primary care visit, which would explain the higher copay.
+
+Member: But that's not correct. I specifically made an appointment with Dr. Smith as my primary care physician. And even if it was a specialist visit, my policy says I shouldn't pay more than $30.
+
+Customer Support: I apologize for the mistake. Let me see what I can do... (pause) Unfortunately, it looks like the claim has already been processed and we can't just adjust the copay without re-processing the entire claim.
+
+Member: That's ridiculous. I don't see why I should have to pay more than what my policy allows. Can I speak to a supervisor?
+
+Customer Support: I can escalate the issue, but I want to let you know that it may take some time to resolve. Would you like me to go ahead and escalate it?
+
+Member: Yes, please do. This is unacceptable.
+
+Customer Support: Okay... (pause) I've escalated the issue. You should receive a call back from a supervisor within the next 24-48 hours.
+
+Member: Unbelievable. I've wasted 10 minutes of my time already. Can you at least give me a case number or something so I can reference this conversation?
+
+Customer Support: The case number is #20230101-001. You can use that to reference this conversation.
+
+Member: Great, just great. Thanks for nothing.
+
+Customer Support: I apologize again for the inconvenience, and we'll do our best to resolve the issue as soon as possible.
+
+Member: Whatever.
+
+Customer Support: Is there anything else I can assist you with today?
+
+Member: No, that's it.

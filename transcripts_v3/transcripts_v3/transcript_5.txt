@@ -1,0 +1,43 @@
+Member: Hi, I'm calling to get a case pre-authorized for a procedure I'm scheduled to have next week. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Thank you for calling PA customer care, Emily. I'd be happy to assist you with your pre-authorization request. Can you please confirm your date of birth and the procedure you're scheduled to have?
+
+Member: My date of birth is March 12, 1985, and I'm scheduled to have a hysterectomy on March 20th.
+
+PA Agent: Okay, thank you for confirming that information. Can you please tell me a little bit more about the procedure and why it's being recommended by your doctor?
+
+Member: Sure. I've been experiencing some issues with heavy bleeding and my doctor thinks it's best to remove my uterus to alleviate the symptoms.
+
+PA Agent: I see. Can you please provide me with your doctor's name and the name of the hospital where the procedure will be performed?
+
+Member: My doctor's name is Dr. Smith and the procedure will be performed at Mercy Hospital.
+
+PA Agent: Okay, thank you for providing that information. I'm going to go ahead and check on your eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+PA Agent: Thank you for holding, Emily. I've checked on your eligibility and it looks like you do have coverage for this procedure. However, I need to check with our medical review team to confirm that it's medically necessary.
+
+Member: Okay, that sounds good. How long will that take?
+
+PA Agent: It may take a few days to get a decision from our medical review team. I apologize for the delay, but we want to make sure that we're approving only medically necessary procedures.
+
+Member: Okay, I understand. Can you please provide me with a case number so I can follow up on the status of my request?
+
+PA Agent: Your case number is #2023-001234. You can use that to check the status of your request or to follow up with us if you have any further questions.
+
+Member: Okay, thank you. Is there anything else I need to do in the meantime?
+
+PA Agent: No, that's all we need from you right now. We'll be in touch with you once we receive a decision from our medical review team.
+
+Member: Okay, thank you for your help. I appreciate it.
+
+PA Agent: You're welcome, Emily. We'll be in touch soon.
+
+Member: Thank you.
+
+PA Agent: Thank you for calling PA customer care. Have a great day.
+
+Member: You too. Bye.
+
+PA Agent: Bye.

@@ -1,0 +1,46 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM012345.
+
+Customer Support: Hi Emily, thank you for calling. Can you please tell me what type of specialist you're looking to see and what dates you're available?
+
+Member: I'm looking to see a cardiologist and I'm available next Wednesday or Thursday.
+
+Customer Support: Okay, let me check the availability of our cardiologists. (pause) It looks like we have a few options available on both Wednesday and Thursday. Can you please tell me what time of day you prefer?
+
+Member: I'm available anytime after 2 PM.
+
+Customer Support: Alright, I have a few options for you. We have Dr. Smith available at 2:30 PM on Wednesday or Dr. Johnson available at 3:30 PM on Thursday. Both are highly rated and have great reviews. Would you like me to tell you a bit more about each of them?
+
+Member: That would be great, thank you.
+
+Customer Support: Dr. Smith has over 10 years of experience in cardiology and specializes in heart failure treatment. Dr. Johnson has over 15 years of experience and specializes in coronary artery disease. Both are excellent choices.
+
+Member: Hmm, I think I'd like to see Dr. Smith.
+
+Customer Support: Great choice! I've gone ahead and scheduled the appointment for 2:30 PM on Wednesday with Dr. Smith. You'll receive a confirmation email with all the details. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help!
+
+Customer Support: You're welcome, Emily. We'll see you on Wednesday. Have a great day!
+
+(at 2 minutes)
+Member: Hi, I just wanted to confirm that my appointment is scheduled for 2:30 PM on Wednesday with Dr. Smith.
+
+Customer Support: That's correct, Emily. I've double-checked the schedule and everything looks good.
+
+(at 4 minutes)
+Member: Great, thank you. I just wanted to ask, what's the address of the office where I'll be seeing Dr. Smith?
+
+Customer Support: The address is 123 Main St, Suite 400. You can also find the address and directions on our website or through the confirmation email I sent you.
+
+(at 6 minutes)
+Member: Okay, got it. And what's the parking situation like?
+
+Customer Support: There's a parking garage connected to the building, and we also offer valet parking.
+
+(at 7 minutes)
+Member: Alright, sounds good. I think that's all I need to know.
+
+Customer Support: Sounds good, Emily. If you have any other questions or need any further assistance, don't hesitate to reach out. We'll see you on Wednesday.
+
+(at 8 minutes)
+Member: Thanks again for your help!

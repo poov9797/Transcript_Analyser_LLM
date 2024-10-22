@@ -1,0 +1,43 @@
+Member: Hi, I'm calling about my recent visit to the doctor's office. I was charged a $50 copay, but I'm pretty sure my policy says it should be $20.
+
+Customer Support: I apologize for the inconvenience. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, MEM123456. Can you please confirm your date of birth so I can verify your account?
+
+Member: It's 02/12/1990.
+
+Customer Support: Okay, thank you. I've located your account. Can you please tell me more about the visit that you're disputing the copay for? What was the date of the visit and what type of service did you receive?
+
+Member: It was on January 15th and I had a follow-up appointment with my primary care physician.
+
+Customer Support: Okay, I see that in our system. According to our records, the copay for a primary care physician visit is indeed $50.
+
+Member: But I'm looking at my policy documents right now and it says that I shouldn't have to pay anything for a follow-up visit.
+
+Customer Support: I understand your concern. Can you please hold for just a moment while I check on this further?
+
+.Member: Sure.
+
+Customer Support: I apologize for the delay. I've checked with our claims department and it appears that there may be an issue with the way the claim was processed. I'm going to go ahead and escalate this issue to our investigation team. They will review the claim and get back to you within the next 3-5 business days.
+
+Member: Okay, that sounds good. But what about the $30 difference that I was overcharged? Will I get that refunded?
+
+Customer Support: I apologize, but I don't have the ability to process refunds. The investigation team will review the claim and determine if a refund is due. If so, they will process it and you will receive a notification in the mail.
+
+Member: Okay, I understand. But can you at least give me a case number or something so I can reference this when I follow up?
+
+Customer Support: Yes, of course. Your case number is CS001234. You can use that to reference this issue when you follow up with us.
+
+Member: Okay, great. Thank you for your help.
+
+Customer Support: You're welcome. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day.
+
+Member: You too. Bye.
+
+Customer Support: Bye.

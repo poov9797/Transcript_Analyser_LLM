@@ -1,0 +1,41 @@
+Member: Hi, I'm calling about a claim that was denied. My member ID is MEM123456. I'm very frustrated because I was told that the policy doesn't cover the service, but I recently switched policies and the new one should cover it.
+
+Customer Support: I apologize for the inconvenience, Mr... 
+
+Member: It's Ms. Johnson.
+
+Customer Support: Ms. Johnson. Can you please confirm your date of birth and the service that was denied so I can look into this further?
+
+Member: My date of birth is March 12, 1985, and the denied service was for a physical therapy session on January 10th.
+
+Customer Support: Thank you for providing that information, Ms. Johnson. I've located your account. Can you please hold for just a moment while I review the details of your claim?
+
+Member: (sighs) Okay...
+
+Customer Support: Ms. Johnson, I apologize for the delay. I've found the issue. It appears that your new policy has not been updated in our system, which is why the claim was denied.
+
+Member: (angrily) That's unacceptable. I switched policies over a month ago. How could this not be updated?
+
+Customer Support: I understand your frustration, Ms. Johnson. I'm going to escalate this issue to our policy update team to get this corrected. Can you please hold for another moment?
+
+Member: (sighs) Fine...
+
+Customer Support: Ms. Johnson, I've connected with the policy update team, and they are going to process the update immediately. However, I need to let you know that this may take a few days to resolve.
+
+Member: (frustrated) A few days? That's not acceptable. I need this resolved now.
+
+Customer Support: I understand, Ms. Johnson, but I assure you that we are doing everything we can to expedite the process. I'm going to go ahead and follow up with the team to ensure that this is resolved as soon as possible.
+
+Member: (angrily) I expect a call back within the next 24 hours with a resolution. If not, I will be forced to take my business elsewhere.
+
+Customer Support: I understand, Ms. Johnson. I apologize again for the inconvenience, and I will make sure to follow up with you within the next 24 hours.
+
+Member: (firmly) See that you do.
+
+Customer Support: Is there anything else I can assist you with today, Ms. Johnson?
+
+Member: (angrily) No, that's all.
+
+Customer Support: Thank you for holding, Ms. Johnson. Have a good day.
+
+Member: (hangs up the phone)

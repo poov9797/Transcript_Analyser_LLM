@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about my recent copay for a doctor's visit. I was charged $50, but I thought it was supposed to be $20 or maybe even free. Can you help me figure out what's going on?
+
+Customer Support: I'd be happy to help you with that. Can you please provide me with your member ID so I can look up your account?
+
+Member: It's MEM543219.
+
+Customer Support: Thank you. Can you also confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+Customer Support: Thank you. I've located your account. Can you tell me more about the doctor's visit that you're disputing the copay for? What was the date of the visit and what type of service was it?
+
+Member: It was on January 10th and it was a routine physical exam.
+
+Customer Support: I've found the claim. It looks like the provider may have billed us incorrectly. I'm going to go ahead and investigate this further. Can you please hold for just a moment?
+
+Member: Okay.
+
+Customer Support: Thank you for holding. I've spoken with our claims department and it appears that the provider did indeed bill us incorrectly. We're going to go ahead and reprocess the claim with the correct copay amount.
+
+Member: So what does that mean for me? Will I get a refund?
+
+Customer Support: Yes, you will receive a refund for the difference between the incorrect copay and the correct copay. We'll also send you a letter explaining the adjustment.
+
+Member: Okay, that sounds good. How long will it take to get the refund?
+
+Customer Support: You should receive the refund within the next 7-10 business days.
+
+Member: Alright, thank you for your help.
+
+Customer Support: You're welcome. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day.

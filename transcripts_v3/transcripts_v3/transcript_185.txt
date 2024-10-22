@@ -1,0 +1,39 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hello Emily, thank you for calling PA customer care. Can you please confirm your date of birth and the service you're seeking pre-authorization for?
+
+Member: My date of birth is March 12, 1985, and I'm looking to get pre-authorization for a knee surgery.
+
+PA Agent: Okay, thank you Emily. Can you please provide me with the name of your healthcare provider and the date of the scheduled surgery?
+
+Member: My doctor's name is Dr. Smith and the surgery is scheduled for April 15th.
+
+PA Agent: Great, thank you for providing that information. I'm going to go ahead and check your eligibility for the surgery. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+PA Agent: Okay, Emily, I've checked your eligibility and it looks like you do have coverage for the surgery. However, I need to let you know that we require additional information from your doctor's office in order to complete the pre-authorization.
+
+Member: Okay, what kind of information do you need?
+
+PA Agent: We need a letter of medical necessity and a copy of the surgery schedule. Can you please have your doctor's office fax that information to us?
+
+Member: Yes, I can do that. How long will it take to process the pre-authorization once you receive the information?
+
+PA Agent: Once we receive the additional information, it typically takes 3-5 business days to process the pre-authorization. However, I want to inform you that we may need to review your case further and it may take a little longer.
+
+Member: Okay, that sounds good. What's the next step?
+
+PA Agent: I'm going to go ahead and create a case for you and assign a case number. I'll also send you a follow-up letter with the case number and instructions on what to do next.
+
+Member: Sounds great, thank you so much for your help.
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+PA Agent: You're welcome. We'll be in touch with you soon regarding your pre-authorization. Have a great day!
+
+Member: You too, bye.
+
+PA Agent: Bye.

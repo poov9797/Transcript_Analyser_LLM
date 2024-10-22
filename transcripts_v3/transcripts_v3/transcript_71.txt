@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about a denied claim I received for a recent service. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: I apologize for the inconvenience, Emily. Can you please provide me with more details about the claim, such as the date of service and the reason for the denial?
+
+Member: Yes, of course. The service was on January 10th, and the denial reason stated that my policy doesn't cover the service. However, I had switched to a new policy effective January 1st, which should cover this service.
+
+Customer Support: I understand. I'm going to check on this for you. Can you please hold for just a moment?
+
+Member: Yes, sure. Thank you.
+
+Customer Support: Okay, Emily, I've checked on your account, and it appears that our system has not been updated with your new policy information. This is why the claim was denied.
+
+Member: That makes sense. I did receive a confirmation email about the policy change, but I guess it didn't get updated in the system.
+
+Customer Support: Exactly. I'm going to go ahead and connect you with our claims team, and they will review the claim again with the correct policy information. We'll get this resolved for you.
+
+Member: That sounds great. Thank you so much for your help.
+
+Customer Support: You're welcome, Emily. I'm transferring you to the claims team now. They will assist you further.
+
+Member: Okay, thank you.
+
+Customer Support: (Claims team) Hi Emily, I'm with the claims team. We've reviewed your claim, and we're going to go ahead and approve it based on your new policy.
+
+Member: Oh, wonderful! Thank you so much.
+
+Customer Support: You're welcome. We apologize again for the inconvenience, and we appreciate your patience. Is there anything else we can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome, Emily. Have a great day.
+
+Member: You too. Bye.
+
+Customer Support: Bye.

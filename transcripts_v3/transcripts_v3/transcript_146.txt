@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about a denied claim. My claim for the recent medical service was denied because the policy doesn't cover it. But I had switched to a new policy which should cover it. 
+
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456. 
+
+Customer Support: Thank you, Mr. Johnson. I'm checking on the status of your claim. Can you please confirm the date of service and the type of service that was denied?
+
+Member: The date of service was January 10th and it was for a physical therapy session.
+
+Customer Support: I've located your claim, Mr. Johnson. I apologize, but it appears that our system still has your old policy information on file. This is likely why your claim was denied.
+
+Member: That makes sense. I did switch policies at the beginning of the year. Can you update my policy information and reprocess my claim?
+
+Customer Support: I'm going to go ahead and connect you with our policy update team to get your information updated. They will also reach out to our claims team to reprocess your claim. Please hold for just a moment while I transfer the call.
+
+Member: Okay, thank you.
+
+Customer Support: You're welcome, Mr. Johnson. I'm going to transfer the call now. Please hold for just a moment.
+
+(pause)
+
+Customer Support: Mr. Johnson, I wanted to let you know that the transfer was successful. The policy update team will contact you within the next 24-48 hours to confirm the update and let you know the status of your claim.
+
+Member: Okay, thank you for your help.
+
+Customer Support: You're welcome, Mr. Johnson. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome, Mr. Johnson. Have a great day.

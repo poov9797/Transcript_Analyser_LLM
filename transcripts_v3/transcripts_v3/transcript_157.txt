@@ -1,0 +1,75 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Thank you, Emily. Can you please tell me a little bit about the case you're seeking pre-authorization for? What's the procedure or treatment you're looking to have done?
+
+Member: I'm scheduled to have a knee arthroscopy next week and I want to make sure it's covered.
+
+PA Agent: Okay, I'd be happy to help you with that. Can you please provide me with the name of your doctor and the facility where the procedure is scheduled to take place?
+
+Member: My doctor's name is Dr. Smith and the facility is Springdale Hospital.
+
+PA Agent: Great, thank you for that information. Can you please hold for just a moment while I check on the eligibility of your coverage?
+
+Member: Sure, no problem.
+
+PA Agent: Okay, Emily, I've checked on your coverage and it looks like you do have coverage for the procedure. However, I do need to advise you that there is a deductible that will need to be met before coverage kicks in.
+
+Member: Okay, that's fine. How much is the deductible?
+
+PA Agent: Your deductible is $500. But don't worry, once that's met, your coverage will kick in and you'll only be responsible for a small copay.
+
+Member: That sounds good. So, is the case pre-authorized?
+
+PA Agent: Yes, Emily, the case is pre-authorized. I've gone ahead and processed the pre-authorization and you should receive a confirmation letter in the mail within the next few days.
+
+Member: Great, thank you so much for your help. I really appreciate it.
+
+PA Agent: You're welcome, Emily. It was my pleasure to assist you. Is there anything else I can help you with today?
+
+Member: No, that's all. Thank you again.
+
+PA Agent: You're welcome. Have a great day and take care of that knee!
+
+Member: You too, thank you. Bye.
+
+PA Agent: Bye, Emily.
+
+(pause)
+
+PA Agent: Emily, I just wanted to follow up and make sure you received all the information you needed. Is there anything else I can help you with?
+
+Member: No, I think that's all. Thank you again for your help.
+
+PA Agent: You're welcome. We're always here to help. Have a great day!
+
+Member: You too, thanks. Bye.
+
+PA Agent: Bye, Emily.
+
+(pause)
+
+PA Agent: Emily, I just wanted to let you know that the pre-authorization number is PA123456. You may need to provide this to your doctor or the facility, so please make sure to write it down.
+
+Member: Okay, got it. PA123456. Thanks for letting me know.
+
+PA Agent: You're welcome, Emily. If you have any other questions or need any further assistance, don't hesitate to give us a call.
+
+Member: Will do, thanks. Bye.
+
+PA Agent: Bye, Emily.
+
+(pause)
+
+PA Agent: Emily, is there anything else I can help you with before we end the call?
+
+Member: No, I think that's all. Thanks again for your help.
+
+PA Agent: You're welcome, Emily. It was my pleasure to assist you. Have a great day!
+
+Member: You too, thanks. Bye.
+
+PA Agent: Bye, Emily.

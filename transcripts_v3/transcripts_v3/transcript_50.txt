@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about my recent copay for a service I received. I was charged $50, but I thought it was supposed to be $20 or maybe even no copay at all.
+
+Customer Support: I'd be happy to help you with that! Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, MEM123456. Can you please tell me more about the service you received and when you received it?
+
+Member: It was on January 10th, and it was for a routine check-up with my primary care physician.
+
+Customer Support: Okay, got it. I'm checking on the details... (pause) It looks like your policy does allow for a lower copay for this type of service. However, I need to check on a few more things to confirm.
+
+Member: Okay, that sounds good. I appreciate you looking into it.
+
+Customer Support: No problem! I just need to check on the specific plan details... (pause) Okay, I see the issue. It looks like there was a miscommunication with the provider's office, and they charged the incorrect amount.
+
+Member: That makes sense. So, what can be done to fix this?
+
+Customer Support: I can go ahead and process a refund for the incorrect amount, and I'll also reach out to the provider's office to ensure they update their records. However, I do need to escalate this to our billing team to confirm the correct amount and process the refund.
+
+Member: Okay, that sounds good. How long will it take to resolve this?
+
+Customer Support: I'd say about 3-5 business days for the refund to be processed. I'll also send you a follow-up email once it's complete.
+
+Member: Alright, that sounds good. Thank you for your help.
+
+Customer Support: You're welcome, MEM123456. I apologize again for the inconvenience, and I'll make sure to keep an eye on this to ensure it gets resolved. I'll also schedule a follow-up call with you in a few days to confirm the resolution.
+
+Member: Sounds good, thank you.
+
+Customer Support: You're welcome! Is there anything else I can assist you with today?
+
+Member: No, that's all. Thanks again.
+
+Customer Support: You're welcome! Have a great day!

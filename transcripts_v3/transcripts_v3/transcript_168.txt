@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy only had a $20 copay for that service.
+
+Customer Support: I apologize for the inconvenience, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. Can you please confirm the date of the doctor's visit and the type of service you received?
+
+Member: It was on February 10th, and it was a routine check-up.
+
+Customer Support: Okay, I've found the claim. It looks like the doctor's office did charge a $50 copay. However, I notice that our records show that your policy has a $20 copay for routine check-ups.
+
+Member: That's what I thought. Can you explain why I was charged more?
+
+Customer Support: I'm going to go ahead and investigate this further. Can you please hold for just a moment?
+
+(Member holds for 2 minutes)
+
+Customer Support: Mr. Johnson, I apologize for the delay. I've spoken with our claims team, and it appears that the doctor's office did incorrectly charge the higher copay. We're going to go ahead and process a refund for the difference.
+
+Member: Okay, that sounds great. How long will it take to receive the refund?
+
+Customer Support: You should receive the refund within the next 7-10 business days. You will also receive a letter in the mail confirming the refund.
+
+Member: Alright, thank you for your help.
+
+Customer Support: You're welcome, Mr. Johnson. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day.
+
+(Call duration: 12 minutes)

@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. My name is Emily Wilson and my member ID is MEM123456. 
+
+Customer Support: I apologize for the inconvenience, Ms. Wilson. Can you please provide me with more details about the denied claim, such as the date of service and the reason for the denial? 
+
+Member: Yes, of course. The date of service was January 10th, and the reason for denial was that the policy does not cover the service. But I had switched my policy in December, and as per my new policy, the affected services should be covered. 
+
+Customer Support: I understand your concern, Ms. Wilson. I'm going to check on this further. Can you please hold for just a moment? 
+
+Member: Okay... 
+
+Customer Support: Thank you for holding, Ms. Wilson. I've checked on the status of your claim, and it appears that your new policy has not been updated in our system. This is why your claim was denied. 
+
+Member: That's unacceptable. I switched my policy over a month ago. Why hasn't it been updated in your system yet? 
+
+Customer Support: I apologize for the mistake, Ms. Wilson. I'm going to go ahead and connect you with the relevant team to get this resolved. They will update your policy information and reprocess your claim. 
+
+Member: Okay... I just want this to be resolved as soon as possible. Can you tell me how long it will take? 
+
+Customer Support: I understand your urgency, Ms. Wilson. The team will work on updating your policy and reprocessing your claim as soon as possible. You should receive an update within the next 24 to 48 hours. 
+
+Member: Okay... And what about the status of my claim? Will it be approved? 
+
+Customer Support: Yes, Ms. Wilson. Since the denial was due to the incorrect policy information, once your new policy is updated, your claim should be approved. 
+
+Member: Alright... Thank you for your help. I appreciate it. 
+
+Customer Support: You're welcome, Ms. Wilson. I apologize again for the inconvenience, and I'm glad we could resolve the issue. Is there anything else I can assist you with today? 
+
+Member: No, that's all. Thank you. 
+
+Customer Support: You're welcome, Ms. Wilson. Have a great day. 
+
+Member: You too. Bye.

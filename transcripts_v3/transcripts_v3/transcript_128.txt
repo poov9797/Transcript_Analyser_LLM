@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about a denied claim. My member ID is MEM123456. I received a letter stating that the service isn't covered under my policy, but I've switched to a new policy that does cover it. 
+
+02:36 
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with more details about the claim, such as the date of service and the type of service you received? 
+
+02:39 
+Member: It was on January 10th, and it was for a physical therapy session. 
+
+02:41 
+Customer Support: Thank you for providing that information. I'm going to check on the status of your claim. Can you please hold for just a moment? 
+
+02:45 
+Customer Support: I've checked on the status of your claim, and it appears that our system still has your old policy information on file. I'm going to go ahead and connect you with our policy update team so we can get your new policy updated in our system. 
+
+02:49 
+Member: Okay, that sounds good. How long will it take to update the policy and reprocess the claim? 
+
+02:51 
+Customer Support: It should only take a few minutes to update the policy. Once that's done, I'll go ahead and reprocess the claim. You should receive an update within the next 24-48 hours. 
+
+02:54 
+Member: Alright, that sounds good. Thank you for your help. 
+
+02:56 
+Customer Support: You're welcome, MEM123456. Is there anything else I can assist you with today? 
+
+02:58 
+Member: No, that's all. Thank you again. 
+
+02:59 
+Customer Support: You're welcome. Have a great day. 
+
+03:00

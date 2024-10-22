@@ -1,0 +1,41 @@
+Member: Hi, I'm calling about a claim that was denied. I received a letter saying that my policy doesn't cover the service, but I'm pretty sure it should be covered. My member ID is MEM123456.
+
+Customer Support: Sorry to hear that, Mr... (checking the member ID) ...I'm happy to help you with that. Can you please tell me more about the service that was denied and when it was provided?
+
+Member: It was a dental service, and I had it done about two months ago. But here's the thing - I had switched my policy a few months prior to that, and according to the new policy, this service should be covered.
+
+Customer Support: I understand. Let me check on that for you. (pause) Ah, I think I see the issue here. It looks like your new policy hasn't been updated in our system yet, which is why the claim was denied.
+
+Member: That makes sense, I guess. So, what can we do to fix this?
+
+Customer Support: I'm going to go ahead and connect you with our claims review team. They'll be able to re-process your claim and get it approved. Would you be available to hold for just a few minutes while I transfer the call?
+
+Member: Yeah, that's fine. Thank you for your help so far.
+
+Customer Support: You're welcome, Mr... ( surname). I apologize again for the inconvenience. (pause) Okay, I'm going to transfer the call now. Please hold for just a moment.
+
+(Member holds for 2 minutes)
+
+Customer Support: Hi again, Mr... (surname)? I've got our claims review team on the line now. They're going to take care of re-processing your claim.
+
+Member: Great, thank you.
+
+Claims Review Team: Hi Mr... (surname), this is (name) from the claims review team. We've reviewed your case, and we're going to go ahead and approve your claim. You should receive an update in the mail within the next week or so.
+
+Member: That's great news, thank you.
+
+Claims Review Team: You're welcome. We apologize again for the mistake. Is there anything else we can help with today?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: Great, Mr... (surname). We're glad we could resolve the issue for you. If you have any other questions or concerns in the future, don't hesitate to reach out.
+
+Member: Will do, thank you.
+
+Customer Support: You're welcome. Have a great day.
+
+Member: You too, bye.
+
+Customer Support: Bye.
+
+ Duration: 9 minutes.

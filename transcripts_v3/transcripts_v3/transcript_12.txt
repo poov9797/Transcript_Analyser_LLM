@@ -1,0 +1,23 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I'm pretty sure my policy says I shouldn't have to pay anything for that service.
+
+Customer Support: I'd be happy to help you with that, Mr. Johnson. Can you please confirm your member ID so I can look into this further? 
+
+Member: My member ID is MEM123456.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. Can you please tell me more about the service you received and the date of your visit?
+
+Member: It was a routine physical exam on January 10th. My policy says I shouldn't have to pay anything for preventive care.
+
+Customer Support: I understand. Let me just check on that for you. (pause) Okay, I've checked on the policy details, and it looks like you are correct. You should not have been charged a copay for that service.
+
+Member: That's what I thought. So, what can be done about the charge I already paid?
+
+Customer Support: I'd be happy to assist you with that. I'm going to go ahead and process a refund for the $50 copay you paid. You should receive the refund within 7-10 business days.
+
+Member: That sounds great, thank you so much for your help!
+
+Customer Support: You're welcome, Mr. Johnson. I apologize again for the mistake and any inconvenience it may have caused. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again!
+
+Customer Support: You're welcome. Have a great day, Mr. Johnson!

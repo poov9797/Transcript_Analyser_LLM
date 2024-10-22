@@ -1,0 +1,47 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth to verify your identity?
+
+Member: It's August 12, 1985.
+
+Agent: Thank you, Emily. Can you please provide me with the details of the case you'd like to get pre-authorized? What's the procedure code and the date of the service?
+
+Member: The procedure code is 99213 and the date of service is scheduled for next Monday, March 21st.
+
+Agent: Okay, I've got that. Can you please tell me a little bit more about the procedure? What's the diagnosis code and the provider's name?
+
+Member: The diagnosis code is 250.00 and the provider's name is Dr. Smith.
+
+Agent: Alright, Emily. I've got all the information. Can you please hold for just a moment while I check your eligibility and the details of the procedure?
+
+Member: Sure, I'll hold.
+
+Agent: Thank you for holding, Emily. I've checked your eligibility and it looks like you have a deductible of $500 that needs to be met before we can pre-authorize the procedure.
+
+Member: Okay, I was aware of that. But I was told by my doctor's office that the procedure would be covered.
+
+Agent: I understand, Emily. However, our system is showing that the deductible needs to be met first. I can provide you with a quote for the estimated cost of the procedure, but I won't be able to pre-authorize it until the deductible is met.
+
+Member: That's frustrating. Can you tell me how much the deductible is and how much the procedure will cost?
+
+Agent: Based on our estimates, the procedure will cost around $2,000. Your deductible is $500, so you would need to pay that amount out of pocket before we can cover the remaining $1,500.
+
+Member: Okay, I see. Well, can I get a pre-authorization for the amount that you will cover?
+
+Agent: I apologize, Emily, but our system won't allow me to pre-authorize only a portion of the procedure. It's all or nothing. If you'd like, I can provide you with a letter explaining the situation and you can discuss it further with your doctor's office.
+
+Member: Okay, that sounds good. Can you send me the letter via email?
+
+Agent: Yes, I can do that. But, Emily, please note that this case is not pre-authorized and you may be responsible for the full amount of the procedure.
+
+Member: Okay, I understand. Thank you for your help.
+
+Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Agent: You're welcome. Have a great day, Emily.
+
+Member: You too. Bye.
+
+Agent: Bye.

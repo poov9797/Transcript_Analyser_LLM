@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about a claim that was denied. My name is Emily Wilson and my member ID is MEM123456. 
+
+Customer Support: I apologize for the inconvenience, Ms. Wilson. Can you please provide me with more details about the denied claim so I can assist you better?
+
+Member: Yes. It was for a service I received last month. The denial letter said it's not covered under my policy, but I had actually switched to a new policy that does cover this service. 
+
+Customer Support: I understand. Let me check on that for you. Can you please hold for a moment?
+
+Member: (sighs) Okay...
+
+Customer Support: (after 2 minutes) I apologize for the delay, Ms. Wilson. I've checked on your policy, and it appears that your new policy information hasn't been updated in our system yet.
+
+Member: (frustrated) That's ridiculous. I switched policies over two months ago. How long does it take to update the system?
+
+Customer Support: I apologize for the oversight, Ms. Wilson. I'm going to go ahead and escalate this issue to our policy updates team to get this corrected as soon as possible.
+
+Member: (angrily) Well, what about my claim? Can you just approve it in the meantime?
+
+Customer Support: I understand your concern, but I need to get your policy updated first. Once that's done, I can work on getting your claim reprocessed. I'm going to go ahead and connect you with the team that handles policy updates.
+
+Member: (sighs) Fine.
+
+Customer Support: (after 3 minutes) Ms. Wilson, I've connected with the policy updates team, and they're going to expedite the update of your policy information. They'll also notify the claims team to put your claim on hold until the update is complete.
+
+Member: (skeptical) Okay... And how long is this going to take?
+
+Customer Support: It should be updated by the end of the day, and then the claims team will review your claim again. We'll be in touch with you within the next 24 to 48 hours with an update.
+
+Member: (unconvinced) Alright... Thank you, I guess.
+
+Customer Support: You're welcome, Ms. Wilson. I apologize again for the inconvenience, and we'll be in touch soon.
+
+Member: (hangs up)
+
+Duration: 9 minutes

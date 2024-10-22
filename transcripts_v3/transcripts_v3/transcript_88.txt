@@ -1,0 +1,41 @@
+Member: Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought it was supposed to be $20 according to my policy.
+
+Customer Support: I apologize for the inconvenience, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr./Ms./Mrs./Dr./Prof. (TITLE), I've located your account. Can you please confirm the date of service and the provider's name for the visit in question?
+
+Member: The date of service was January 10th, and the provider's name is Dr. Smith.
+
+Customer Support: Okay, I've found the claim. The copay amount is indeed $50, but I'd like to review the policy details to ensure it's accurate. Can you please hold for just a moment?
+
+Member: Sure.
+
+Customer Support: (after a brief hold) I apologize for the wait. I've reviewed your policy, and it appears that the copay for this service should be $20. I'm going to go ahead and process a refund for the difference of $30.
+
+Member: That sounds great, thank you! How long will it take for the refund to be processed?
+
+Customer Support: The refund will be processed within the next 7-10 business days. You will receive a refund check in the mail.
+
+Member: Okay, that sounds good. Can you also confirm that my policy allows for no copay for this service in the future?
+
+Customer Support: Yes, I've updated the system to reflect the correct copay amount of $20 for this service. However, I did notice that your policy does have a provision that waives the copay for this service after the first visit. I'll go ahead and update that in our system as well.
+
+Member: That's great, thank you for your help!
+
+Customer Support: You're welcome, Mr./Ms./Mrs./Dr./Prof.(TITLE). Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day!
+
+(Pause)
+
+Customer Support: (after 12 minutes) I'm going to go ahead and close out this call. Is there anything else you'd like to add or discuss before we end the call?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome, Mr./Ms./Mrs./Dr./Prof.(TITLE). Goodbye!
+
+Member: Goodbye.

@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about a concern I have with my recent medical bill. My name is Emily Wilson and my member ID is MEM123456. I was charged a $50 copay for a doctor's visit, but I thought my policy covered that service with a $20 copay. Can you help me figure out what happened?
+
+Customer Support: Thank you for reaching out, Emily! I'd be happy to look into this for you. Can you please confirm your date of birth and the date of the doctor's visit so I can pull up the correct information?
+
+Member: My date of birth is March 12, 1985, and the doctor's visit was on January 25th of this year.
+
+Customer Support: Thank you, Emily. I've located your account and the claim in question. I'm reviewing the details now... (pause) Ah, I see the issue. It looks like there was an error in the billing process. Your policy does indeed cover this service with a $20 copay. I'm going to go ahead and adjust the claim to reflect the correct copay amount.
+
+Member: Oh, that's great! Thank you so much for looking into this. Can you tell me how much I'll be refunded?
+
+Customer Support: You'll be receiving a refund of $30, which is the difference between the incorrect copay amount and the correct copay amount. You should receive the refund within the next 7-10 business days.
+
+Member: That sounds wonderful. Thank you for your help in resolving this issue. I really appreciate it!
+
+Customer Support: You're welcome, Emily! I'm glad I could assist you in getting this corrected. If you have any other questions or concerns, please don't hesitate to reach out. Have a great day!
+
+Member: You too, thank you again!
+
+Customer Support: Thank you, Emily. Have a great day and feel free to call us if you need anything else.
+
+(pause)
+
+Customer Support: Emily, I just wanted to confirm that I've also sent you a confirmation email with the details of the adjustment and the expected refund amount, just for your records.
+
+Member: Ah, great! Thank you for letting me know. I'll keep an eye out for that email.
+
+Customer Support: You're welcome! Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome, Emily. It was a pleasure assisting you. Have a great day!

@@ -1,0 +1,27 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM234567.
+
+Customer Support: Hi Emily, thank you for reaching out. Can you please confirm your date of birth so I can look up your account?
+
+Member: It's March 12, 1985.
+
+Customer Support: Okay, thank you. What type of specialist are you looking to see and what's your preferred date for the appointment?
+
+Member: I need to see a cardiologist. I'd like to schedule it for next Wednesday or Thursday.
+
+Customer Support: Okay, let me check the availability of our cardiologists. (pause) I have a few options available for next Wednesday. We have Dr. Smith at 9:00 AM or Dr. Johnson at 2:00 PM. Which one would you prefer?
+
+Member: Can you tell me a bit more about both doctors?
+
+Customer Support: Absolutely. Dr. Smith has over 10 years of experience in cardiology and has a 4.5-star rating from our patients. Dr. Johnson has over 15 years of experience and a 4.8-star rating. Both doctors are highly qualified, but Dr. Johnson has a slightly higher rating.
+
+Member: That sounds great. I think I'd like to schedule with Dr. Johnson at 2:00 PM.
+
+Customer Support: Okay, I've scheduled the appointment for you. You'll receive a confirmation email with the details. Is there anything else I can assist you with?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, Emily. We'll follow up with you before your appointment to confirm. If you have any other questions or concerns, feel free to reach out.
+
+Member: Sounds good. Thanks again.
+
+Customer Support: Have a great day, Emily.

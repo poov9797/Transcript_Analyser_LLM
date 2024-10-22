@@ -1,0 +1,37 @@
+Member: Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I'm certain my policy says I shouldn't have to pay anything for that service.
+
+Customer Support: I apologize for the inconvenience. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr... (pause) ...Johnson. I've located your account. Can you please confirm the date of your doctor's visit and the service you received?
+
+Member: It was yesterday, and I had a routine check-up.
+
+Customer Support: Okay, I see that in our system. I'm going to check the copay information for your policy. (pause) I apologize for the wait. It looks like there might be some discrepancy with the copay amount. Can you please hold for just a moment while I investigate further?
+
+Member: Sure, thank you.
+
+Customer Support: I've checked with our system, and it appears that the copay for a routine check-up should indeed be $0 for your policy. I'm going to go ahead and process a refund for the $50 you were charged.
+
+Member: That's great, thank you so much! I appreciate your help.
+
+Customer Support: You're welcome, Mr. Johnson. I apologize again for the mistake. You should receive the refund within the next 7-10 business days. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome. Have a great day, Mr. Johnson.
+
+Member: You too.
+
+(pause)
+
+Customer Support: Is there anything else I can assist you with before we end the call?
+
+Member: No, that's all. Thank you.
+
+Customer Support: Alright, thank you for reaching out to us. We appreciate your feedback and we're glad we could resolve the issue for you. Goodbye!
+
+Member: Goodbye.
+
+(call ended)

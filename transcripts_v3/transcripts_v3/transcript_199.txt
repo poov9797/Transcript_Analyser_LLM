@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about a denied claim. I received a letter stating that my policy doesn't cover the service, but I recently switched to a new policy that should cover it. My member ID is MEM123456.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with your claim number so I can look into this further?
+
+Member: It's CLM789012.
+
+Customer Support: Thank you. I'm checking on the status of your claim. Can you please confirm the date of service for the claim you're inquiring about?
+
+Member: It was on February 10th.
+
+Customer Support: I've located your claim. I apologize, but it appears that our system still has your old policy information on file, which doesn't cover the service. However, I see that you did switch to a new policy that should cover it.
+
+Member: That's correct. I switched policies in January. I don't understand why the new policy isn't reflected in your system.
+
+Customer Support: I apologize for the oversight. I'm going to go ahead and connect you with our policy update team to get your new policy updated in our system. They will also assist in reprocessing your claim.
+
+Member: Okay, that sounds good. How long will it take to update the policy and reprocess the claim?
+
+Customer Support: Typically, it takes about 24 to 48 hours for the policy update to be reflected in our system. Once the update is complete, the claim will be automatically reprocessed. You will receive a new claims determination letter with the outcome.
+
+Member: Alright, that sounds great. Thank you for your help in resolving this issue.
+
+Customer Support: You're welcome, MEM123456. I apologize again for the inconvenience. If you have any further questions or concerns, please don't hesitate to reach out to us. Your claim should be reprocessed shortly.
+
+Member: Thank you. I appreciate your assistance.
+
+Customer Support: You're welcome. Have a great day.
+
+ Member: You too. Bye.
+
+Customer Support: Bye.

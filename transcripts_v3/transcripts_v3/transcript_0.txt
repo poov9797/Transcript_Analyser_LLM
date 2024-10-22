@@ -1,0 +1,39 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456789.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Thank you, Emily. Can you please provide me with some details about the case you're seeking pre-authorization for? What's the nature of the treatment or service you're looking to receive?
+
+Member: I'm scheduled to undergo an MRI scan for a knee injury. My doctor's office has already submitted the request, but I wanted to confirm the status and ensure that it's covered under my plan.
+
+PA Agent: I apologize for the delay, Emily. Let me just check on the status of your request. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+PA Agent: Thank you for holding, Emily. I've located your request and I'm reviewing the details now. Can you please confirm the name of your doctor and the facility where the MRI scan is scheduled to take place?
+
+Member: My doctor's name is Dr. Smith and the facility is Oakwood Medical Center.
+
+PA Agent: Thank you, Emily. I've verified the information and I'm checking your eligibility now. Can you please hold for just another moment?
+
+Member: Okay.
+
+PA Agent: Thank you for holding, Emily. I've checked your eligibility and it appears that you do have coverage for the MRI scan under your plan. However, I need to escalate this request to our medical review team for further evaluation.
+
+Member: Okay, what does that mean?
+
+PA Agent: It means that our medical review team will review your case and make a determination regarding pre-authorization. I apologize, but I won't be able to provide a decision today. We'll be in touch with you within the next 3-5 business days to let you know the outcome.
+
+Member: Okay, that sounds good. Can you give me a reference number for this case so I can follow up if needed?
+
+PA Agent: Yes, certainly. Your case number is PA001234. You can use this number to follow up on the status of your request.
+
+Member: Great, thank you for your help.
+
+PA Agent: You're welcome, Emily. We'll be in touch soon. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+PA Agent: You're welcome. Have a great day.

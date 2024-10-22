@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to get a case pre-authorized for a procedure I need to have done. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth for me?
+
+Member: It's March 12, 1985.
+
+Customer Support: Great, thank you. Can you tell me a little bit about the procedure you're looking to have done and the doctor you'll be seeing?
+
+Member: Yes, I'm scheduled to have a knee arthroscopy with Dr. Smith at Mercy Hospital on April 15th. I've already had an MRI and the doctor says I need to have the procedure to repair a torn meniscus.
+
+Customer Support: Okay, I've located your information in our system. Can you please confirm your contact information, including your phone number and address?
+
+Member: My phone number is 555-123-4567 and my address is 123 Main Street, Anytown, USA 12345.
+
+Customer Support: Great, thank you for confirming that information. I'm going to check on the eligibility for your procedure. Can you please hold for just a moment?
+
+Member: Sure, go ahead.
+
+Customer Support: Thank you for holding, Emily. I've checked on the eligibility for your procedure and it looks like you do have coverage for the knee arthroscopy. However, I do need to let you know that there is a deductible that will apply to this procedure.
+
+Member: Okay, that's what I expected. Can you tell me how much the deductible is and how much I'll be responsible for paying out of pocket?
+
+Customer Support: Your deductible is $500 and after that, you'll have a 20% coinsurance. Based on the estimated cost of the procedure, it looks like you'll be responsible for paying around $1,200 out of pocket.
+
+Member: Okay, that sounds about right. Can you please go ahead and pre-authorize the case for me?
+
+Customer Support: Yes, I'd be happy to do that. I'm going to go ahead and process the pre-authorization now. You should receive a confirmation letter in the mail within the next few days. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help!
+
+Customer Support: You're welcome, Emily. Have a great day and we hope everything goes smoothly with your procedure.

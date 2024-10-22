@@ -1,0 +1,59 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for calling PA customer care. I'm Agent Thompson. Can you please confirm your date of birth and the service you're seeking pre-authorization for?
+
+Member: My date of birth is March 12, 1985, and I need pre-authorization for a knee surgery.
+
+Customer Support: Thank you, Emily. Can you please provide me with the name of your doctor and the procedure code for the surgery?
+
+Member: My doctor's name is Dr. Smith, and the procedure code is XYZ123.
+
+Customer Support: Great, thank you for providing that information. Can you please hold for just a moment while I verify your eligibility and check on the status of your coverage?
+
+Member: Sure, thank you.
+
+Customer Support: (after 2 minutes) Emily, I've verified your eligibility and checked on your coverage. It looks like you have met the necessary requirements for pre-authorization. Can you please confirm your contact information so I can provide you with a pre-authorization number?
+
+Member: My phone number is 555-1234 and my email is emilywilson@email.com.
+
+Customer Support: Great, thank you for confirming. Your pre-authorization number is PA123456. You should receive a confirmation email with the details of your pre-authorization.
+
+Member: That's great, thank you so much for your help!
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: You too, thank you. Bye.
+
+Customer Support: Bye.
+
+(pause)
+
+Customer Support: (after 5 minutes) Emily, I just wanted to follow up and make sure you received the confirmation email with your pre-authorization details.
+
+Member: Yes, I received it. Thank you for checking in.
+
+Customer Support: You're welcome. If you have any other questions or concerns, please don't hesitate to reach out to us. Have a great day.
+
+Member: Thank you, you too. Bye.
+
+Customer Support: Bye.
+
+(pause)
+
+Customer Support: (after 3 minutes) Emily, I just wanted to confirm that the pre-authorization number I provided earlier, PA123456, is valid for 30 days from today's date.
+
+Member: Okay, got it. Thank you for letting me know.
+
+Customer Support: You're welcome. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: You too, thank you. Bye.
+
+Customer Support: Bye.

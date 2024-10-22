@@ -1,0 +1,43 @@
+Member: Hi, I'm calling about my recent copay charge. I was charged $50 for a doctor's visit, but I'm pretty sure I shouldn't have been charged that much.
+
+Customer Support: I'd be happy to help you with that. Can you please provide me with your member ID?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you. Can you please confirm your name for me?
+
+Member: My name is Emily Wilson.
+
+Customer Support: Thank you, Ms. Wilson. I'm looking up your account information now. Can you please tell me more about the copay charge you're disputing?
+
+Member: Yes. I went to see my primary care physician last week, and when I got the bill, I saw that I was charged $50 as a copay. But I've checked my policy, and it says that I shouldn't have to pay anything for primary care visits.
+
+Customer Support: I understand. Let me just verify that information. (pause) Okay, I've checked on our end, and it looks like you're correct that your policy does cover primary care visits with a $0 copay.
+
+Member: That's what I thought. So why did I get charged $50?
+
+Customer Support: I'm going to check on the claim to see what happened. (pause) It looks like there might have been an error on our part when we processed the claim. I'm going to go ahead and request a review of the claim to see if we can adjust the copay amount.
+
+Member: Okay, that sounds good. How long will that take?
+
+Customer Support: The review process usually takes a few days to a week. I can also offer to send you a follow-up email to let you know the status of the review.
+
+Member: That would be great, thank you.
+
+Customer Support: You're welcome. I just want to confirm that we have your current email address on file. Is your email address still ewilson@email.com?
+
+Member: Yes, that's correct.
+
+Customer Support: Great. I'll go ahead and send you an email update once the review is complete. Is there anything else I can assist you with today, Ms. Wilson?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome. I apologize again for the inconvenience, and we'll get this resolved for you as soon as possible.
+
+Member: Thank you.
+
+Customer Support: You're welcome, Ms. Wilson. Have a great day.
+
+Member: You too. Bye.
+
+Customer Support: Bye.

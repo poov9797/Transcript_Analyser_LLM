@@ -1,0 +1,16 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. My member ID is MEM123456. 
+Customer Support: I apologize for the inconvenience, Mr...? 
+Member: Johnson. 
+Customer Support: Thank you, Mr. Johnson. Can you please provide me with the claim number so I can look into this further? 
+Member: It's CLM789012. 
+Customer Support: Thank you. I've located the claim. It appears that the denial was due to the service not being covered under your policy. 
+Member: But I had switched to a new policy a month ago, and as per the new policy, this service should be covered. 
+Customer Support: I understand your concern, Mr. Johnson. Let me check on the status of your policy update. (pause) I apologize for the delay. It seems that your new policy has not been updated in our system, which is why the claim was denied. 
+Member: That's frustrating. Can you help me get this resolved? 
+Customer Support: Absolutely, Mr. Johnson. I'm going to go ahead and connect you with our claims investigation team, and they will review your case and get the claim approved under your new policy. Please hold for just a moment. 
+Member: Okay, thank you. 
+Customer Support: (after a short hold) Mr. Johnson, I've spoken with the claims investigation team, and they are going to review your claim and process it under your new policy. You should receive an update on the status within the next 24-48 hours. 
+Member: That sounds great, thank you for your help. 
+Customer Support: You're welcome, Mr. Johnson. Is there anything else I can assist you with today? 
+Member: No, that's all. Thank you again for resolving this issue. 
+Customer Support: You're welcome. Have a great day, Mr. Johnson.
