@@ -1,0 +1,41 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.
+
+Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth for verification purposes?
+
+Member: It's August 12, 1985.
+
+Agent: Thank you, Emily. Can you please provide me with the details of the medical procedure you're seeking pre-authorization for?
+
+Member: Yes, I'm scheduled to have a knee replacement surgery on March 15th. My doctor's name is Dr. Smith and the procedure code is 29881.
+
+Agent: Okay, I've got that. Can you please confirm your contact information, including your address and phone number?
+
+Member: My address is 123 Main Street, Anytown, USA 12345, and my phone number is 555-555-5555.
+
+Agent: Thank you, Emily. I'm going to check on your eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+Agent: Okay, I'm back. I've checked on your eligibility and I need to inform you that we require additional information to process your pre-authorization request.
+
+Member: What kind of information do you need?
+
+Agent: We need your doctor to provide us with a detailed report explaining the medical necessity of the procedure. Can you please have your doctor fax that over to us?
+
+Member: Okay, I'll have him do that. How long will it take to process the pre-authorization once you receive the report?
+
+Agent: It typically takes 3-5 business days to process. However, I want to inform you that we may need additional information or clarification, which could delay the process.
+
+Member: Okay, I understand. Can I check on the status of my pre-authorization request while it's being processed?
+
+Agent: Yes, you can call us back to check on the status. We'll also send you a letter and an email once a decision has been made.
+
+Member: Okay, thank you for your help.
+
+Agent: You're welcome, Emily. I apologize, but I'm not able to provide a pre-authorization decision at this time. We'll be in touch once we've received the additional information from your doctor.
+
+Member: Okay, thank you.
+
+Agent: If you have any further questions or concerns, please don't hesitate to reach out to us. Have a great day, Emily.
+
+Member: Thank you, you too.

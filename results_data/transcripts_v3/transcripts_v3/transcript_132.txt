@@ -1,0 +1,41 @@
+Member: Hi, I'm calling to get a case pre-authorized for a upcoming medical procedure. My name is Emily Wilson and my member ID is MEM543210.
+
+PA Agent: Good morning Emily, thank you for calling PA customer care. Can you please confirm your date of birth and the last four digits of your social security number for verification purposes?
+
+Member: My date of birth is 02/12/1985 and the last four digits of my social security number are 4219.
+
+PA Agent: Thank you, Emily. I've verified your information. Can you please provide me with the details of the medical procedure you're seeking pre-authorization for?
+
+Member: Yes, I'm scheduled to undergo a knee replacement surgery on March 15th at Mercy Hospital. My doctor's name is Dr. Smith and the procedure code is 27447.
+
+PA Agent: Okay, I've got that information. Can you please tell me what's been diagnosed and why this procedure is necessary?
+
+Member: I've been experiencing severe knee pain due to arthritis and my doctor has recommended the replacement surgery to alleviate the pain and improve my mobility.
+
+PA Agent: I understand. I'm going to check your eligibility and coverage for this procedure. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+PA Agent: Okay, Emily, I've checked your eligibility and it appears that you have coverage for this procedure. However, I need to review some additional information before I can provide a decision on your pre-authorization request.
+
+Member: Okay, that's fine. What else do you need from me?
+
+PA Agent: I just need to review your medical history and the notes from your doctor. Can you please fax over any relevant medical records to our office?
+
+Member: Yes, I can do that. What's the fax number?
+
+PA Agent: The fax number is 555-123-4567. Once we receive the records, we'll review them and make a decision on your pre-authorization request.
+
+Member: Okay, thank you. How long will it take to get a decision?
+
+PA Agent: We typically make decisions within 3-5 business days after receiving all necessary documentation. We'll contact you once a decision has been made.
+
+Member: Okay, that sounds good. Thank you for your help today.
+
+PA Agent: You're welcome, Emily. If you have any further questions or concerns, please don't hesitate to reach out to us. We'll be in touch soon.
+
+Member: Thanks again.
+
+PA Agent: Have a great day, Emily.
+
+(Note: The conversation lasted for approximately 10 minutes and ended in a not resolved state, with the agent needing to review additional information before making a decision on the pre-authorization request. The sentiment of the conversation is positive, with both the member and agent being courteous and helpful.)

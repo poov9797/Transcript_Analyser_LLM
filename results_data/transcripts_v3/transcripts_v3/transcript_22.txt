@@ -1,0 +1,16 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. My member ID is MEM123456. 
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please provide me with more details about the denied claim so I can better assist you?
+Member: Yes, of course. I had a procedure done last month, and when I submitted the claim, it was denied because the policy doesn't cover the service. However, I had switched to a new policy before the procedure, and I'm certain the new policy covers this service.
+Customer Support: I understand your concern, Mr. Johnson. Let me check on that for you. Can you please hold for just a moment?
+Member: Sure, thank you.
+Customer Support: Thank you for holding, Mr. Johnson. I've checked on the status of your claim, and it appears that the denial was due to the system showing your old policy information. However, I've located your new policy details, and it does indeed cover the service you had.
+Member: That's what I thought. So, what can be done to correct this and get the claim approved?
+Customer Support: I'm going to go ahead and contact the relevant team to update your policy information in our system and have the claim reprocessed. I'll also request that the claim be expedited so you can receive reimbursement as soon as possible.
+Member: That sounds great. How long do you think it will take?
+Customer Support: I would estimate about 3 to 5 business days for the claim to be reprocessed and approved. You will receive a notification once the claim has been updated.
+Member: Okay, that sounds reasonable. And will I need to do anything on my end?
+Customer Support: No, Mr. Johnson, you won't need to do anything further. We'll take care of the rest. If you have any other questions or concerns, feel free to reach out to us.
+Member: Alright, thank you very much for your help. I appreciate it.
+Customer Support: You're welcome, Mr. Johnson. Is there anything else I can assist you with today?
+Member: No, that's all. Thanks again.
+Customer Support: You're welcome. Have a great day.

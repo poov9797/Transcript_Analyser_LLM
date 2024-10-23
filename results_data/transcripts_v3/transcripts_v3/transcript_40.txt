@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought my policy waived copays for primary care visits.
+
+Customer Support: I apologize for the concern, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr./Ms./Mrs./Dr. (Member's Last Name). I've located your account. Can you please confirm the date of the doctor's visit and the name of the provider?
+
+Member: It was on February 10th, and the provider was Dr. Smith.
+
+Customer Support: I've found the claim. I'm going to review the policy details and the claim processing to see why you were charged a copay. Can you please hold for just a moment?
+
+Member: Sure.
+
+Customer Support: Thank you for holding. I've reviewed the information, and it appears that there was an error in the claim processing. Your policy does indeed waive copays for primary care visits. I'm going to go ahead and process a refund for the $50 copay.
+
+Member: That's great, thank you! How long will it take to receive the refund?
+
+Customer Support: The refund should be processed within the next 7-10 business days. You will receive a separate refund check in the mail.
+
+Member: Okay, that sounds good. Can you also confirm that my account will be updated to reflect the corrected copay?
+
+Customer Support: Yes, I've already updated your account to reflect the correct copay amount of $0. You should see the update on your next statement.
+
+Member: Alright, thank you for your help. I appreciate it.
+
+Customer Support: You're welcome, Mr./Ms./Mrs./Dr. (Member's Last Name). Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day!

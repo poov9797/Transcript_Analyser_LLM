@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about a denied claim I received. I don't understand why it was denied. My claim number is #MEM123456.
+
+Customer Support: I apologize for the inconvenience, Mr... (pause) ...let me check on that for you. Can you please confirm your name and date of birth for verification purposes?
+
+Member: My name is John Smith, and my date of birth is January 12, 1990.
+
+Customer Support: Thank you, Mr. Smith. I've located your claim. It appears the denial was due to your policy not covering the service. However, you mentioned you switched policies. Can you tell me more about that?
+
+Member: Yes, that's correct. I switched policies a few months ago. As per my new policy, the services I claimed should be covered.
+
+Customer Support: I see. Let me investigate this further. (pause) ...It looks like your new policy details haven't been updated in our system, which is why the claim was denied.
+
+Member: That explains a lot. What can be done to rectify this situation?
+
+Customer Support: I'm going to escalate this to our policy update team to rectify the issue. They will update your policy in our system, and then we can reprocess your claim.
+
+Member: Okay, that sounds good. How long will this take?
+
+Customer Support: It usually takes about 3 to 5 business days for the update and reprocessing. You will receive a notification once the claim is reprocessed.
+
+Member: Alright, thank you for explaining and for your help.
+
+Customer Support: You're welcome, Mr. Smith. I apologize again for the inconvenience. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. We'll be in touch once the claim is reprocessed. Have a good day.
+
+Member: You too, thank you.
+
+Customer Support: Thank you for calling. Goodbye.
+
+Member: Goodbye.
+
+[Call Duration: 9 minutes]

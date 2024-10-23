@@ -1,0 +1,31 @@
+Member: Hi, I'm calling because I'm having trouble logging in to my online service account. My member ID is MEM123456.
+
+Technical Support: Thank you for reaching out to us, MEM123456. Sorry to hear that you're experiencing issues with logging in. Can you tell me more about the problem you're encountering?
+
+Member: Well, I'm trying to register and log in, but it keeps saying my credentials are incorrect. I've tried resetting my password, but it's still not working.
+
+Technical Support: I apologize for the inconvenience. Can you please confirm your email address associated with your account?
+
+Member: It's jsmith@email.com.
+
+Technical Support: Okay, thank you. I'm going to check on our end. Can you please try logging in again while I check?
+
+Member: Okay... (pause) Nope, still not working.
+
+Technical Support: Alright, let me try a few things on my end. Can you please hold for just a moment?
+
+Member: Sure.
+
+Technical Support: Okay, I've checked and it looks like there was an issue with your account activation. I'm going to go ahead and activate it for you now.
+
+Member: Okay, great. Thank you.
+
+Technical Support: You're welcome. Please try logging in again now.
+
+Member: (pause) Okay, that seems to be working now. Thank you for your help!
+
+Technical Support: You're welcome, MEM123456. I'm glad we could resolve the issue for you. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Technical Support: You're welcome. Have a great day.

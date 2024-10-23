@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hello Emily, thank you for calling PA customer care. I'd be happy to help you with your pre-authorization request. Can you please confirm your date of birth and the name of your primary care physician?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. John Smith.
+
+PA Agent: Great, thank you for confirming that information. Can you please tell me a little bit about the case you're looking to get pre-authorized? What's the procedure or service you're needing?
+
+Member: I'm looking to get a knee replacement surgery. I've been experiencing a lot of pain and my doctor thinks this is the best course of action.
+
+PA Agent: I understand. Can you please provide me with the procedure code and the date of the scheduled surgery?
+
+Member: The procedure code is 27447 and the surgery is scheduled for April 15th.
+
+PA Agent: Okay, got it. I'm going to go ahead and check on the eligibility of your benefits for this procedure. Can you please hold for just a moment?
+
+Member: Sure thing.
+
+PA Agent: Okay, I'm back. Based on your benefits, I'm happy to inform you that the knee replacement surgery is covered under your plan. However, I do need to let you know that there is a $500 deductible that will need to be met before we can cover the remaining balance.
+
+Member: That's great news, thank you! I was expecting to have to pay the deductible. What's the next step in the process?
+
+PA Agent: Now that we've pre-authorized the case, you'll just need to make sure that your doctor's office submits the claim to us after the surgery. We'll take care of the rest.
+
+Member: Sounds good. Thank you so much for your help, you've been really great to work with.
+
+PA Agent: You're welcome, Emily. It was my pleasure to assist you. If you have any other questions or need further assistance, don't hesitate to reach out. Have a great day and I hope your surgery goes well.
+
+Member: Thanks again, bye!
+
+PA Agent: Bye Emily, take care!

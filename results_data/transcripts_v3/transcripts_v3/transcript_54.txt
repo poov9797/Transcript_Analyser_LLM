@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456123.
+
+Customer Support: Thank you for reaching out to PA Customer Care, Emily. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+Customer Support: Great, thank you. And can you please provide me with the details of the case you'd like to get pre-authorized? What's the procedure or service you're looking to have done?
+
+Member: I need to have an MRI scan done for my knee. I've been experiencing some pain and my doctor recommends I get it checked out.
+
+Customer Support: Okay, I've got that down. Can you please provide me with the doctor's name and the facility where the procedure is scheduled to take place?
+
+Member: My doctor's name is Dr. Smith and the facility is Mercy Hospital.
+
+Customer Support: Alright, I'm checking on the eligibility of your plan... (pause) Okay, I've confirmed that your plan covers MRI scans. Can you please tell me the date the procedure is scheduled for?
+
+Member: It's scheduled for next Wednesday, the 15th.
+
+Customer Support: Alright, I've got all the information I need. Let me just check a few more things... (pause) Okay, Emily, I'm happy to inform you that your case has been pre-authorized. You should receive a confirmation letter in the mail within the next few days.
+
+Member: Great, thank you so much! I appreciate your help.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: You too, bye.
+
+Customer Support: Bye.

@@ -1,0 +1,65 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Thank you, Emily. Can you please provide me with the details of the case you'd like to get pre-authorized? What's the procedure or service you're seeking pre-authorization for?
+
+Member: I'm looking to get a knee replacement surgery. My doctor has recommended it and I'd like to get it pre-authorized before scheduling the surgery.
+
+PA Agent: Okay, Emily. Can you please provide me with your doctor's name and the name of the hospital where the surgery will take place?
+
+Member: My doctor's name is Dr. Smith and the hospital is Mercy General Hospital.
+
+PA Agent: Thank you, Emily. I'm checking on your eligibility for the procedure... (pause) Okay, it looks like you have coverage for the procedure. However, I do need to inform you that there may be some out-of-pocket costs associated with the surgery.
+
+Member: Okay, that's fine. Can you please let me know what the estimated out-of-pocket costs are?
+
+PA Agent: Let me check on that for you... (pause) Okay, it looks like your estimated out-of-pocket costs will be around $1,000.
+
+Member: Okay, that sounds reasonable. What's the next step in the pre-authorization process?
+
+PA Agent: I'm going to go ahead and process the pre-authorization request. However, I do need to inform you that we'll need to review some additional information before we can provide a final decision. We'll need to review your medical records and get more information from your doctor.
+
+Member: Okay, that sounds good. How long will it take to get a final decision?
+
+PA Agent: We'll typically provide a decision within 3-5 business days. We'll contact you and your doctor's office once a decision has been made.
+
+Member: Okay, that sounds good. Is there anything else I need to do in the meantime?
+
+PA Agent: No, Emily, that's all for now. We'll be in touch soon with an update on your pre-authorization request.
+
+Member: Okay, thank you for your help.
+
+PA Agent: You're welcome, Emily. Have a great day.
+
+   (5 minutes of hold time) 
+
+Member: Hi, I'm back on the line. I just wanted to confirm that you've processed my pre-authorization request.
+
+PA Agent: Yes, Emily, I have processed your request. However, as I mentioned earlier, we'll need to review some additional information before we can provide a final decision.
+
+Member: Okay, that's great. Is there anything else I can provide to help expedite the process?
+
+PA Agent: No, Emily, that's all for now. We'll be in touch soon with an update on your pre-authorization request.
+
+Member: Okay, thank you.
+
+PA Agent: You're welcome, Emily.
+
+   (4 minutes of hold time)
+
+Member: Hi, I'm back on the line again. I just wanted to check on the status of my pre-authorization request.
+
+PA Agent: Emily, I apologize for the holdup. We're still reviewing your request. I'm going to go ahead and escalate this to our team for further review.
+
+Member: Okay, that sounds good. When can I expect to hear back from you?
+
+PA Agent: We'll be in touch within the next 24-48 hours with an update on your pre-authorization request.
+
+Member: Okay, thank you for your help.
+
+PA Agent: You're welcome, Emily. We'll be in touch soon.
+
+   (1 minute of hold time)

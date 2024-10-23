@@ -1,0 +1,33 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for reaching out to us. Can you please tell me a little bit more about the specialist visit you're looking for? What type of specialist are you looking to see?
+
+Member: I'm looking to see a cardiologist. I've been experiencing some chest pain and I want to get it checked out.
+
+Customer Support: I understand, Emily. I'm happy to help you with that. Can you please give me a preferred date and time for your appointment? Are you available to come in this week or next?
+
+Member: I'd prefer to come in as soon as possible. How about tomorrow or the day after?
+
+Customer Support: Let me check the availability of our cardiologists. (pause) Okay, I have a few options for you. We have Dr. Smith available tomorrow at 2 PM or Dr. Johnson available the day after tomorrow at 10 AM. Both are highly rated specialists. Which one would you prefer?
+
+Member: That sounds great. I think I'd prefer to see Dr. Smith tomorrow at 2 PM.
+
+Customer Support: Excellent choice, Emily. I'm going to go ahead and schedule that appointment for you. You will receive a confirmation email with all the details. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you so much for your help. I really appreciate it.
+
+Customer Support: You're welcome, Emily. We're happy to help. If you have any questions or need to make any changes to your appointment, please don't hesitate to reach out to us. Have a great day and we'll see you tomorrow at 2 PM.
+
+Member: Sounds great. Thank you again.
+
+Customer Support: You're welcome, Emily. Take care.
+
+(pause)
+
+Customer Support: Emily, I just want to confirm that your appointment with Dr. Smith is scheduled for tomorrow at 2 PM. We'll see you then.
+
+Member: Sounds great. Thank you.
+
+Customer Support: You're welcome. Have a great day.
+
+(call ends after 8 minutes)

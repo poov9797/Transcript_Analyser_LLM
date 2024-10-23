@@ -1,0 +1,39 @@
+Member: Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy said I wouldn't have to pay anything for that service.
+
+Customer Support: I apologize for the inconvenience, ma'am. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Ms... (pause) ...I'm checking on the policy details. Can you please tell me the date of the doctor's visit and the service you received?
+
+Member: It was on January 10th, and I had a routine check-up.
+
+Customer Support: Okay, I've located the claim. According to our records, the copay for a routine check-up is indeed $0. However, it looks like the provider may have billed us incorrectly. I'm going to go ahead and escalate this issue to our claims team to review and correct the copay amount.
+
+Member: That sounds great, thank you! But how long will it take to get this resolved?
+
+Customer Support: We typically resolve these issues within 3-5 business days. You will receive a notification once the correction has been made. In the meantime, I can offer you a case number for your reference: CAS-001234.
+
+Member: Okay, that sounds good. Can you also confirm that I won't be responsible for the $50 copay?
+
+Customer Support: Yes, ma'am. Once the correction is made, you will not be responsible for the $50 copay. We will ensure that the correct amount of $0 is reflected on your account.
+
+Member: Alright, thank you so much for your help. I appreciate it.
+
+Customer Support: You're welcome, Ms. Johnson. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day!
+
+(pause)
+
+Customer Support: Ms. Johnson, just to confirm, I've processed the request to correct the copay amount. You should receive an update within the next 3-5 business days.
+
+Member: Okay, sounds good. Thank you!
+
+Customer Support: You're welcome. Have a great day! 
+
+Member: You too. Bye.
+
+Customer Support: Bye.

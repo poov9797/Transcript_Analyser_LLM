@@ -1,0 +1,39 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy covered that service with a $20 copay.
+
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM456789.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. Can you please confirm the date of the doctor's visit and the service that was provided?
+
+Member: It was on February 10th, and it was a routine physical exam.
+
+Customer Support: Okay, I've located the claim. It looks like the copay amount was indeed $50. However, I'm going to check on the policy details to see if there was an error.
+
+Member: Yeah, because my policy says that routine physical exams have a $20 copay or sometimes no copay at all.
+
+Customer Support: I understand your concern, Mr. Johnson. I'm checking on the policy details... (pause) Okay, I've checked, and it looks like there might have been an error in the copay amount. However, I need to escalate this to our claims department to investigate further.
+
+Member: Okay, that sounds good. How long will it take to resolve this?
+
+Customer Support: Typically, it takes 3-5 business days to investigate and resolve these types of issues. I'll go ahead and open a case for you, and someone from our claims department will be in touch with you to provide an update.
+
+Member: Alright, that sounds good. Can I get a reference number for the case?
+
+Customer Support: Yes, the case number is #CAS012345. You can use that to reference the case when you speak with our claims department.
+
+Member: Okay, got it. Thank you for your help.
+
+Customer Support: You're welcome, Mr. Johnson. We'll be in touch soon to provide an update on your case.
+
+Member: Alright, thanks.
+
+Customer Support: Is there anything else I can assist you with today?
+
+Member: No, that's all.
+
+Customer Support: Okay, Mr. Johnson. Have a great day.
+
+Member: You too, thanks.
+
+Customer Support: Goodbye.

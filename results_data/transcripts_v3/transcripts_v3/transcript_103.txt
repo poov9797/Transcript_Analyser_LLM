@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about a claim that was denied. The reason given was that my policy doesn't cover the service, but I'm certain it should be covered. My member ID is MEM123456.
+
+Customer Support: Sorry to hear that, MEM123456. Can you please provide me with your claim number so I can look into this further for you?
+
+Member: Sure, it's CLM789012.
+
+Customer Support: Thank you. Let me just check on that for you. (pause) Ah, I see the issue here. It says the service is not covered under your policy.
+
+Member: Yes, that's what the denial letter said. But I had switched my policy recently, and the new policy should cover this service.
+
+Customer Support: I understand. Let me check on the status of your policy update. (pause) It appears that your new policy hasn't been updated in our system yet. That's likely why the claim was denied.
+
+Member: So, my new policy does cover the service, but because it's not in the system, the claim was denied?
+
+Customer Support: That's correct. I'm going to go ahead and escalate this issue to our policy update team. They'll update your policy in the system, and then we can reprocess your claim.
+
+Member: Okay, that sounds good. How long will that take?
+
+Customer Support: It usually takes a few days to a week for the update to be processed and for the claim to be reevaluated. I'll also go ahead and request that the claims team expedite the reprocessing of your claim once the policy is updated.
+
+Member: Alright, thank you for looking into this. Can you give me a reference number for this issue so I can follow up?
+
+Customer Support: Yes, your reference number is ISS001234. You can use that to follow up on the status of your policy update and claim reprocessing.
+
+Member: Okay, got it. ISS001234. Thank you for your help.
+
+Customer Support: You're welcome, MEM123456. We'll get this sorted out for you. If you have any other questions or concerns, feel free to reach out to us.
+
+Member: Will do. Thanks again.
+
+Customer Support: Thank you. Have a great day.
+
+Duration: 9 minutes

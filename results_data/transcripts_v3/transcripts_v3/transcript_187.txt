@@ -1,0 +1,37 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, I'm happy to help you with that. Can you please tell me more about the denied claim and what service it was for?
+
+Member: Yes, of course. I had a minor surgery last month and when I submitted the claim, it was denied saying that the policy doesn't cover this type of service.
+
+Customer Support: I apologize for the inconvenience, Emily. Can you please confirm your policy number and the date of the surgery so I can look into this further?
+
+Member: My policy number is the same, MEM123456, and the surgery was on January 10th.
+
+Customer Support: Thank you, Emily. I've located your account. Can you please hold for just a moment while I review the details?
+
+Member: Sure, thank you.
+
+Customer Support: Emily, I've checked on the status of your claim and I see that it was denied because the service is not covered under your old policy. However, I also see that you had switched to a new policy in December.
+
+Member: That's correct! I upgraded my policy to get more coverage.
+
+Customer Support: I think I see the issue here. It looks like your new policy hasn't been updated in our system, which is why the claim was denied. I'm going to go ahead and connect you with our claims team to get this resolved.
+
+Member: Oh, that makes sense. Thank you so much for looking into this!
+
+Customer Support: You're welcome, Emily. I'm going to transfer you now. Please hold for just a moment.
+
+Member: Okay, thank you.
+
+Customer Support: Emily, I've spoken with the claims team and they're going to go ahead and approve your claim. You should receive an update on the status within the next 24 hours.
+
+Member: That's wonderful news! Thank you so much for your help and for resolving this issue.
+
+Customer Support: You're welcome, Emily. I'm glad we could get this sorted out for you. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome, Emily. Have a great day!
+
+Member: You too, thank you!

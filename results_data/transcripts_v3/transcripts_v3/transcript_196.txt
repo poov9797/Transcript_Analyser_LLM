@@ -1,0 +1,45 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for calling us, Emily. Can I just confirm your date of birth to verify your account?
+
+Member: It's August 12, 1985.
+
+Customer Support: Thank you, Emily. What type of specialist are you looking to see and what date were you hoping for the appointment?
+
+Member: I need to see a cardiologist and I was thinking maybe next Wednesday or Thursday?
+
+Customer Support: Okay, let me check the availability of our cardiologists. (pause) It looks like Dr. Smith is available next Wednesday at 2 PM or Dr. Johnson is available next Thursday at 9 AM. Both are highly rated specialists.
+
+Member: That sounds great. Can you tell me a bit more about Dr. Smith's background?
+
+Customer Support: Dr. Smith has been with our network for over 10 years and has excellent patient reviews. She specializes in preventive cardiology and is known for her thorough approach.
+
+Member: That sounds good. And what about Dr. Johnson?
+
+Customer Support: Dr. Johnson is also highly experienced with a strong background in interventional cardiology. He's known for his ability to explain complex conditions in an easy-to-understand way.
+
+Member: Hmm, I think I'm leaning towards Dr. Smith. But before I schedule, can you tell me if there are any additional fees for seeing a specialist?
+
+Customer Support: Let me check on that for you. (pause) It looks like your plan covers specialist visits, but there may be a copay depending on your specific coverage. I can provide you with more detailed information if you'd like.
+
+Member: That would be great, thank you.
+
+Customer Support: I'd be happy to look into that further for you. However, I want to make sure I understand your coverage correctly. Can you please hold for just a moment while I check on a few more details?
+
+Member: Okay, sure.
+
+(pause)
+
+Customer Support: Emily, I apologize for the delay. It looks like we need a bit more information from you to accurately determine the copay amount. Can you please call us back tomorrow so we can look into this further?
+
+Member: Okay, that sounds good. I'll call back tomorrow then.
+
+Customer Support: Sounds good, Emily. We'll look forward to speaking with you tomorrow. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, Emily. Have a great day and we'll talk to you tomorrow.
+
+Member: You too, bye.
+
+Customer Support: Bye.

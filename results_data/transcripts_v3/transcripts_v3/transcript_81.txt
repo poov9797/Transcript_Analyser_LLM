@@ -1,0 +1,23 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. My claim was denied because the policy doesn't cover the service, but I've switched to a new policy that does cover it. My member ID is MEM123456.
+
+        Customer Support: I apologize for the inconvenience, Mr. Johnson. I'd be happy to look into this for you. Can you please confirm your date of birth and the date of the medical service in question?
+
+        Member: My date of birth is March 12, 1985, and the service was on January 10th of this year.
+
+        Customer Support: Thank you, Mr. Johnson. I've located your account. I see that you did switch to a new policy, but it looks like the update hasn't been processed in our system yet. This is likely the reason for the denial.
+
+        Member: That makes sense, I guess. So, what's the next step to get this corrected?
+
+        Customer Support: I'm going to go ahead and escalate this issue to our policy update team. They'll work on getting your new policy updated in the system, and then we can reprocess your claim. You should receive an update within the next 24 to 48 hours.
+
+        Member: Okay, that sounds like a plan. Is there anything else I need to do on my end?
+
+        Customer Support: No, Mr. Johnson, you don't need to do anything else. We'll take care of it from here. I apologize again for the inconvenience, and I appreciate your patience and cooperation.
+
+        Member: Alright, thank you so much for your help. I appreciate it.
+
+        Customer Support: You're welcome, Mr. Johnson. If you have any other questions or concerns, don't hesitate to reach out. Have a great day!
+
+        Member: You too, thank you. Bye.
+
+        Customer Support: Bye, Mr. Johnson.

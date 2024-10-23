@@ -1,0 +1,25 @@
+Member: Hi, I'm calling about a denied claim I received for a service I had done last month. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: Sorry to hear that, Emily. Can you please provide me with the claim number so I can look into this further?
+
+Member: It's CLM789012. I'm a bit confused because I had switched my policy last quarter, and as per my new policy, this service should be covered.
+
+Customer Support: I understand your concern, Emily. Let me just check on that for you. (pause) Okay, I've located the issue. It looks like your new policy hasn't been updated in our system yet, which is why the claim was denied.
+
+Member: That makes sense, I guess. But how long will it take to get this updated and the claim approved?
+
+Customer Support: I'm going to go ahead and connect you with our policy update team, and they'll get this updated right away. In the meantime, I'll also go ahead and send a request to our claims team to reprocess the claim as soon as the policy update is complete.
+
+Member: That sounds great, thank you so much for your help. I really appreciate it.
+
+Customer Support: You're welcome, Emily. I apologize again for the inconvenience, and I'll make sure to follow up with you to ensure everything gets resolved. Can you please hold for just a moment while I get the policy update team on the line?
+
+Member: Sure thing.
+
+(pause)
+
+Customer Support: Okay, Emily, I've got the policy update team on the line. I'm going to transfer you over to them, and they'll take care of getting your policy updated. They'll also keep you updated on the status of your claim.
+
+Member: Sounds good. Thank you again for all your help.
+
+Customer Support: You're welcome, Emily. I'll make sure to follow up with you to ensure everything gets resolved.

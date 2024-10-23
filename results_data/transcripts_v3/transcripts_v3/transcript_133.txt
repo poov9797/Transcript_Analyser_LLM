@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: I'm happy to help you with that, Emily. Can you please provide me with more details about the claim and the reason it was denied?
+
+Member: Yes, of course. The claim was for a physical therapy session, and the denial letter said that my policy doesn't cover this service. But I'm certain that my new policy does cover it. I switched policies a few months ago.
+
+Customer Support: I apologize for the inconvenience, Emily. Can you please confirm your new policy effective date so I can look into this further?
+
+Member: It was effective as of January 1st.
+
+Customer Support: Okay, thank you. I'm checking on the status of your policy update in our system... (pause) Emily, I found the issue. It looks like your new policy hasn't been updated in our system yet, which is why the claim was denied.
+
+Member: Oh, I see. So, what can be done to fix this?
+
+Customer Support: I'm going to go ahead and escalate this issue to our policy update team to get your new policy updated in our system. Once that's done, I'll resubmit the claim for processing.
+
+Member: That sounds great, thank you so much for your help!
+
+Customer Support: You're welcome, Emily. I apologize again for the mistake. I'll also go ahead and provide you with a reference number for this issue, which is #CS-001234. You can use this to follow up on the status of your claim.
+
+Member: Great, thank you. How long will it take to get the claim reprocessed?
+
+Customer Support: We'll get your policy updated and the claim reprocessed within the next 3-5 business days. You'll receive a new claims determination letter once it's been reprocessed.
+
+Member: Okay, that sounds good. Thank you again for your help in resolving this issue.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your time and assistance.
+
+Customer Support: You're welcome, Emily. Have a great day!
+
+Duration: 9 minutes

@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy didn't have a copay for that service.
+
+Customer Support: I'd be happy to help you with that, can you please provide me with your member ID so I can look into this further?
+
+Member: My member ID is MEM123456.
+
+Customer Support: Thank you, Ms... (checking the name) ...Johnson. I've located your account. Can you please tell me more about the service you received and the date of the visit?
+
+Member: It was on February 10th, and I had a follow-up appointment with my primary care physician.
+
+Customer Support: Okay, let me check on that. (pause) I see that you did have a visit on February 10th, and according to our records, you should have had a $0 copay for that service.
+
+Member: Exactly! That's what I thought. So, why was I charged $50?
+
+Customer Support: I apologize for the mistake, Ms. Johnson. It looks like there was an error on our part when processing the claim. I'm going to go ahead and correct this for you.
+
+Member: That's great, thank you so much! How long will it take to correct this?
+
+Customer Support: It should be corrected within the next 24-48 hours. You should receive a refund for the incorrect copay amount.
+
+Member: Wonderful! I appreciate your help with this. Can you also confirm that my policy still has the $0 copay for that service?
+
+Customer Support: Yes, I've verified that your policy still has the $0 copay for that service. You shouldn't have any issues with future visits.
+
+Member: Great, thank you again for your assistance!
+
+Customer Support: You're welcome, Ms. Johnson. Is there anything else I can help you with today?
+
+Member: No, that's all. Thank you!
+
+Customer Support: You're welcome! Have a great day!

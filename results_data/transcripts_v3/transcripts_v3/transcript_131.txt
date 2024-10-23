@@ -1,0 +1,31 @@
+Member: Hello, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I thought my policy had a $20 copay for that service.
+
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please confirm your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. Can you please tell me the date of the doctor's visit and the name of the provider?
+
+Member: It was on February 10th and the provider was Dr. Smith.
+
+Customer Support: Okay, I've found the claim. It looks like the provider did charge a $50 copay. However, I need to verify if this is correct based on your policy benefits.
+
+Member: But I'm certain my policy says $20 copay for specialist visits.
+
+Customer Support: I understand your concern, Mr. Johnson. I'm going to check on the policy details. (pause) Okay, I've checked the policy and it does indeed show a $20 copay for specialist visits. However, there might be some additional information that's causing the higher copay.
+
+Member: What kind of additional information?
+
+Customer Support: It's possible that there was an additional service or procedure performed during the visit that's not covered under the $20 copay. I'm going to need to investigate further.
+
+Member: Okay, that makes sense. But I'm still not sure why I wasn't informed about the higher copay before the visit.
+
+Customer Support: I apologize for the lack of communication, Mr. Johnson. I'm going to escalate this issue to our investigation team to look into why the incorrect copay was charged. We'll be in touch with you within the next 3-5 business days to provide an update.
+
+Member: Alright, thank you for looking into this. I appreciate it.
+
+Customer Support: You're welcome, Mr. Johnson. We apologize again for the inconvenience and will be in touch soon. Is there anything else I can assist you with today?
+
+Member: No, that's all for now. Thank you.
+
+Customer Support: You're welcome. Have a great day, Mr. Johnson.

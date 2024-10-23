@@ -1,0 +1,35 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for calling PA Customer Care. I'd be happy to help you with your pre-authorization request. Can you please confirm your date of birth and the name of your primary care physician?
+
+Member: My date of birth is June 12, 1985, and my primary care physician is Dr. Smith.
+
+Customer Support: Thank you, Emily. I've located your account. Can you please tell me a little bit about the medical procedure you're scheduled to have and the date it's scheduled for?
+
+Member: I'm scheduled to have a knee replacement surgery on March 15th. My doctor says I need to get pre-authorization before the procedure.
+
+Customer Support: Okay, Emily. I'm going to go ahead and check on the eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Sure, no problem.
+
+Customer Support: Okay, Emily, I've checked on the eligibility and it looks like you do have coverage for this procedure. However, I do need to verify a few more details. Can you please tell me the name of the hospital where the procedure will be performed and the name of the surgeon who will be performing the procedure?
+
+Member: The procedure will be performed at Mercy Hospital and the surgeon's name is Dr. Johnson.
+
+Customer Support: Okay, thank you, Emily. I've verified the information and I'm going to go ahead and submit the request for pre-authorization. However, I need to inform you that we are unable to provide a decision today as we need additional information from your doctor's office.
+
+Member: Okay, that's fine. How long will it take to get a decision?
+
+Customer Support: We typically make a decision within 3-5 business days. We will contact you as soon as we have made a decision.
+
+Member: Okay, that sounds good. Thank you for your help.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: You too. Bye.
+
+Customer Support: Bye.

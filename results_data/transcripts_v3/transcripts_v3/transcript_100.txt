@@ -1,0 +1,27 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. I believe it was denied in error.
+
+        Customer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with more information about the claim, such as the date of service and the type of service you received?
+
+        Member: The date of service was January 10th, and it was for a physical therapy session. I received a letter stating that my policy doesn't cover this type of service.
+
+        Customer Support: I understand. Can you please confirm your policy number and the date you purchased the policy?
+
+        Member: My policy number is MEM123456, and I purchased it on December 15th of last year.
+
+        Customer Support: Thank you for providing that information. I'm going to check on the status of your policy. (pause) Ah, I see the issue. It appears that our system has not updated your policy information. You had switched to a new policy, and the new policy does cover physical therapy sessions.
+
+        Member: Exactly! I switched to the new policy because it covered services like physical therapy. I'm glad you were able to find the issue.
+
+        Customer Support: I'm glad we could resolve the issue. However, I need to connect you with our claims processing team to get the claim reprocessed. Can you please hold for just a moment while I transfer the call?
+
+        Member: That sounds great, thank you. I appreciate your help.
+
+        Customer Support: You're welcome, MEM123456. I'm going to transfer the call now. Please hold for just a moment. (pause) Okay, I've transferred the call. You should be speaking with a representative from our claims processing team shortly. They will assist you with getting the claim approved.
+
+        Member: Thank you so much for your help. I really appreciate it.
+
+        Customer Support: You're welcome, MEM123456. We apologize again for the mistake and any inconvenience it may have caused. We'll get this resolved for you as soon as possible.
+
+        Member: Great, thank you. I'll wait for the claims team to assist me.
+
+        Customer Support: Sounds good. We'll follow up with you within the next 24 hours to ensure that the issue is resolved.

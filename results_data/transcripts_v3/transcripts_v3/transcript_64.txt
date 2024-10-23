@@ -1,0 +1,39 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I thought my policy didn't have a copay for that service. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for reaching out, Emily. I'd be happy to help you with that. Can you please confirm your date of birth so I can access your account?
+
+Member: It's March 12, 1985.
+
+Customer Support: Thank you, Emily. I've located your account. Can you tell me more about the service you received and when you received it?
+
+Member: I went to see my primary care physician on January 10th for a routine check-up. I've been going to this doctor for years, and I've never been charged a copay before.
+
+Customer Support: I see. Let me check on the copay amount for that service... (pause) Ah, yes. According to our records, your policy does have a $0 copay for primary care physician visits. However, there might be some additional information I need to look into. Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+Customer Support: (after 2 minutes) Emily, I apologize for the delay. I've reviewed your account, and it looks like the copay was processed correctly. However, I want to confirm some additional details. Can you tell me if you received any additional services or procedures during that visit?
+
+Member: Let me check... (pause) Yes, I did get a blood test done during the visit.
+
+Customer Support: Okay, that might be the reason for the copay. I'm going to check on the specifics of that test... (pause) Ah, yes. It looks like the blood test is a separate service that does have a copay associated with it. However, I want to double-check with our billing team to confirm. Can you please hold for another minute?
+
+Member: Okay, I'll hold.
+
+Customer Support: (after 3 minutes) Emily, I apologize again for the delay. I've spoken with our billing team, and they're looking into this further. It's possible that there was an error in the copay processing. I'm going to escalate this issue to our investigation team, and they'll review your account and get back to you within the next 3-5 business days.
+
+Member: Okay, that sounds good. Thank you for your help so far.
+
+Customer Support: You're welcome, Emily. I apologize again for the inconvenience, and I appreciate your patience. I'll make sure to follow up with our investigation team to ensure this gets resolved as soon as possible.
+
+Member: Great, thank you. What's the next step? Should I just wait to hear back from you?
+
+Customer Support: Yes, that's correct. You can expect a call from our investigation team within the next 3-5 business days. If you have any further questions or concerns, feel free to reach out to us. Your case number for this issue is #INV1234.
+
+Member: Okay, got it. INV1234. Thank you for your help.
+
+Customer Support: You're welcome, Emily. Have a great day, and we'll be in touch soon.
+
+Member: You too, thanks. Bye.
+
+Customer Support: Bye.

@@ -1,0 +1,23 @@
+Member: Hi, I'm calling about my online service account. I'm having some trouble registering and logging in. My member ID is MEM123456.
+
+Customer Support: Thank you for calling, MEM123456. I'd be happy to help you with that. Can you tell me a little bit more about the issue you're experiencing? What happens when you try to log in?
+
+Member: Well, I've tried to register multiple times, but it keeps saying that my information is incorrect. I've double-checked my email and password, but it just won't work.
+
+Customer Support: I apologize for the inconvenience. Can you try logging in again while I watch on my end? Sometimes these issues can be resolved with a simple retry.
+
+Member: Okay... (pause) Yeah, same thing. It says "invalid email or password".
+
+Customer Support: Alright. Let me check on a few things. Can you confirm your email address and password for me?
+
+Member: My email is jsmith@email.com and my password is... (pauses, then whispers) ...my password is " password123".
+
+Customer Support: Thank you for confirming that. I'm going to go ahead and reset your password for you. Can you please try logging in again with the new password I'm going to give you?
+
+Member: Okay... (pause) Yeah, that worked! I'm in. Thank you so much!
+
+Customer Support: You're welcome, MEM123456! I'm glad we were able to resolve the issue. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thanks again for your help!
+
+Customer Support: You're welcome! Have a great day!

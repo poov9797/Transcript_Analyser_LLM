@@ -1,0 +1,47 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson and my member ID is MEM456789.
+
+PA Agent: Thank you for calling, Emily. Can you please confirm your date of birth and the procedure you're seeking pre-authorization for?
+
+Member: My date of birth is March 12, 1985, and I'm looking to get pre-authorization for a knee replacement surgery.
+
+PA Agent: Okay, thank you for providing that information, Emily. Can you please tell me a little bit more about the procedure and why it's needed?
+
+Member: Sure. I've been experiencing chronic knee pain for several years and my doctor has recommended a knee replacement surgery to alleviate the pain and improve my mobility.
+
+PA Agent: I understand. Can you please provide me with your doctor's name and contact information so I can verify the details?
+
+Member: My doctor's name is Dr. John Smith and his office number is 555-1234.
+
+PA Agent: Thank you, Emily. I'm going to go ahead and verify the information. Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+PA Agent: Thank you for holding, Emily. I've verified the information and I'm checking on your eligibility for the procedure.
+
+Member: Okay, thank you.
+
+PA Agent: Okay, Emily, I've checked on your eligibility and it looks like you are eligible for the procedure. However, I need to inform you that there may be some out-of-pocket costs associated with the surgery.
+
+Member: Okay, that's fine. Can you please tell me more about the out-of-pocket costs?
+
+PA Agent: Yes, of course. Based on your plan, you will be responsible for a $500 copayment and 20% coinsurance for the procedure.
+
+Member: Okay, that sounds reasonable. What's the next step in the process?
+
+PA Agent: The next step is for me to go ahead and pre-authorize the procedure. I'll just need to confirm a few more details with you.
+
+Member: Okay, go ahead.
+
+PA Agent: Okay, Emily. I've pre-authorized the procedure. You should receive a letter in the mail within the next 7-10 business days with the details of the authorization.
+
+Member: Great, thank you so much for your help.
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+PA Agent: You're welcome. Have a great day, Emily.
+
+Member: You too, bye.
+
+PA Agent: Bye.

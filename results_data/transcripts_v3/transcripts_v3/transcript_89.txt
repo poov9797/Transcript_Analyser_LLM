@@ -1,0 +1,39 @@
+Member: Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson, and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth and the procedure you're seeking pre-authorization for?
+
+Member: My date of birth is March 12, 1985, and I'm scheduled for a knee replacement surgery.
+
+PA Agent: Okay, thank you for providing that information. Can you please tell me the name of your healthcare provider and the date of the scheduled procedure?
+
+Member: My doctor's name is Dr. Smith, and the surgery is scheduled for April 15th.
+
+PA Agent: Alright, I'm checking on the eligibility of your benefits... (pause) Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+PA Agent: (after a brief hold) Okay, Emily, I've checked on your benefits, and it looks like you have coverage for the procedure. However, I need to verify a few more details. Can you please tell me the diagnosis code and the CPT code for the procedure?
+
+Member: Let me check with my doctor's office real quick. (pause) Okay, the diagnosis code is 715.16, and the CPT code is 27447.
+
+PA Agent: Alright, thank you for providing that information. I'm going to go ahead and process the pre-authorization request. (pause) Okay, Emily, I've submitted the request, but I need to let you know that we require additional information from your doctor's office to complete the review.
+
+Member: Okay, that sounds good. What information do they need to provide?
+
+PA Agent: We need a detailed letter of medical necessity from your doctor explaining why this procedure is necessary. We also need a copy of your medical records and a breakdown of the costs associated with the procedure.
+
+Member: Okay, I'll let my doctor's office know. How long will it take to get a decision on the pre-authorization?
+
+PA Agent: We typically make a decision within 5-7 business days after receiving all the necessary information. We'll send you a letter with the decision, and you can also check the status online or by calling us back.
+
+Member: Okay, sounds good. Is there anything else I need to do?
+
+PA Agent: No, that's all for now. We'll be in touch with your doctor's office to request the additional information. If you have any questions or concerns, feel free to call us back.
+
+Member: Alright, thank you for your help.
+
+PA Agent: You're welcome, Emily. Have a good day.
+
+Member: You too, bye.
+
+PA Agent: Bye.

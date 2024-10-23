@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about my recent visit to the doctor's office. I was charged a $50 copay, but I thought my policy only had a $20 copay for that service.
+
+Customer Support: I apologize for the inconvenience. Can you please provide me with your member ID and the date of your visit so I can look into this further?
+
+Member: My member ID is MEM456123 and the visit was on February 10th.
+
+Customer Support: Thank you. Let me just check on that for you. (pause) Okay, I've located your account. Can you confirm the name of the doctor's office you visited?
+
+Member: It was Smith Medical Group.
+
+Customer Support: Okay, I've got that. And you're saying the copay was $50, but you expected it to be $20?
+
+Member: That's right. I've been to this doctor before, and I've never been charged more than $20.
+
+Customer Support: I understand. Let me check on the policy details. (pause) Okay, I see the issue. It looks like the doctor's office may have billed incorrectly. Your policy does indeed have a $20 copay for that service.
+
+Member: That's what I thought. So, what can be done to fix this?
+
+Customer Support: I can go ahead and process a request to have the copay adjusted. However, I would need to confirm with the doctor's office to ensure they agree with the adjustment.
+
+Member: Okay, that sounds good.
+
+Customer Support: I'll go ahead and put in the request. You should receive a revised explanation of benefits statement within the next 7-10 business days reflecting the corrected copay.
+
+Member: Okay, great. Thank you for your help.
+
+Customer Support: You're welcome. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day.
+
+(12 minutes)

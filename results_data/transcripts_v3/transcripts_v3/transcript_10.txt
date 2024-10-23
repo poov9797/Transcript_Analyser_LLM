@@ -1,0 +1,45 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for calling. Can you please confirm your date of birth so I can look up your account information?
+
+Member: It's June 12th, 1985.
+
+Customer Support: Great, thank you Emily. I have your account information up now. Can you please tell me what type of specialist you're looking to see and what date you're hoping to schedule the appointment for?
+
+Member: I'm looking to see a dermatologist, and I was hoping to get in as soon as possible. Do you have any availability this week?
+
+Customer Support: Let me check the schedule. (pause) Okay, it looks like Dr. Smith has an opening on Wednesday at 2 PM. She's one of our top-rated dermatologists and has excellent patient reviews. Would you like me to schedule the appointment for you?
+
+Member: That sounds great, thank you. What's Dr. Smith's specialty within dermatology?
+
+Customer Support: Dr. Smith specializes in skin cancer treatment and cosmetic dermatology. She's also known for her excellent bedside manner and takes the time to thoroughly explain treatment options to her patients.
+
+Member: That sounds perfect. Go ahead and schedule the appointment for Wednesday at 2 PM.
+
+Customer Support: Okay, I've scheduled the appointment for you. You'll receive a confirmation email with all the details shortly. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you so much for your help!
+
+Customer Support: You're welcome, Emily! It was my pleasure to assist you. If you have any other questions or need to make any changes to your appointment, don't hesitate to give us a call. Have a great day!
+
+Member: You too, thanks again!
+
+Customer Support: Bye for now.
+
+ Member: Bye.
+
+(pause)
+
+Customer Support: Emily, just a quick follow-up to confirm that the appointment has been successfully scheduled. You should receive the confirmation email within the next 10 minutes.
+
+Member: Sounds good, thanks again.
+
+Customer Support: You're welcome. Is there anything else I can help you with?
+
+Member: No, I think that's all.
+
+Customer Support: Alright then. Have a great day, and we'll see you on Wednesday at 2 PM!
+
+Member: You too, bye!
+
+Customer Support: Bye!

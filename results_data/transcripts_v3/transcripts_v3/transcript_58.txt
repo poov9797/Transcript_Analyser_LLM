@@ -1,0 +1,37 @@
+Member: Hi, I'm calling to request a pre-authorization for a case. My name is Emily Wilson and my member ID is MEM123456.
+
+Agent: Good morning Emily, thank you for reaching out to PA customer care. Can you please confirm your date of birth for verification purposes?
+
+Member: It's February 12th, 1985.
+
+Agent: Thank you, Emily. Can you please provide me with some more details about the case you're seeking pre-authorization for? What type of treatment or procedure are you needing?
+
+Member: I'm scheduled to have a knee replacement surgery next month and I need to get pre-authorization for it.
+
+Agent: I see. Can you please provide me with the name of your doctor and the facility where the surgery will be performed?
+
+Member: My doctor's name is Dr. Smith and the facility is Mercy Hospital.
+
+Agent: Okay, thank you. I'm going to go ahead and check on your eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+Agent: Okay, Emily, I've checked on your eligibility and it looks like you do have coverage for this procedure. However, I do need to inform you that there is a deductible that will need to be met before we can cover any costs.
+
+Member: Okay, that's fine. How much is the deductible?
+
+Agent: Your deductible is $500. However, I can go ahead and pre-authorize the case for you and we'll take care of the rest.
+
+Member: That sounds great, thank you so much!
+
+Agent: You're welcome, Emily. I'm going to go ahead and process the pre-authorization now. Your case number is PA12345. You should receive a confirmation letter in the mail within the next 7-10 business days.
+
+Member: Great, thank you again for your help!
+
+Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again!
+
+Agent: You're welcome. Have a great day and we'll talk to you soon!
+
+Agent: It was a pleasure assisting you, Emily. Your pre-authorization has been approved and you should be all set for your surgery next month.

@@ -1,0 +1,57 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson, and my member ID is MEM123456.
+
+PA Agent: Thank you for reaching out to us, Emily. Can you please confirm your date of birth so I can verify your account?
+
+Member: It's August 12, 1990.
+
+PA Agent: Great, thank you. Can you tell me a little bit about the procedure you're looking to get pre-authorized? What's the procedure code and the date of service?
+
+Member: The procedure code is 23456, and the date of service is scheduled for March 15th.
+
+PA Agent: Okay, got it. And can you tell me which doctor's office or facility is performing the procedure?
+
+Member: It's Dr. Smith's office, and the facility is Mercy Hospital.
+
+PA Agent: Alright, I've got all that information. Can you please hold for just a moment while I check on the eligibility and coverage for this procedure?
+
+Member: Sure, thank you.
+
+PA Agent: Okay, Emily, I've checked on the eligibility, and it looks like you do have coverage for this procedure. However, I do need to inform you that there is a deductible that will be applied to this claim.
+
+Member: Okay, that's fine. Can you tell me what the deductible amount is?
+
+PA Agent: Yes, the deductible amount is $500.
+
+Member: Okay, got it. And what's the next step in the process?
+
+PA Agent: I'm going to go ahead and pre-authorize the claim for you. You should receive a confirmation letter in the mail within the next 7-10 business days.
+
+Member: Great, thank you so much for your help.
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+PA Agent: You're welcome. Have a great day.
+
+Member: You too.
+
+PA Agent: Emily, can you please confirm that you'd like to receive a callback from our office if there are any issues with your claim?
+
+Member: Yes, that would be great. My phone number is 555-123-4567.
+
+PA Agent: Alright, I've got that noted. And just to confirm, I've pre-authorized your claim for procedure code 23456 with Dr. Smith's office at Mercy Hospital on March 15th.
+
+Member: That's correct. Thank you again for your help.
+
+PA Agent: You're welcome. Have a great day, Emily.
+
+Member: You too.
+
+PA Agent: Is there anything else we can do for you? No? Alright, Emily, it was a pleasure assisting you today. We'll be in touch if we need anything further.
+
+Member: Sounds good. Thanks again.
+
+PA Agent: You're welcome. Goodbye, Emily.
+
+Member: Goodbye.

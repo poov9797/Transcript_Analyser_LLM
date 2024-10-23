@@ -1,0 +1,53 @@
+Member: Hi, I'm calling about a denied claim I received. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: Hi Emily, sorry to hear that your claim was denied. Can you please provide me with the claim number so I can look into this further for you?
+
+Member: It's claim number CLM789012.
+
+Customer Support: Thank you, Emily. I've located your claim. Can you tell me a little bit more about what happened? You received a denial letter stating that the service is not covered under your policy, is that correct?
+
+Member: That's right. But I had switched to a new policy a few months ago, and as per the new policy, the affected services should be covered.
+
+Customer Support: I understand. Let me check on that for you. (pause) Okay, I've checked on the policy information, and it looks like your new policy has not been updated in our system. That's why the claim was denied.
+
+Member: That doesn't make sense. I did switch policies, and I should have received the new policy documents by now.
+
+Customer Support: I apologize for the inconvenience, Emily. I'm going to go ahead and connect you with our policy update team, and they will get your new policy updated in the system. Once that's done, we can re-process your claim.
+
+Member: Okay, that sounds good. But how long will that take?
+
+Customer Support: It usually takes a few days to a week for the update to be processed. I'll also go ahead and escalate your claim so that it gets re-processed as soon as possible.
+
+Member: Okay, thank you. But I'm still not sure why this happened in the first place.
+
+Customer Support: I apologize again for the mistake, Emily. I'm going to document everything that happened so that we can prevent this from happening in the future.
+
+Member: Alright, thank you.
+
+Customer Support: You're welcome, Emily. I'm going to transfer you to the policy update team now. They will take care of updating your policy and re-processing your claim.
+
+Member: Okay, thank you.
+
+Customer Support: You're welcome. Please hold for just a moment while I transfer the call.
+
+(pause)
+
+Member: (on hold for 2 minutes)
+
+(re-connected)
+
+Customer Support: Emily, I apologize for the wait. I just wanted to confirm that the policy update team has received your information and will be working on updating your policy.
+
+Member: Okay, thank you.
+
+Customer Support: You're welcome. We'll be in touch with you within the next few days to let you know the status of your claim.
+
+Member: Alright, thank you.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day.
+
+ Member: You too.

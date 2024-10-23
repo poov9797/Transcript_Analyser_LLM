@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. The reason stated was that my policy doesn't cover it, but I'm certain I switched to a new policy that should cover this service.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please confirm your name and the date of service for me so I can look into this further?
+
+Member: Yes, my name is Emily Wilson, and the date of service was March 10th.
+
+Customer Support: Thank you, Emily. I've located your account. Can you tell me more about the new policy you switched to and when you made the change?
+
+Member: I switched policies about two months ago. I remember selecting the option that included coverage for the service I received.
+
+Customer Support: I'm going to check on the status of your policy update. Can you please hold for just a moment?
+
+(pause)
+
+Customer Support: Emily, I've found the issue. It seems that your new policy has not been updated in our system, which is why your claim was denied.
+
+Member: Oh, I see. Can you fix that and reprocess my claim?
+
+Customer Support: Absolutely, Emily. I'm going to connect with our policy update team to get this corrected. In the meantime, I'll put in a request to re-evaluate your claim under the correct policy. 
+
+Member: How long will this take?
+
+Customer Support: It should take about 24 to 48 hours for the policy update to go through. Once that's done, your claim will be automatically reprocessed. You should receive an update on the status within the next 3 to 5 business days.
+
+Member: Okay, that sounds good. Thank you for your help.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: Have a great day, Emily.

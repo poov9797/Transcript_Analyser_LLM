@@ -1,0 +1,14 @@
+Member: Hi, I'm calling about a denied claim. My claim for physical therapy sessions was denied, but I'm sure I'm covered. My member ID is MEM123456. 
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with your claim number so I can look into this further? 
+Member: It's #claim20230101. 
+Customer Support: Thank you. I'm checking on the status of your claim. (pause) It seems that your claim was denied because physical therapy sessions are not covered under your current policy. 
+Member: That's incorrect. I recently switched to a new policy, and I'm certain that physical therapy sessions are covered. 
+Customer Support: I apologize for the mistake. It's possible that our system hasn't been updated with your new policy information yet. Can you please confirm the date you switched to the new policy? 
+Member: I switched policies on January 1st of this year. 
+Customer Support: I'm going to check on the status of your policy update. (pause) It appears that your new policy information hasn't been updated in our system yet. This is why your claim was denied. 
+Member: So, what's going to happen with my claim now? 
+Customer Support: I'm going to escalate this issue to our Policy Update team. They'll update your policy information in our system, and then I'll resubmit your claim for review. 
+Member: Okay, that sounds good. How long will it take to get this resolved? 
+Customer Support: I apologize, but I don't have a specific timeline for when this will be resolved. I'll make sure to follow up with the Policy Update team and get back to you as soon as possible. 
+Member: Alright, thank you for looking into this. I appreciate your help. 
+Customer Support: You're welcome, MEM123456. I apologize again for the inconvenience, and I'll be in touch soon with an update on your claim.

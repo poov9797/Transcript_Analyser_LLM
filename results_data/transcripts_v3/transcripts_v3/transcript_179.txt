@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought it was supposed to be $20 according to my policy.
+
+Customer Support: I apologize for the confusion, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr./Ms./Mrs./Miss/Mx. (pause to retrieve information)... I see that you have a Silver plan with a $20 copay for primary care physician visits. Can you tell me the date of the visit and the name of the doctor you saw?
+
+Member: The visit was on January 10th and the doctor's name is Dr. Smith.
+
+Customer Support: Okay, I've located the claim. It looks like the provider may have billed us incorrectly. I'm going to go ahead and adjust the claim to reflect the correct copay amount of $20.
+
+Member: That sounds great, thank you! But can you also tell me why this happened in the first place?
+
+Customer Support: It's possible that the provider's office may have had outdated information or made an error when submitting the claim. We'll make sure to update our records and notify the provider to prevent this from happening again in the future.
+
+Member: Okay, that makes sense. So, what's the next step? Will I get a refund for the overpayment?
+
+Customer Support: Yes, you will receive a refund for the difference of $30. You should receive it within the next 2-3 weeks. I'll also send you a confirmation email with the updated claim information.
+
+Member: Sounds good. Thank you for your help in resolving this issue.
+
+Customer Support: You're welcome, Mr./Ms./Mrs./Miss/Mx. MEM123456. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day!
+
+ Member: You too, bye.
+
+Customer Support: Bye.

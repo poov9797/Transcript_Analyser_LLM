@@ -1,0 +1,35 @@
+Member: Hello, I'm calling about a denied claim I received for a recent medical service. I believe it was incorrectly denied as my new policy should cover it. My member ID is MEM123456.
+
+Customer Support: I apologize for the inconvenience, and I'd be happy to help you with that. Can you please provide me with the claim number so I can look into this further?
+
+Member: It's claim number #CLM789012.
+
+Customer Support: Thank you. I've located the claim. Can you please tell me more about the service that was denied and why you believe it should be covered under your new policy?
+
+Member: The service was for a physical therapy session, and I had recently switched to a new policy that includes coverage for physical therapy. However, the denial letter stated that my policy doesn't cover this service.
+
+Customer Support: I understand. I'm going to check on the status of your policy update in our system. (pause) I apologize for the delay. It seems that your new policy hasn't been updated in our system yet, which is why the claim was denied.
+
+Member: That makes sense. Can you please update my policy information and reprocess the claim?
+
+Customer Support: I'm going to go ahead and connect you with our policy update team to get this resolved. They will update your information and reprocess the claim. Please hold for just a moment while I transfer the call.
+
+Member: Okay, thank you.
+
+Customer Support: You're welcome. I've transferred the call. Our policy update team will assist you further. (pause) Ah, I'm back on the line. The policy update team has updated your information, and your new policy is now reflected in our system.
+
+Member: Great, thank you! What's the status of my claim now?
+
+Customer Support: I've reprocessed the claim, and it has been approved. You should receive a new claims statement within the next 7-10 business days reflecting the updated information.
+
+Member: That's great news! Thank you so much for your help in resolving this issue.
+
+Customer Support: You're welcome. I'm glad we could resolve the issue promptly. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome. Have a great day!
+
+Member: You too. Bye.
+
+Customer Support: Bye.

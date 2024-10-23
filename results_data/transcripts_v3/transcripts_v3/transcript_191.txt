@@ -1,0 +1,29 @@
+Member:  Hi, I'm calling about a denied claim I received. My name is Emily Wilson, and my member ID is MEM456789. I was expecting coverage for a recent medical service, but the denial letter said it's not covered under my policy.
+
+Customer Support:  I'm happy to help you with that, Emily. Can you please confirm the date of service and the type of service you received?
+
+Member:  It was on January 10th, and it was for physical therapy. I've had this service covered before, but I recently switched to a new policy. I thought this new policy would cover it.
+
+Customer Support:  I understand. Let me check on that for you. Can you please hold for just a moment?
+
+Member:  Okay, that's fine. Thank you.
+
+Customer Support:  Thank you for holding, Emily. I've checked on your policy, and it appears that your new policy does indeed cover physical therapy. However, it looks like the update didn't get reflected in our system, which is why your claim was denied.
+
+Member:  Oh, that makes sense. So, what can be done to fix this?
+
+Customer Support:  I'm going to go ahead and connect you with our claims team, and they'll work on getting your claim reprocessed under your new policy. You should receive an update within the next 24 to 48 hours.
+
+Member:  That sounds great, thank you so much! I really appreciate your help.
+
+Customer Support:  You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member:  No, that's all. Thank you again.
+
+Customer Support:  You're welcome. We'll take care of the rest. Have a great day!
+
+Member:  You too, bye.
+
+Customer Support:  Bye, Emily.
+
+Elapsed Time: 9 minutes

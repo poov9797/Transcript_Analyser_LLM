@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about a denied claim I received. I'm very frustrated because I'm certain it should be covered. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: I apologize for the frustration, Ms. Wilson. I'd be happy to help you with your concern. Can you please tell me more about the claim that was denied?
+
+Member: Yes, of course. The claim was for a doctor's visit, and the reason for the denial was that it's not covered under my policy. But I had switched to a new policy last month, and I'm certain that this service is covered under the new policy.
+
+Customer Support: I understand. I'm going to check on the status of your policy. Can you please hold for just a moment?
+
+Member: ( pause ) Yes, I'm still holding.
+
+Customer Support: I apologize for the delay, Ms. Wilson. I've checked on the status of your policy, and it appears that the update to your new policy has not been reflected in our system yet. That's why the claim was denied.
+
+Member: That's unacceptable. I switched policies over a month ago. How could this not be updated in your system yet?
+
+Customer Support: I apologize for the mistake, Ms. Wilson. I'm going to go ahead and escalate this issue to our policy update team. They will update your policy in the system, and we will reprocess your claim.
+
+Member: Okay...I hope this gets resolved soon. I need to get reimbursed for that doctor's visit.
+
+Customer Support: I completely understand, Ms. Wilson. I'm going to go ahead and submit the request to our policy update team. You should receive an update on the status of your claim within the next 24 hours.
+
+Member: Okay...thank you, I guess.
+
+Customer Support: You're welcome, Ms. Wilson. I apologize again for the mistake and any inconvenience it may have caused. Is there anything else I can assist you with today?
+
+Member: No, that's all.
+
+Customer Support: Alright, Ms. Wilson. Your claim will be reprocessed, and you will receive an update on the status within the next 24 hours. Thank you for calling, and have a great day.
+
+Member: Thanks.
+
+Customer Support: You're welcome. Goodbye.
+
+(Call ended at 9 minutes)

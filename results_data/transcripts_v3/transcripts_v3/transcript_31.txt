@@ -1,0 +1,43 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth and the reason for the pre-authorization?
+
+Member: My date of birth is 02/12/1985, and I need a pre-authorization for a knee surgery.
+
+PA Agent: Okay, Emily. Can you please tell me more about the surgery? What is the CPT code and the estimated cost?
+
+Member: The CPT code is 27447 and the estimated cost is around $15,000.
+
+PA Agent: Alright, Emily. I'm going to check your eligibility and coverage for this procedure. Can you please hold for just a minute?
+
+Member: Sure, thank you.
+
+PA Agent: (after 2 minutes) Emily, I've checked your eligibility and it looks like you have a deductible of $1,000 and a co-pay of 20% for this procedure. However, I need to verify some more information. Can you please confirm your primary care physician's name and the facility where the surgery will take place?
+
+Member: My primary care physician is Dr. Smith and the surgery will take place at Mercy Hospital.
+
+PA Agent: Okay, Emily. I've updated the information. I'm going to go ahead and submit the pre-authorization request. However, I need to inform you that we may require additional information or documentation before we can make a decision on your claim.
+
+Member: Okay, that's fine. How long will it take to get a decision?
+
+PA Agent: We typically take 5-7 business days to review pre-authorization requests. However, we may require additional information or clarification, which could delay the decision. I'm going to assign a case number to your request, which is PA123456. You can use this number to follow up on the status of your request.
+
+Member: Alright, thank you. What's the next step?
+
+PA Agent: We'll review your request and may contact you or your physician's office for additional information. If we require any documentation, we'll send you a request via mail or email. You can also call us back to check on the status of your request using the case number I provided.
+
+Member: Okay, got it. Thank you for your help.
+
+PA Agent: You're welcome, Emily. We'll be in touch soon. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+PA Agent: You're welcome. Have a great day, Emily.
+
+Member: You too, thank you.
+
+PA Agent: Bye.
+
+Member: Bye.
+
+_PA Agent: (after the call) Case status: pending, further follow-up required._

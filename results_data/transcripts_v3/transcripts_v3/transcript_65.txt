@@ -1,0 +1,41 @@
+Member: Hi, I'm calling about my recent bill for a doctor's visit. I was charged a $50 copay, but I thought my policy covered that service with no copay.
+
+Customer Support: I'd be happy to help you with that, sir. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr... (pause) ...Johnson, is that correct?
+
+Member: Yes, that's correct.
+
+Customer Support: Okay, I've located your account. Can you tell me more about the service you received and the date of the visit?
+
+Member: It was a routine physical exam on January 10th.
+
+Customer Support: I see. I'm going to check on the copay amount for that service under your policy... (pause) ...Okay, it looks like you're correct, sir. Your policy does cover routine physical exams with no copay.
+
+Member: That's what I thought. So, why was I charged $50?
+
+Customer Support: I apologize for the mistake. It appears that the incorrect copay amount was reported by the provider's office. I'm going to go ahead and process a reimbursement for the $50 copay you paid.
+
+Member: That's great, thank you. How long will it take to receive the reimbursement?
+
+Customer Support: You should receive the reimbursement within the next 7-10 business days. We'll also send you a notification once the reimbursement has been processed.
+
+Member: Okay, sounds good. But what about preventing this from happening in the future? I don't want to have to call every time I receive a bill.
+
+Customer Support: I completely understand, Mr. Johnson. I'm going to go ahead and add a note to your account to ensure that our system flags any future claims for this service to be processed with no copay. However, I do want to follow up with our provider relations team to ensure that the provider's office is aware of the correct copay amount for your policy.
+
+Member: That sounds great. Thank you for your help.
+
+Customer Support: You're welcome, sir. We apologize again for the mistake and any inconvenience it may have caused. I'm going to go ahead and escalate this issue to our provider relations team to prevent any future errors. We'll also follow up with you in the next 7-10 business days to ensure that the reimbursement has been processed correctly.
+
+Member: Okay, thank you. I appreciate your help.
+
+Customer Support: You're welcome, Mr. Johnson. Is there anything else I can assist you with today?
+
+Member: No, that's all.
+
+Customer Support: Alright, sir. Have a great day.
+
+Member: You too.

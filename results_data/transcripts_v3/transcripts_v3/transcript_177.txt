@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to request a pre-authorization for an upcoming medical procedure. My name is Emily Wilson, and my member ID is MEM123456.
+
+PA Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth and the type of procedure you're looking to get pre-authorization for?
+
+Member: My date of birth is March 12, 1985, and I'm scheduled for a knee replacement surgery on April 15th.
+
+PA Agent: I've located your account, Emily. Can you please provide me with the name of your doctor and the facility where the procedure will take place?
+
+Member: My doctor's name is Dr. Smith, and the surgery will be performed at Oakwood Hospital.
+
+PA Agent: Thank you, Emily. I'm going to check on your eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+PA Agent: Okay, Emily, I've checked on your eligibility, and it looks like you do have coverage for this procedure. However, I do need to verify a few more details. Can you please confirm your policy number and the name of your primary care physician?
+
+Member: My policy number is PA1234567, and my primary care physician is Dr. Johnson.
+
+PA Agent: Thank you, Emily. I've verified all the necessary information. Based on our guidelines, I'm happy to inform you that your procedure has been pre-authorized. You should receive a confirmation letter in the mail within the next 3-5 business days.
+
+Member: That's great, thank you so much for your help! Can you please provide me with a reference number for the pre-authorization?
+
+PA Agent: Your reference number is PA-REF-123456. Please keep this number for your records, as you may need to provide it to your doctor or the hospital.
+
+Member: Will do, thank you again for your assistance. Is there anything else I need to do on my end?
+
+PA Agent: No, Emily, that's all taken care of. If you have any further questions or concerns, please don't hesitate to reach out to us. Have a great day!
+
+Member: You too, thank you again. Bye.
+
+PA Agent: Bye, Emily.

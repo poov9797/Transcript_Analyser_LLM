@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent medical bill. I was charged a $50 copay for my doctor's visit, but I'm certain my policy says I shouldn't have to pay anything.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please confirm your name and date of birth so I can look into this further?
+
+Member: My name is Emily Wilson, and my date of birth is March 12, 1985.
+
+Customer Support: Thank you, Emily. I've located your account. Can you please tell me more about the service you received and the date of the visit?
+
+Member: It was a routine check-up with my primary care physician on January 10th.
+
+Customer Support: I'm checking on the details of your policy... (pause) It looks like your policy does indeed cover routine check-ups with a $0 copay. I'm going to investigate why you were charged $50.
+
+Member: That's what I thought. I've been with this insurance company for years, and I've never had to pay for a check-up before.
+
+Customer Support: I apologize for the mistake, Emily. It's possible that there was an error when the claim was processed. Let me see what I can do to correct this... (pause) Okay, I've located the issue. It looks like the incorrect copay amount was entered when the claim was submitted. I'm going to go ahead and resubmit the claim with the correct information.
+
+Member: So, does that mean I'll get a refund for the $50 I paid?
+
+Customer Support: Yes, Emily. You should receive a refund within the next 7-10 business days. You will also receive a letter in the mail confirming the correction.
+
+Member: Okay, that sounds good. Thank you for fixing this mistake.
+
+Customer Support: You're welcome, Emily. I apologize again for the inconvenience. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: You too. Bye.
+
+Customer Support: Bye.

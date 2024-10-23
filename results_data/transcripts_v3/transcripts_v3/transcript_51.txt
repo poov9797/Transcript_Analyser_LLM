@@ -1,0 +1,47 @@
+Member: Hi, I'm calling about my recent bill for the doctor's visit I had last week. I was charged a copay of $50, but I thought my policy said it was supposed to be $20.
+
+Customer Support: I'd be happy to help you with that, can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, MEM123456. Can you please tell me more about the service you received and the date of the visit?
+
+Member: It was a routine check-up with my primary care physician on January 10th.
+
+Customer Support: Okay, let me just check on that for you. (pause) Ah, I see that the service was indeed subject to a copay, but I'm going to go ahead and verify the amount with our billing team.
+
+Member: Okay, that sounds good. I just want to make sure I'm not being overcharged.
+
+Customer Support: Absolutely, we want to make sure you're only paying what you're supposed to. (pause) Okay, I've verified with our billing team and it looks like there was an error on our part. Your policy does indeed allow for a $20 copay for that service.
+
+Member: Oh, great! Thank you so much for looking into that for me.
+
+Customer Support: You're welcome! I'm going to go ahead and process a refund for the difference of $30. You should receive it within the next 7-10 business days.
+
+Member: That sounds wonderful, thank you so much for your help.
+
+Customer Support: You're welcome, MEM123456. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome! Have a great day.
+
+Member: You too, bye.
+
+Customer Support: Bye.
+
+(pause)
+
+Customer Support: MEM123456, I just wanted to follow up and make sure you received the refund and that everything is resolved to your satisfaction.
+
+Member: Yes, I did receive the refund and everything looks good. Thank you again for your help.
+
+Customer Support: You're welcome! I'm glad we could resolve the issue for you. If you have any other questions or concerns in the future, don't hesitate to reach out.
+
+Member: Will do, thanks again.
+
+Customer Support: You're welcome, have a great day!
+
+Member: You too, bye.
+
+Customer Support: Bye.

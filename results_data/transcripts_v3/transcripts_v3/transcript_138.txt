@@ -1,0 +1,37 @@
+Member: Hi, I'm calling to get a case pre-authorized for a procedure I need to have done. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth and the procedure you're looking to get pre-authorized?
+
+Member: My date of birth is March 12, 1985, and I'm looking to get a knee replacement surgery.
+
+PA Agent: Okay, thank you Emily. Can you please provide me with the name of your doctor and the facility where the procedure will be taking place?
+
+Member: My doctor's name is Dr. Smith and the facility is Springfield Hospital.
+
+PA Agent: Great, thank you. I'm going to go ahead and check on your eligibility for this procedure. Can you please hold for just a moment?
+
+Member: Sure, go ahead.
+
+PA Agent: Okay, I've checked on your eligibility and it looks like you have coverage for this procedure. However, I do need to verify a few more details. Can you please confirm your primary care physician's name and your current address?
+
+Member: My primary care physician's name is Dr. Johnson and my current address is 123 Main Street, Anytown, USA 12345.
+
+PA Agent: Okay, thank you Emily. I've verified all of the information and I'm going to go ahead and submit the request for pre-authorization. However, I do need to let you know that we may need some additional information from your doctor's office before we can make a final decision.
+
+Member: Okay, that sounds good. How long will it take to get a decision?
+
+PA Agent: We typically make decisions within 3-5 business days. I'm going to go ahead and provide you with a reference number for this case, which is PA123456. You can use this number to check on the status of your case online or by calling us back.
+
+Member: Okay, great. Thank you so much for your help.
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+PA Agent: You're welcome. We'll be in touch soon with an update on your case. Have a great day!
+
+Member: You too, thank you.
+
+PA Agent: Bye.
+
+Member: Bye.

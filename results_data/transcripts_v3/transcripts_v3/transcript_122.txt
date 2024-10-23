@@ -1,0 +1,37 @@
+Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.
+
+PA Agent: Hi Emily, thank you for calling PA Customer Care. I'd be happy to help you with your pre-authorization request. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Great, thank you Emily. Can you please tell me a little bit about the case you're seeking pre-authorization for? What's the nature of your visit?
+
+Member: I'm scheduled to see a specialist for a knee injury I've been experiencing. My doctor thinks I might need surgery.
+
+PA Agent: I see. Can you please provide me with the doctor's name and the facility where you'll be receiving treatment?
+
+Member: The doctor's name is Dr. Smith and the facility is Mercy Hospital.
+
+PA Agent: Okay, got it. Can you please hold for just a moment while I check on your eligibility and benefits?
+
+Member: Sure, no problem.
+
+PA Agent: Thank you for holding, Emily. I've checked on your eligibility and it looks like you do have coverage for this type of procedure. However, I do need to let you know that there is a deductible that will need to be met before we can provide coverage.
+
+Member: Okay, that makes sense. How much is the deductible?
+
+PA Agent: Your deductible is $500. But don't worry, once that's met, we'll cover 80% of the costs.
+
+Member: Alright, that sounds good. So, is my case pre-authorized?
+
+PA Agent: Yes, Emily, your case has been pre-authorized. You should receive a notification in the mail within the next few days with all the details. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you so much for your help!
+
+PA Agent: You're welcome, Emily. It was my pleasure to assist you. If you have any other questions or concerns, don't hesitate to give us a call. Have a great day!
+
+Member: You too, thank you again! 
+
+PA Agent: Bye Emily.
+
+Member: Bye.

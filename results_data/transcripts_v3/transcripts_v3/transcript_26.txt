@@ -1,0 +1,27 @@
+Member: Hi, I'm having some trouble logging in to my online service account. My member ID is MEM654321.
+
+Technical Support: I'm happy to help you with that, MEM654321. Can you tell me a little bit more about the issue you're experiencing? What error message are you getting, if any?
+
+Member: I'm not getting an error message, but when I try to log in, it just says "invalid credentials" even though I'm entering the right username and password.
+
+Technical Support: I see. Can you try clearing your browser's cache and cookies, and then attempt to log in again? Sometimes, this can resolve the issue.
+
+Member: Okay, I'll try that. (pause) Okay, I've cleared the cache and cookies, but I'm still getting the "invalid credentials" message.
+
+Technical Support: Okay, let's try a different approach. Can you try resetting your password? You can do this by clicking on the "forgot password" link on the login page.
+
+Member: Okay, I'll try that. (pause) I've reset my password, but I'm still having trouble logging in.
+
+Technical Support: Okay, I'm going to check on the status of your account. Can you hold for just a moment, please? (pause) Okay, I've checked on your account, and it looks like there was an issue with your account activation. I'm going to activate it for you now.
+
+Member: Okay, great. Thank you!
+
+Technical Support: You're welcome. Once I've activated your account, you should be able to log in with your new password. Can you try logging in again?
+
+Member: Okay... (pause) Yes, I'm in! Thank you so much for your help.
+
+Technical Support: You're welcome, MEM654321. I'm glad I could assist you in resolving the issue. Is there anything else I can help you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Technical Support: You're welcome. Have a great day!

@@ -1,0 +1,27 @@
+Member: Hi, I'm calling about a denied claim I received for a recent service. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: I apologize for the inconvenience, Ms. Wilson. Can you please provide me with more details about the claim, such as the date of service and the reason for the denial?
+
+Member: The date of service was January 10th, and the reason stated was that the service is not covered under my policy.
+
+Customer Support: I'm sorry to hear that. Can you please confirm your policy number so I can look into this further?
+
+Member: It's MEM123456. But I want to mention that I recently switched policies, and I believe the new policy should cover this service.
+
+Customer Support: I understand. Let me check on that for you. (pause) Ah, I see the issue here. It looks like your new policy hasn't been updated in our system yet, which is why the claim was denied.
+
+Member: That makes sense, I guess. So, what can be done to resolve this?
+
+Customer Support: I'm going to go ahead and connect you with our claims team, and they'll work on getting your claim reprocessed under your new policy.
+
+Member: Okay, that sounds good. How long do you think this will take?
+
+Customer Support: It should be processed within the next 24 to 48 hours. You'll receive an update via mail or email once it's been reprocessed.
+
+Member: Alright, thank you for your help.
+
+Customer Support: You're welcome, Ms. Wilson. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, and we'll get that claim taken care of for you.

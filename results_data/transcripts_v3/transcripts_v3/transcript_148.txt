@@ -1,0 +1,35 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I'm sure my policy says it's supposed to be $20 or maybe even no copay at all.
+
+Customer Support: I'd be happy to help you with that. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, Mr... (pause) ...I'm checking on the details of your policy. Can you please confirm the service date and the provider's name for the visit in question?
+
+Member: The visit was on January 10th, and the doctor's name is Dr. Smith.
+
+Customer Support: I've located the claim. It looks like the copay amount was $50. However, I want to double-check the policy details to ensure it was processed correctly. Can you please hold for just a moment?
+
+Member: Okay, I'll hold.
+
+Customer Support: Thank you for holding, Mr. I've checked the policy, and it appears there might have been an error in the copay amount charged. Your policy indeed allows for a lower copay of $20 for this specific service.
+
+Member: That's what I thought. So, what happens next?
+
+Customer Support: I'm going to go ahead and process a correction. We will adjust the copay amount to $20, and you will receive a refund for the difference of $30. You should receive the refund within the next 7-10 business days.
+
+Member: That sounds great, thank you. How will I know if everything is taken care of?
+
+Customer Support: You will receive a confirmation letter in the mail detailing the adjustment, and you can also check your account online or contact us if you have any further questions. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, Mr. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, Mr.. Have a great day.
+
+Member: You too, thank you. 
+
+Customer Support: You're welcome.

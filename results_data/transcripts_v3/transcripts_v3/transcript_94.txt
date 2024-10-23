@@ -1,0 +1,35 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson, and my member ID is MEM456789.
+
+PA Agent: Thank you for calling, Emily. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Thank you, Emily. Can you please provide me with the details of the medical procedure you need pre-authorization for? What is the procedure, and when is it scheduled?
+
+Member: It's a knee replacement surgery, and it's scheduled for April 15th.
+
+PA Agent: Okay, got it. And which doctor or hospital will be performing the procedure?
+
+Member: Dr. John Smith at Mercy Hospital.
+
+PA Agent: Alright. I'm checking your eligibility for the procedure... (pause) Yes, it looks like you are eligible for the procedure. However, I need to check a few more things before I can give you a decision.
+
+Member: Okay, no problem.
+
+PA Agent: Can you please hold for just a minute while I check on some additional information?
+
+Member: Sure.
+
+PA Agent: (after a brief hold) Okay, Emily, I've checked on everything, and it looks like we can approve the pre-authorization for your knee replacement surgery. However, I do need to inform you that there will be a $500 copay due at the time of the procedure.
+
+Member: That's fine. How do I get the pre-authorization number?
+
+PA Agent: I'll go ahead and generate the pre-authorization number now. Your pre-authorization number is PA001234. You can provide this number to your doctor's office or the hospital, and they will be able to verify the pre-authorization.
+
+Member: Great, thank you so much for your help!
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+PA Agent: You're welcome. Have a great day, and I hope your surgery goes well.

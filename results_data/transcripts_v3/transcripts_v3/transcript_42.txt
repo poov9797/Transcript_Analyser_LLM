@@ -1,0 +1,43 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for calling. Can you please confirm your date of birth so I can access your account?
+
+Member: It's March 12, 1985.
+
+Customer Support: Great, thank you. What type of specialist are you looking to see, and what dates were you thinking of coming in?
+
+Member: I need to see a cardiologist. I'm pretty flexible, but I was thinking maybe sometime next week?
+
+Customer Support: Okay, let me check the availability of our cardiologists. (pause) It looks like Dr. Smith has an opening on Wednesday at 2 PM or Friday at 10 AM. Would either of those work for you?
+
+Member: Hmm, I'm not sure. Can you tell me a bit more about Dr. Smith?
+
+Customer Support: Dr. Smith is one of our top cardiologists with over 10 years of experience. She has a great reputation with our patients and is knowledgeable in all areas of cardiology.
+
+Member: Okay, that sounds good. What about the wait time? I don't want to have to wait too long.
+
+Customer Support: Our average wait time for Dr. Smith is about 15 minutes. We also offer a text notification system to let you know when the doctor is ready to see you.
+
+Member: That sounds reasonable. But can I also get the name of another specialist, just in case?
+
+Customer Support: Let me check. (pause) Okay, Dr. Johnson is also available on Wednesday at 3 PM. He's another one of our top cardiologists with a great reputation.
+
+Member: Okay, I think I'd like to schedule with Dr. Smith for Wednesday at 2 PM, but can you also put me on the waitlist for Dr. Johnson's 3 PM appointment, just in case?
+
+Customer Support: I can do that. I'll go ahead and schedule you with Dr. Smith for Wednesday at 2 PM, and I'll add you to the waitlist for Dr. Johnson's 3 PM appointment. If there are any changes, we'll be in touch.
+
+Member: Sounds good. But wait, what's the phone number to confirm the appointment?
+
+Customer Support: You can confirm the appointment by calling our main number, 555-1234, and selecting option 2.
+
+Member: Okay, got it. But I'm not sure if I'm going to be able to make it. Can I cancel or reschedule if needed?
+
+Customer Support: Yes, you can cancel or reschedule up to 24 hours before the appointment. Just call our main number and select option 2.
+
+Member: Okay, that sounds good. But I'm still not sure if I'm going to be able to make it. Can I call back and confirm later?
+
+Customer Support: Yes, you can definitely call back and confirm later. We'll be here to help.
+
+Member: Okay, thanks.
+
+Customer Support: You're welcome, Emily. We'll talk to you soon.

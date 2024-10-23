@@ -1,0 +1,45 @@
+Member: Hi, I'm calling to request a case pre-authorization for a procedure I need to undergo. My name is Emily Wilson, and my member ID is MEM123456.
+
+PA Agent: Thank you for calling PA customer care, Emily. Can you please confirm your date of birth and the name of your primary care physician so I can verify your information?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. Rachel Kim.
+
+PA Agent: Thank you, Emily. I've verified your information. Can you please provide more details about the procedure you're seeking pre-authorization for? What's the CPT code and the date of the scheduled procedure?
+
+Member: The CPT code is 76700, and the procedure is scheduled for April 15th.
+
+PA Agent: Okay, Emily. Can you please hold for just a moment while I check your eligibility and benefits for this procedure?
+
+Member: Sure, thank you.
+
+PA Agent: Thank you for holding, Emily. I've checked your eligibility and benefits, and it appears that you have coverage for this procedure. However, I need to review your deductible and copayment information. Can you please confirm your current deductible balance?
+
+Member: Let me check... (pause) Yes, my current deductible balance is $500.
+
+PA Agent: Okay, Emily. Based on your deductible balance, your out-of-pocket cost for this procedure will be $500. I'm going to go ahead and pre-authorize the procedure for you. You'll receive a confirmation letter in the mail within the next 3-5 business days.
+
+Member: That sounds great, thank you so much for your help!
+
+PA Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+PA Agent: You're welcome, Emily. Have a great day, and we'll talk to you soon.
+
+Member: Thank you, bye.
+
+PA Agent: Bye, Emily.
+
+(Pause)
+
+PA Agent: Emily, I'm going to go ahead and close out this call. Is there anything else you'd like to add or discuss before we end the call?
+
+Member: No, that's all. Thank you again for your help.
+
+PA Agent: You're welcome, Emily. Thank you for calling PA customer care. We appreciate your business.
+
+Member: Thank you, bye.
+
+PA Agent: Bye, Emily.
+
+(Call ended)

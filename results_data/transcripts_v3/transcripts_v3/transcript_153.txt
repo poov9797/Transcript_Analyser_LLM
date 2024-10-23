@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for calling PA customer care, Emily. I'd be happy to assist you with the pre-authorization process. Can you please confirm your date of birth and the procedure you're looking to get pre-authorized?
+
+Member: My date of birth is March 12, 1985, and I'm looking to get a knee replacement surgery.
+
+Customer Support: Thank you, Emily. Can you please provide me with the name of your doctor and the facility where the procedure will be performed?
+
+Member: My doctor's name is Dr. Smith and the procedure will be performed at Mercy Hospital.
+
+Customer Support: Okay, thank you. I'm going to go ahead and verify your eligibility. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+Customer Support: Thank you for holding, Emily. I've verified your eligibility and it looks like you are covered for the procedure. However, I do need to check with our medical team to confirm. Can you please hold for another minute?
+
+Member: Okay, that's fine. Thank you.
+
+Customer Support: Thank you for holding, Emily. I've spoken with our medical team and they have approved the pre-authorization for your knee replacement surgery. I'm going to go ahead and provide you with a pre-authorization number.
+
+Member: Great, thank you so much! What's the pre-authorization number?
+
+Customer Support: Your pre-authorization number is PA123456789. You can provide this number to your doctor's office and they can use it to bill us directly.
+
+Member: Okay, great. Thank you so much for your help. I really appreciate it.
+
+Customer Support: You're welcome, Emily. It was my pleasure to assist you. If you have any other questions or need further assistance, don't hesitate to call us. Have a great day!
+
+Member: Thank you, you too! Bye!
+
+Customer Support: Bye, Emily.

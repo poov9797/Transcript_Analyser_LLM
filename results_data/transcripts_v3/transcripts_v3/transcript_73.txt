@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about a claim that was denied. My name is Emily Wilson, and my member ID is MEM123456.
+
+Customer Support: Hi Emily, sorry to hear that your claim was denied. Can you please provide me with the claim number so I can look into this further?
+
+Member: Yeah, it's #CLM789012. I'm really surprised it was denied because I know my new policy covers this service.
+
+Customer Support: I apologize for the inconvenience, Emily. I'm going to check on the status of your claim. (pause) I see that the denial reason is that the service is not covered under your policy. However, you mentioned you have a new policy. Can you tell me more about the policy change?
+
+Member: Yes, I switched policies about two months ago. I specifically chose the new policy because it covers the service that was denied.
+
+Customer Support: I understand. Let me check on the status of your policy update in our system. (pause) I apologize for the mistake, Emily. It looks like your new policy information has not been updated in our system, which is why the claim was denied.
+
+Member: That makes sense, I guess. So, what can be done to fix this?
+
+Customer Support: I'm going to go ahead and escalate this issue to our policy update team. They will update your policy information in our system, and then I'll have our claims team reprocess your claim.
+
+Member: Okay, that sounds great. How long will it take to resolve this?
+
+Customer Support: I apologize for the delay, Emily. I'll make sure to follow up with the relevant teams to expedite the process. You should receive an update on your claim status within the next 24 to 48 hours.
+
+Member: Alright, thank you so much for your help. I appreciate it.
+
+Customer Support: You're welcome, Emily. I apologize again for the mistake and any inconvenience it may have caused. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+Member: You too. Bye.
+
+Customer Support: Bye.

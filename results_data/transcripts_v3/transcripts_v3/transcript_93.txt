@@ -1,0 +1,23 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hi Emily, thank you for reaching out to us. I'd be happy to help you schedule an appointment. Can you please tell me what type of specialist you're looking for and what date and time you're available?
+
+Member: I'm looking for a dermatologist. I'd like to schedule it for next Wednesday or Thursday. I'm available anytime between 9 am and 3 pm.
+
+Customer Support: Okay, let me check the availability of our dermatologists. (pause) I have a few options available for you. We have Dr. Smith, who is one of our top-rated dermatologists, available next Wednesday at 10 am or 2 pm. We also have Dr. Johnson available next Thursday at 11 am or 1 pm. Which one of these options works best for you?
+
+Member: That sounds great. I think I'd like to schedule with Dr. Smith next Wednesday at 10 am. Can you please confirm the appointment details?
+
+Customer Support: Absolutely, Emily. Your appointment with Dr. Smith is scheduled for next Wednesday at 10 am. You will receive a confirmation email with all the details. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you so much for your help. You've been very helpful.
+
+Customer Support: You're welcome, Emily. It was my pleasure to assist you. If you have any other questions or need any further assistance, please don't hesitate to reach out to us. Have a great day and we look forward to seeing you next Wednesday.
+
+Member: Thank you again. Have a great day.
+
+Customer Support: You too, Emily. Bye.
+
+(Pause)
+
+Customer Support: Emily, this is just a confirmation that your call has ended and your appointment has been scheduled.

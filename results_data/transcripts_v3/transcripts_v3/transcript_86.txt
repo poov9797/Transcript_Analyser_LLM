@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I thought my policy said I didn't have to pay anything for this service.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please confirm your policy number and the date of the visit so I can look into this further?
+
+Member: My policy number is POL987654 and the visit was on February 10th.
+
+Customer Support: Thank you, MEM123456. I'm checking on the details of your policy and the claim. Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+Customer Support: Thank you for holding. I've checked on the policy details, and it appears that the copay for this service should indeed be $0. However, I need to investigate why the incorrect amount was charged.
+
+Member: Okay, that sounds right. I could have sworn my policy said $0 copay.
+
+Customer Support: I understand your concern, MEM123456. I'm going to go ahead and escalate this issue to our claims team to review and correct the copay amount.
+
+Member: Okay, how long will that take?
+
+Customer Support: Typically, it takes 3-5 business days for the correction to be processed. I'll also go ahead and send you a confirmation email with the details of the correction.
+
+Member: Okay, that sounds good. Can you also confirm the corrected copay amount will be reflected in my account?
+
+Customer Support: Yes, MEM123456. Once the correction is processed, the corrected copay amount of $0 will be reflected in your account, and you will receive a refund for the incorrect amount you paid.
+
+Member: Great, thank you for your help. I appreciate it.
+
+Customer Support: You're welcome, MEM123456. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day!

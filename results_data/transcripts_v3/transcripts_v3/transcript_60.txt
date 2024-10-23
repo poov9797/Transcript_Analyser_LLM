@@ -1,0 +1,43 @@
+Member: Hi, I'm calling about a denied claim I received for a recent medical service. I believe it was incorrectly denied.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with the claim number so I can look into this further?
+
+Member: It's claim number CLM987654.
+
+Customer Support: Thank you. I've located the claim. It appears that the denial was due to the service not being covered under your policy.
+
+Member: That's the thing - I recently switched to a new policy, and I'm certain that this service is covered under the new policy.
+
+Customer Support: I apologize for the confusion. Let me check on the status of your policy update. (pause) I see that the new policy information has not been updated in our system yet. That's likely why the claim was denied.
+
+Member: Okay, that makes sense. What can be done to resolve this?
+
+Customer Support: I'm going to go ahead and connect you with our policy updates team. They'll work on getting your new policy information updated in the system, and then we can reprocess the claim.
+
+Member: Sounds good. How long will that take?
+
+Customer Support: It should take about 24 to 48 hours for the update to be processed. Once that's done, we'll re-evaluate the claim and get back to you with an update.
+
+Member: Okay, that sounds reasonable. Thank you for your help.
+
+Customer Support: You're welcome, MEM123456. I'm glad we could get to the bottom of this. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. Have a great day.
+
+(pausing for about 30 seconds)
+
+Customer Support: MEM123456, I've confirmed that the policy updates team has received the request. They'll be in touch with you soon.
+
+Member: Great, thank you.
+
+Customer Support: You're welcome. Is there anything else I can assist you with before I let you go?
+
+Member: No, that's all.
+
+Customer Support: Alright, you're all set. We'll be in touch soon with an update on your claim. Have a great day.
+
+ Member: Thanks, bye.
+
+Customer Support: Bye.

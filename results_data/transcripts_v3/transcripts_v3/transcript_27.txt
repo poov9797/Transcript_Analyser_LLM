@@ -1,0 +1,43 @@
+Member: Hi, I'm calling to get a case pre-authorized for a medical procedure I need to undergo. My name is Emily Wilson and my member ID is MEM123456.
+
+Agent: Hi Emily, thank you for calling PA Customer Care. I'd be happy to assist you with your pre-authorization request. Can you please confirm your date of birth and the name of your primary care physician?
+
+Member: My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.
+
+Agent: Thank you, Emily. Can you please tell me a little bit about the procedure you're looking to get pre-authorized? What's the procedure code and the date of service?
+
+Member: The procedure code is 12345 and the date of service is scheduled for next Wednesday, March 22nd.
+
+Agent: Okay, got it. And can you please confirm your current insurance plan and any secondary insurance coverage you may have?
+
+Member: I have the PA Platinum plan and I also have secondary coverage through my spouse's employer.
+
+Agent: Alright, Emily. I'm going to go ahead and check on the eligibility for this procedure under your plan. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+Agent: Okay, Emily, I've checked on the eligibility and it looks like the procedure is covered under your plan, but I need to verify a few more details. Can you please confirm the name and address of the facility where the procedure will be performed?
+
+Member: The facility is called Springdale Medical Center and the address is 123 Main St, Anytown, USA.
+
+Agent: Okay, got it. And can you please confirm the name of the specialist performing the procedure?
+
+Member: The specialist's name is Dr. Johnson.
+
+Agent: Alright, Emily. I've got all the information I need. I'm going to go ahead and review your case. Can you please hold for just a moment while I review?
+
+Member: Sure, thank you.
+
+Agent: Okay, Emily, I've reviewed your case and I need to consult with our medical director to get a final determination on the pre-authorization. I'm going to go ahead and escalate this to our medical director for review. Unfortunately, I won't be able to provide a decision on the pre-authorization today. We'll be in touch with you within the next 24-48 hours to let you know the outcome.
+
+Member: Okay, that sounds good. Thank you for your help, Agent.
+
+Agent: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Agent: You're welcome, Emily. Have a great day and we'll be in touch soon.
+
+Member: You too, bye.
+
+Agent: Bye.

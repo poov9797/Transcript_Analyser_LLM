@@ -1,0 +1,27 @@
+Member: Hi, I'm calling about a denied claim. I received a letter stating that my policy doesn't cover the service, but I'm pretty sure I switched to a new policy that does cover it. Can you help me figure out what's going on?
+
+Customer Support: I'd be happy to help you with that, Mr... (pause) ...Johnson (MEM123456). Can you please confirm your policy number and the date of service for the denied claim?
+
+Member: Yeah, my policy number is MEM123456, and the date of service was January 10th.
+
+Customer Support: Okay, thank you. I'm checking on the claim... (pause) ...I see that the claim was denied because the service is not covered under your old policy. However, I also see that you did switch to a new policy. Let me check on the new policy details... (pause) ...Ah, I see the issue. It looks like your new policy information hasn't been updated in our system yet.
+
+Member: That's frustrating. Can you update the system and reprocess the claim?
+
+Customer Support: I'd be happy to help you with that. However, I need to escalate this issue to our policy update team to get your new policy information updated in the system. I'm going to go ahead and create a ticket for that now. Can you please hold for just a moment?
+
+Member: Okay, sure.
+
+Customer Support: (after a brief hold) Okay, I'm back. I've created the ticket, and our policy update team will reach out to you within the next 24 to 48 hours to confirm that your new policy information has been updated. Once that's done, we can reprocess the claim.
+
+Member: Okay, that sounds good. But can you also confirm that the claim will be approved once the new policy information is updated?
+
+Customer Support: I can definitely check on that for you. (pause) ...Yes, according to our system, the service should be covered under your new policy. However, I'll make sure to note on the ticket that the claim should be approved once the policy update is complete.
+
+Member: Alright, great. Thank you for your help. I appreciate it.
+
+Customer Support: You're welcome, Mr. Johnson. We'll get this taken care of for you. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day!

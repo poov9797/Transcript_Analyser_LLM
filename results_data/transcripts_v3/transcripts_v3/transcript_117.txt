@@ -1,0 +1,43 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for calling, Emily. I'd be happy to help you with that. Can you please tell me what type of specialist you're looking for and your preferred date for the appointment?
+
+Member: I'm looking for a cardiologist and I was thinking maybe next Wednesday or Thursday.
+
+Customer Support: Okay, let me check the availability of our cardiologists. (pause) I have a few options for you. Dr. Smith is available on Wednesday at 2 PM and Dr. Johnson is available on Thursday at 10 AM. Both are highly rated and have excellent patient reviews.
+
+Member: That's great, thank you. Can you tell me a bit more about Dr. Smith and Dr. Johnson?
+
+Customer Support: Absolutely. Dr. Smith has over 20 years of experience in cardiology and has a specialty in heart failure treatment. Dr. Johnson has a focus on preventive cardiology and has a great bedside manner. Both are excellent choices.
+
+Member: I think I'd like to schedule with Dr. Johnson on Thursday at 10 AM.
+
+Customer Support: Wonderful choice, Emily. I've gone ahead and scheduled the appointment for you. You'll receive a confirmation email with all the details. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you so much for your help!
+
+Customer Support: You're welcome, Emily. It was a pleasure assisting you. Have a great day and we'll see you on Thursday!
+
+Member: You too, thank you again.
+
+Customer Support: Bye for now.
+
+(Minute 6)
+ 
+Member: Hi, wait. Can you also send me a reminder a day before the appointment?
+
+Customer Support: I've added a reminder to be sent to you the day before your appointment. You'll receive a call and an email reminder.
+
+Member: Great, thanks for that.
+
+Customer Support: You're welcome. Is there anything else I can help you with?
+
+Member: No, that's all.
+
+Customer Support: Alright, Emily. We're all set then. Have a great day!
+
+Member: Thanks, you too.
+
+Customer Support: Bye for now.
+
+(Minute 8)

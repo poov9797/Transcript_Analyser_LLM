@@ -1,0 +1,45 @@
+Member: Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but my policy says I shouldn't have to pay anything for this type of service.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please confirm your name and date of birth so I can look into this further for you?
+
+Member: My name is Emily Wilson and my date of birth is March 12, 1985.
+
+Customer Support: Thank you, Emily. I've located your account. Can you please tell me the date of the doctor's visit and the name of the doctor or medical group you visited?
+
+Member: It was on January 20th and the doctor's name is Dr. Smith.
+
+Customer Support: Okay, I've found the claim. I'm going to go ahead and review the details. (pause) Ah, I see the issue. It looks like there was an error on our part. Your policy does indeed cover this service with a $0 copay.
+
+Member: That's what I thought! I was surprised to see the charge on my bill.
+
+Customer Support: I apologize for the mistake, Emily. I'm going to go ahead and process a refund for the $50 copay. You should receive the refund within the next 7-10 business days.
+
+Member: That's great, thank you so much for your help!
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for resolving the issue.
+
+Customer Support: You're welcome. Have a great day and thank you for choosing our insurance company.
+
+Customer Support: (after 2 minutes of hold time) Emily, I just wanted to follow up and confirm that the refund has been processed. You should receive a confirmation email shortly.
+
+Member: Thank you for the follow-up. I appreciate it.
+
+Customer Support: You're welcome. We value your business and want to ensure everything is taken care of. Is there anything else I can assist you with?
+
+Member: No, that's all. Thanks again.
+
+Customer Support: You're welcome. Have a great day, Emily!
+
+(pause for 7 minutes)
+
+Customer Support: Emily, I just wanted to check in one more time to make sure you've received the refund confirmation email.
+
+Member: Yes, I received it. Thank you for checking in.
+
+Customer Support: You're welcome. We just want to ensure everything is resolved to your satisfaction. If you have any other questions or concerns, please don't hesitate to reach out.
+
+Member: Will do. Thanks again for your help.
+
+Customer Support: You're welcome, Emily. Have a great day!

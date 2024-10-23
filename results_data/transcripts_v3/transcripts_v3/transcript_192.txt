@@ -1,0 +1,33 @@
+Member: Hi, I'm calling about a denied claim I received. My name is Emily Wilson and my member ID is MEM654321.
+
+Customer Support: I'm happy to help you, Emily. Can you please provide me with the claim number so I can look into this further?
+
+Member: It's #2023-01-001. I received a denial letter stating that the service is not covered under my policy, but I had actually switched to a new policy that covers this service.
+
+Customer Support: I apologize for the inconvenience, Emily. Can you please confirm your policy effective date and the date of service for the claim?
+
+Member: My new policy effective date is January 1st, and the date of service was January 15th.
+
+Customer Support: Thank you, Emily. I'm going to check on this further. (pause) It looks like our system still shows your old policy information. I'm going to go ahead and escalate this issue to our policy update team to get your new policy updated in our system.
+
+Member: Okay, that sounds good. How long will it take to get this updated?
+
+Customer Support: It should take about 24-48 hours to get your policy updated. Once that's done, I'll go ahead and resubmit your claim for processing.
+
+Member: Alright, that sounds good. But can you confirm that the service will be covered under my new policy?
+
+Customer Support: Yes, Emily, I've checked the policy details, and the service should be covered under your new policy. I apologize again for the mistake and any inconvenience it may have caused.
+
+Member: Okay, thank you for your help. Can you provide me with a reference number for this issue?
+
+Customer Support: The reference number for this issue is #SU-2023-02-001. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+Member: Alright, thank you. I appreciate your help.
+
+Customer Support: You're welcome, Emily. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+Customer Support: You're welcome. Have a great day, Emily.
+
+(Duration: 9 minutes)

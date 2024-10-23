@@ -1,0 +1,35 @@
+Member: Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM123456. Can you help me?
+
+Technical Support: Thank you for calling. Can you please tell me more about the issue you're experiencing? What happens when you try to log in or register?
+
+Member: Well, when I try to register, it says my email address is already in use, but I've never registered before. And when I try to log in, it says my password is incorrect, but I'm sure I'm entering the right one.
+
+Technical Support: I apologize for the inconvenience. Can you please try clearing your browser's cache and cookies, and then try registering and logging in again?
+
+Member: Okay, let me try that. (pause) I've cleared my cache and cookies, but I'm still getting the same error messages.
+
+Technical Support: Okay, let's try something else. Can you please confirm your email address and date of birth associated with your account?
+
+Member: My email address is jsmith@email.com, and my date of birth is January 12, 1990.
+
+Technical Support: Thank you. Can you please hold for a moment while I check on something?
+
+Member: (pause) Yes, I'm still holding.
+
+Technical Support: I apologize for the delay. I've checked on our end, and it looks like there may be an issue with your account. I'm going to escalate this issue to our advanced technical team to take a closer look.
+
+Member: Okay, how long will that take?
+
+Technical Support: I apologize, but it may take a few days for them to investigate and resolve the issue. I'll make sure to update your ticket and someone will contact you as soon as possible.
+
+Member: Okay, thank you. I appreciate your help.
+
+Technical Support: You're welcome. Is there anything else I can assist you with in the meantime?
+
+Member: No, that's all for now. Thank you again.
+
+Technical Support: You're welcome. Have a great day.
+
+Member: You too. Bye.
+
+Technical Support: Bye.

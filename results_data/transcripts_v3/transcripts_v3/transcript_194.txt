@@ -1,0 +1,37 @@
+Member: Hi, I'm calling about a claim that was denied. I was told that my policy doesn't cover the service, but I'm pretty sure I switched to a new policy that does cover it. My member ID is MEM654321.
+
+Customer Support: I apologize for the inconvenience, Mr...?
+
+Member: Ah, yes. My name is Alex Thompson.
+
+Customer Support: Thank you, Mr. Thompson. I'm happy to help you with this issue. Can you please provide me with more information about the claim that was denied, such as the service you received and the date it was provided?
+
+Member: It was a dental procedure on January 10th. And I'm certain that my new policy covers dental services.
+
+Customer Support: I see. Let me just check on that for you. (pause) Okay, I've located your account. It appears that your new policy was not updated in our system, which is why the claim was denied.
+
+Member: That's what I thought might have happened. Can you please update my policy and reprocess the claim?
+
+Customer Support: I'm going to go ahead and connect you with our claims team, and they will take care of updating your policy and reprocessing the claim. Please hold for just a moment, Mr. Thompson.
+
+(pause)
+
+Customer Support: Mr. Thompson, I've connected you with our claims team. They will be happy to assist you with updating your policy and reprocessing the claim. They may need to call you back within the next 24-48 hours to confirm some information.
+
+Member: Okay, that sounds good. Thank you for your help, I appreciate it.
+
+Customer Support: You're welcome, Mr. Thompson. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again.
+
+Customer Support: You're welcome. We'll get that claim taken care of for you. Have a great day, Mr. Thompson.
+
+Member: You too, thank you.
+
+(pause)
+
+Customer Support: Mr. Thompson, I'm going to go ahead and follow up with our claims team to ensure that your claim is reprocessed as soon as possible.
+
+Member: Alright, thank you.
+
+Customer Support: You're welcome. We'll be in touch soon, Mr. Thompson.

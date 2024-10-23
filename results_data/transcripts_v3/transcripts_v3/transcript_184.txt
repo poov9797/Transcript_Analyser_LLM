@@ -1,0 +1,45 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I'm pretty sure my policy says I shouldn't have to pay anything for that service. 
+
+Customer Support: I apologize for the inconvenience, and I'd be happy to help you look into this. Can you please provide me with your member ID so I can access your account information?
+
+Member: It's MEM123456.
+
+Customer Support: Thank you, MEM123456. Can you please confirm your date of birth so I can verify your identity?
+
+Member: It's 02/12/1990.
+
+Customer Support: Great, thank you for confirming. I've accessed your account information. Can you please tell me more about the service you received and the date of the visit?
+
+Member: It was on January 10th, and I had a follow-up appointment with my primary care physician.
+
+Customer Support: Okay, I see the claim here. Let me just check the policy details real quick. (pause) Ah, I see that your policy does indeed cover this service with a $0 copay. I'm going to go ahead and investigate why you were charged $50.
+
+Member: That sounds great, thank you. I appreciate it.
+
+Customer Support: You're welcome. I'm going to go ahead and put you on a brief hold while I check with our claims department. (hold music plays for 2 minutes)
+
+Customer Support: Hi again, MEM123456. I've spoken with our claims department, and it appears that there was an error on our part. We're going to go ahead and reprocess the claim with the correct copay amount.
+
+Member: That sounds great, thank you so much. How long will it take to get the refund?
+
+Customer Support: The refund will be processed within the next 7-10 business days. You'll receive a notification once it's been processed. However, I do want to let you know that we may need to request additional information from your physician's office to complete the reprocessing.
+
+Member: Okay, that sounds fine. Can you keep me updated on the status?
+
+Customer Support: Absolutely. I'll make sure to add a note to your account to follow up with you in a few days to check on the status of the reprocessing. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you so much for your help.
+
+Customer Support: You're welcome, MEM123456. We apologize again for the mistake and appreciate your patience. Have a great day.
+
+Member: You too, thank you.
+
+ Customer Support: Is there anything else I can assist you with today?
+
+Member: No, that's all. But can you tell me when this issue will be resolved?
+
+Customer Support: As I mentioned earlier, the refund will be processed within 7-10 business days. However, the issue may take a bit longer to be fully resolved, as we may need to request additional information from your physician's office. 
+
+Member: Okay, so it's not resolved yet?
+
+Customer Support: That's correct. We'll be following up with you in the next few days to check on the status of the reprocessing.

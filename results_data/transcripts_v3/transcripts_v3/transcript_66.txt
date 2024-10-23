@@ -1,0 +1,41 @@
+Member: Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Thank you for calling PA Customer Care, Emily. Can you please confirm your date of birth and the phone number associated with your account for verification purposes?
+
+Member: My date of birth is 02/12/1985, and the phone number is 555-1234.
+
+Customer Support: Thank you, Emily. I've verified your information. Can you please tell me more about the medical procedure you're requesting pre-authorization for? What's the nature of the procedure and when is it scheduled?
+
+Member: I need a knee replacement surgery due to arthritis. My doctor has scheduled it for next Thursday.
+
+Customer Support: Okay, I've noted that down. Can you please provide me with your doctor's name and the facility where the surgery will be performed?
+
+Member: My doctor's name is Dr. Smith, and the surgery will be at Oakwood Hospital.
+
+Customer Support: Alright. I'm checking on your eligibility and benefits. Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+Customer Support: Thank you for holding, Emily. I've checked on your benefits, and it appears that you do have coverage for knee replacement surgery. However, I need to inform you that we require additional information from your doctor's office before we can proceed with the pre-authorization.
+
+Member: What kind of information do you need?
+
+Customer Support: We need your doctor to provide medical records and a detailed treatment plan to support the necessity of the surgery. I can provide you with a fax number where they can send the documents.
+
+Member: Okay, that sounds good. Can you please give me the fax number?
+
+Customer Support: The fax number is 555-5678. Once we receive the documents, we'll review them and get back to you with a decision.
+
+Member: Alright, I'll let my doctor know. How long will it take to get a decision after you receive the documents?
+
+Customer Support: Typically, it takes 3-5 business days after we receive all necessary documentation. However, this can vary depending on the complexity of the case.
+
+Member: Okay, I understand. Is there a case number or reference number I can use to follow up on the status?
+
+Customer Support: Yes, your case number is PA001234. You can use this to check on the status or to follow up with us.
+
+Member: Great, thank you for your help.
+
+Customer Support: You're welcome, Emily. We'll be in touch once we've made a decision. Have a good day.
+
+Member: You too.

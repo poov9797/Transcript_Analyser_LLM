@@ -1,0 +1,27 @@
+Member: Hi, I'm having trouble registering and logging in to my online service account. I'm trying to access my account but it's not working. My member ID is MEM123456.
+
+Technical Support: I'd be happy to help you, MEM123456. Can you please tell me more about the issue you're experiencing? What error message are you seeing when you try to log in?
+
+Member: I'm not seeing an error message, it just says my username and password are incorrect. But I'm positive I'm entering the correct information.
+
+Technical Support: Okay, let's try to troubleshoot. Can you please confirm your username and password with me? Also, have you recently changed your password or updated any account information?
+
+Member: Yeah, I changed my password a few days ago. My username is my email address, and my password is... (pauses to enter password)
+
+Technical Support: Okay, thank you for confirming. I'm going to check on our end to see if there are any issues with your account. Can you please hold for just a moment?
+
+Member: Sure.
+
+Technical Support: Okay, I've checked on our end, and it looks like your account is locked due to too many incorrect login attempts. I'm going to go ahead and reset your account for you.
+
+Member: Okay, that makes sense. I did try to log in a few times before calling.
+
+Technical Support: I've reset your account, and you should be able to log in now. Can you please try logging in again and see if you're able to access your account?
+
+Member: Okay... (pauses) Yes, I'm in! Thank you so much for your help.
+
+Technical Support: You're welcome, MEM123456. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Technical Support: You're welcome. Have a great day!

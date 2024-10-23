@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM654321.
+
+Customer Support: Hello Emily, thank you for reaching out. Can you please tell me what type of specialist you're looking to see? 
+
+Member: I'm not sure, I just know I need to see someone about my knee pain. 
+
+Customer Support: Okay, I can help you with that. Can you please tell me what dates and times work best for you? 
+
+Member: How about next Wednesday afternoon? 
+
+Customer Support: Let me check the availability of our specialists. (pause) It looks like Dr. Smith, an orthopedic specialist, has an opening at 2 PM next Wednesday. Would you like to schedule an appointment with him?
+
+Member: That sounds good, but can you tell me a little bit more about Dr. Smith? 
+
+Customer Support: Certainly. Dr. Smith has been with our network for over 10 years and has excellent patient reviews. He specializes in sports medicine and joint pain. 
+
+Member: That sounds great. But I was really hoping to see a female doctor. 
+
+Customer Support: I understand. Let me check if any of our female specialists have availability. (pause) It looks like Dr. Johnson, also an orthopedic specialist, has an opening at 3 PM next Wednesday. Would you like to schedule an appointment with her?
+
+Member: That's a bit later than I was hoping for. Can you check if there are any other options? 
+
+Customer Support: (pause) I've checked and it looks like all of our specialists have limited availability next Wednesday. I can offer you an appointment with Dr. Smith at 2 PM or Dr. Johnson at 3 PM. Alternatively, I can also offer you an appointment with a different specialist on a different day. 
+
+Member: I'm not sure. Can I call back later and schedule something? 
+
+Customer Support: Of course, Emily. You're welcome to call back at your convenience. We're open 24/7. Would you like me to send you a reminder to call back? 
+
+Member: No, that's okay. I'll just call back later. Thanks for your help. 
+
+Customer Support: You're welcome, Emily. Have a great day.

@@ -1,0 +1,31 @@
+Member: Hi, I'm calling to request a case pre-authorization for a procedure I need to undergo. My name is Emily Wilson and my member ID is MEM123456.
+
+Customer Support: Hello Emily, thank you for reaching out to PA customer care. I'd be happy to assist you with your request. Can you please confirm your date of birth and contact information to verify your identity?
+
+Member: My date of birth is March 12, 1985, and my contact number is 555-1234.
+
+Customer Support: Thank you, Emily. I've verified your information. Can you please provide me with the details of the procedure you're requesting pre-authorization for, including the procedure code and the date of service?
+
+Member: The procedure code is XYZ123 and it's scheduled for March 25th. My doctor's name is Dr. Smith and his office is located at 123 Main St.
+
+Customer Support: Okay, I've got that information. Can you please hold for just a moment while I check on the eligibility and benefits for this procedure?
+
+Member: Sure, thank you.
+
+Customer Support: (after a brief hold) Okay, Emily, I've checked on the eligibility and benefits for this procedure. It looks like you have coverage for this procedure under your plan. However, I do need to let you know that there is a deductible that will need to be met before we can cover any costs.
+
+Member: Okay, that sounds good. How much is the deductible and how much will I need to pay out of pocket?
+
+Customer Support: Your deductible is $500 and you've already met $200 of it this year. So, you'll need to pay the remaining $300 before we can cover any costs. Additionally, you'll have a 20% coinsurance for this procedure.
+
+Member: That sounds good. What's the next step in the process?
+
+Customer Support: I'm going to go ahead and pre-authorize the procedure for you. You should receive a confirmation letter in the mail within the next 7-10 business days. In the meantime, I'll provide you with a reference number for your records. Your reference number is PREAUTH12345.
+
+Member: Great, thank you so much for your help! I really appreciate it.
+
+Customer Support: You're welcome, Emily. It was my pleasure to assist you. If you have any other questions or need further assistance, don't hesitate to reach out to us. Have a great day!
+
+Member: You too, thank you again!
+
+Customer Support: You're welcome. Goodbye!

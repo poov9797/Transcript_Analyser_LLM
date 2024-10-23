@@ -1,0 +1,27 @@
+Member: Hi, I'm having trouble logging in to my online service account. My member ID is MEM123456. 
+
+Customer Support: I'd be happy to help you, MEM123456. Can you tell me more about the issue you're experiencing? Are you getting an error message when you try to log in?
+
+Member: Yes, it says my username and password are incorrect, but I'm certain I'm entering them correctly. 
+
+Customer Support: I apologize for the inconvenience. Can you try clearing your browser's cache and cookies, and then attempt to log in again?
+
+Member: Okay, let me try that. (pause) I've cleared the cache and cookies, but I'm still getting the same error message.
+
+Customer Support: Okay, no problem. Can you try resetting your password? Sometimes, passwords can get locked out due to too many incorrect login attempts.
+
+Member: That's a good idea. I'll try resetting my password now. (pause) Okay, I've reset my password, but I'm still having trouble logging in.
+
+Customer Support: I'm going to go ahead and check on the status of your account. Can you please hold for just a moment?
+
+Member: Sure, I'll hold.
+
+Customer Support: Thank you for holding. I've checked on your account, and it looks like there was an issue with your account being locked out due to a security measure. I've gone ahead and unlocked your account, and you should now be able to log in successfully.
+
+Member: Great, thank you so much! I really appreciate your help.
+
+Customer Support: You're welcome, MEM123456. I'm glad I could assist you in getting back into your account. Is there anything else I can help you with today?
+
+Member: No, that's all. Thank you again for your help.
+
+Customer Support: You're welcome. Have a great day, and feel free to reach out if you need any further assistance.

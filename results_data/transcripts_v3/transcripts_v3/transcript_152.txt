@@ -1,0 +1,31 @@
+Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy only required a $20 copay for that service.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please confirm your member ID and the date of the service?
+
+Member: Yes, my member ID is MEM123456 and the service was on February 10th.
+
+Customer Support: Thank you. Can you please hold for a moment while I verify the information?
+
+(pause for 2 minutes)
+
+Customer Support: I apologize for the delay, MEM123456. I've checked on the copay amount for the service you received, and it appears that the $50 copay is correct according to our records.
+
+Member: But that's not what my policy says. I have a copy of my policy right here, and it says that I only have to pay $20 for that service.
+
+Customer Support: I understand your concern, MEM123456. However, sometimes there are exceptions or additional factors that may apply to a specific service. Can you please fax or email me a copy of your policy so I can review it further?
+
+Member: Okay, I can do that. But can you also check if there's any errors on your end? Maybe something got misprocessed.
+
+Customer Support: I've already checked our system, and everything appears to be in order. However, I'll be happy to re-review the information once I receive your policy documents.
+
+Member: Alright, I'll send them over. But can you at least give me an estimate of how long it'll take to resolve this issue?
+
+Customer Support: I apologize, MEM123456, but I wouldn't want to give you an inaccurate estimate. Once I receive your policy documents, I'll review them and get back to you as soon as possible.
+
+Member: Okay...I just want to get this resolved as soon as possible.
+
+Customer Support: I understand, MEM123456. I'll make sure to prioritize your case. Is there anything else I can assist you with in the meantime?
+
+Member: No, that's all for now. Thank you.
+
+Customer Support: You're welcome, MEM123456. I'll be in touch soon.
