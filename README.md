@@ -14,10 +14,10 @@ The project uses Large Language Models (LLMs) to process and analyze text data f
 
 Step 1:
 ```
-git clone https://github.com/your-username/transcript-analysis.git
+https://github.com/poov9797/Transcript_Analyser_LLM.git
 ```
 ```
-cd transcript-analysis
+cd Transcript_Analyser_LLM
 ```
 Step 2:
 ```
