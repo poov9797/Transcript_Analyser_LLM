@@ -30,3 +30,16 @@ Step 3:
 ```
 pip install -r requirements.txt
 ```
+Step 4:
+```
+cd scr
+```
+
+Step 5:
+```
+docker-compose up
+```
+
+Step 6:
+
+Run the Call_analysis_notebook.ipynb and the test.ipynb notebook in the test folder
